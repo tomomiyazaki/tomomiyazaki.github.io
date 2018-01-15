@@ -4,13 +4,16 @@
 
 I am an Assistant Professor at
 Department of Communication Engineering at
-Tohoku University, Japan.  
+Tohoku University, Japan.
 I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
+
+# Physical Address
 Emai: tomo (at) iic.ecei.tohoku.ac.jp  
 Tel: +81-22-795-7088  
-Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan  
-[Laboratory for Image Information Communications (In Japanese)](http://www.iic.ecei.tohoku.ac.jp/index.html)
+Fax: +81-22-795-7090  
+Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan（仙台市青葉区荒巻字青葉6-6-05 電気系1号館 621号室）  
+Website: [Laboratory for Image Information Communications (In Japanese)](http://www.iic.ecei.tohoku.ac.jp/index.html)
 
 # Research
 My research interests are in pattern recognition and image processing.
@@ -49,22 +52,25 @@ The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no
 
 
 # International Conference (Refereed)
+0. Chisato Sugawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+"Text Retrieval for Japanese Historical Documents by Image Generation,"  
+The 4th International Workshop on Historical Document Imaging and Processing (HIP), 2017
 
 0. Yoshito Nagaoka,  <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya and Shinichiro Omachi  
 "Text Detection by Faster R-CNN with Multiple Region Proposal Network,"  
-International Workshop on Camera Based Document Analysis and Recognition (CBDAR), 2017 (Accepted)
+International Workshop on Camera Based Document Analysis and Recognition (CBDAR), p.15-20, 2017  
 
 0. Yoshihiro Sugaya, Kento Takeda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "A Preliminary Study on Location Estimation without Preparation using Ceiling Signboard,"  
-International Conference on Indoor Positioning and Indoor Navigation (IPIN), 2017 (Accepted)
+International Conference on Indoor Positioning and Indoor Navigation (IPIN), 179_WIP, 2017  
 
 0. Ofusa Kenichiro, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Glyph-Based Data Augmentation for Accurate Kanji Character Recognition,"  
-International Conference on Document Analysis and Recognition (ICDAR), 2017 (Accepted)
+International Conference on Document Analysis and Recognition (ICDAR), p.597-602, 2017  
 
 0. Tomoya Honto, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Analysis of Floor Map Image in Information Board for Indoor Navigation,"  
-International Conference on Indoor Positioning and Indoor Navigation (IPIN), 2017 (Accepted)
+International Conference on Indoor Positioning and Indoor Navigation (IPIN), 144_RP, 2017  
 
 0. Kiyoshiro Sakai, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Development of Wearable System for Translation of Japanese Texts in the Environment,"  
@@ -165,6 +171,10 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 
 
 # Domestic (Non-refereed)
+0. 佐藤 大亮，<u>**宮崎 智**</u>，菅谷 至寛，大町 真一郎  
+"Determining Important Objects in Scene Image Using Neural Networks,"  
+平成29年度電気関係学会東北支部連合大会講演論文集, 2B12, 2017  
+[<font color=red>The Encouragement Prize Prize</font>](http://www.ecei.tohoku.ac.jp/ieee-sendai/index.php)
 
 0. 八重樫 日菜子, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎,  
 "スパースコーディングを用いた動画像符号化に関する検討,"  
@@ -301,10 +311,10 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 画像の認識・理解シンポジウム論文集, IS5-3, pp.1408-1413, 2008
 
 
-## Misc
+# Misc
 0. <u>**宮崎 智**</u>, 川村 思織, 菅谷 至寛, 大町 真一郎,  
 "ユーザ入力の補助線による情景画像からの高精度文字抽出",  
-画像ラボ, 2017 (To appear)
+画像ラボ, 2017年10月号
 
 
 # Exhibition
