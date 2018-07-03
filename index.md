@@ -22,7 +22,12 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Journal
-0. K. Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
+0. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
+"Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
+Fishes, Volume 3, Issue 3, p.26, 2018  
+[https://doi.org/10.3390/fishes3030026](https://doi.org/10.3390/fishes3030026)
+
+0. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation,"  
 IEEE Transactions on Emerging Topics in Computing (TETC), 2017
 
