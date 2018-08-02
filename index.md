@@ -22,10 +22,14 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Journal
+1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
+"Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
+Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018  
+[**[paper]**](http://www.mdpi.com/2224-2708/7/3/31)
+
 0. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
-Fishes, Volume 3, Issue 3, p.26, 2018  
-[https://doi.org/10.3390/fishes3030026](https://doi.org/10.3390/fishes3030026)
+Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026)
 
 0. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation,"  
