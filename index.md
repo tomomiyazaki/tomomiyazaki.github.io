@@ -21,7 +21,7 @@ Also structural data, such as chemical compounds, is my research target.
 # Journal
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
-Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper]**](http://www.mdpi.com/2224-2708/7/3/31)
+Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
 
 1. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
@@ -29,7 +29,7 @@ Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fish
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation,"  
-IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://ieeexplore.ieee.org/document/7904640/)
+IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Structural Data Recognition with Graph Model Boosting,"  
@@ -41,19 +41,19 @@ IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](htt
 
 1. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Efficient Coding for Video Including Text Using Image Generation,"  
-Journal of Information Processing, vol.24, no.2, pp.330-338, 2016  
+Journal of Information Processing, vol.24, no.2, pp.330-338, 2016 [**[paper]**](https://doi.org/10.2197/ipsjjip.24.330)  
 
 1. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎,  
 "補助線を用いた情景画像からの高精度文字領域抽出,"  
-画像電子学会誌, vol.45, no.1, pp.62-70, 2016  
+画像電子学会誌, vol.45, no.1, pp.62-70, 2016 [**[paper]**](https://doi.org/10.11371/iieej.45.62)  
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Representative Graph Generation for Graph-Based Character Recognition,"  
-The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011  
+The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)  
 
 1. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具,  
 "重み付き最小共通スーパーグラフを用いたシルエット画像認識,"  
-画像電子学会誌, vol.38, no.5, pp.640-647, 2009
+画像電子学会誌, vol.38, no.5, pp.640-647, 2009 [**[paper]**](https://doi.org/10.11371/iieej.38.640)
 
 
 # International Conference (Refereed)
@@ -64,11 +64,11 @@ The 2018 IEEE 23rd International Conference on Emerging Technologies and Factory
 
 1. Chisato Sugawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Retrieval for Japanese Historical Documents by Image Generation,"  
-The 4th International Workshop on Historical Document Imaging and Processing (HIP), 2017 [**[paper]**](https://dl.acm.org/citation.cfm?doid=3151509.3151512)
+The 4th International Workshop on Historical Document Imaging and Processing (HIP), 2017 [**[paper]**](https://doi.org/10.1145/3151509.3151512)
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Detection by Faster R-CNN with Multiple Region Proposal Network,"  
-International Workshop on Camera Based Document Analysis and Recognition (CBDAR), p.15-20, 2017 [**[paper]**](https://ieeexplore.ieee.org/document/8270290/)
+International Workshop on Camera Based Document Analysis and Recognition (CBDAR), p.15-20, 2017 [**[paper]**](https://doi.org/10.1109/ICDAR.2017.343)
 
 1. Yoshihiro Sugaya, Kento Takeda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "A Preliminary Study on Location Estimation without Preparation using Ceiling Signboard,"  
@@ -77,11 +77,11 @@ paper]**](http://www.ipin2017.org/ipinpapers/179/179.pdf)
 
 1. Ofusa Kenichiro, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Glyph-Based Data Augmentation for Accurate Kanji Character Recognition,"  
-International Conference on Document Analysis and Recognition (ICDAR), p.597-602, 2017 [**[paper]**](https://ieeexplore.ieee.org/document/8270034/)
+International Conference on Document Analysis and Recognition (ICDAR), p.597-602, 2017 [**[paper]**](https://doi.org/10.1109/ICDAR.2017.103)
 
 1. Tomoya Honto, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Analysis of Floor Map Image in Information Board for Indoor Navigation,"  
-International Conference on Indoor Positioning and Indoor Navigation (IPIN), 144_RP, 2017 [**[paper]**](https://ieeexplore.ieee.org/document/8115896/)
+International Conference on Indoor Positioning and Indoor Navigation (IPIN), 144_RP, 2017 [**[paper]**](https://doi.org/10.1109/IPIN.2017.8115896)
 
 1. Kiyoshiro Sakai, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Development of Wearable System for Translation of Japanese Texts in the Environment,"  
@@ -89,7 +89,7 @@ Proceedings of International Workshop on Frontiers of Computer Vison (FCV), OS3-
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Graph Model Boosting for Structural Data Recognition,"  
-Proceedings of International conference of Pattern Recognition (ICPR), p.1708-1713, 2016 [**[paper]**](https://ieeexplore.ieee.org/document/7899882/)  
+Proceedings of International conference of Pattern Recognition (ICPR), p.1708-1713, 2016 [**[paper]**](http://dx.doi.org/10.1109/ICPR.2016.7899882)  
 
 1. Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Improvement of Map Matching for Indoor Navigation Exploiting Photo of Information Board,"  
@@ -97,7 +97,7 @@ Proceedings of International Conference on Indoor Positioning and Indoor Navigat
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya Shinichiro Omachi,  
 "Adaptive Post Filter for Reducing Block Artifacts in High Efficiency Video Coding,"  
-International Conference on Multimedia Systems and Signal Processing, 2016 [**[paper]**](https://ieeexplore.ieee.org/document/7946029/)
+International Conference on Multimedia Systems and Signal Processing, 2016 [**[paper]**](http://dx.doi.org/10.1109/ICMSSP.2016.014)
 
 1. Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Indoor Localization by Map Matching Using One Image of Information Board,"  
@@ -115,11 +115,11 @@ Proceedings of The 22nd Korea-Japan joint Workshop on Frontiers of Computer Visi
 
 1. Shuhei Toba, Hirotaka Kudo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Ultra-low Resolution Character Recognition System with Pruning Mutual Subspace Method,"  
-Proceedings of International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.284-285, 2015
+Proceedings of International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.284-285, 2015 [**[paper]**](http://dx.doi.org/10.1109/ICCE-TW.2015.7216900)
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Estimation of Gazing Points in Environment Using Eye Tracker and Omnidirectional Camera,"  
-Proceedings of 2015 International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.47-48, 2015
+Proceedings of 2015 International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.47-48, 2015 [**[paper]**](http://dx.doi.org/10.1109/ICCE-TW.2015.7217003)
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Finding Stroke Parts for Rough Text Detection in Scene Images with Random Forest,"  
@@ -127,11 +127,11 @@ Proceedings of Joint Conference of IWAIT and IFMIA, 2015
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Fast Method for Extracting Representative Graph from Decorative Character Images,"  
-Proceedings of IEEE International Conference on Network Infrastructures and Digital Content (IEEE IC-NIDC), pp.219-223, 2010
+Proceedings of IEEE International Conference on Network Infrastructures and Digital Content (IEEE IC-NIDC), pp.219-223, 2010 [**[paper]**](http://dx.doi.org/10.1109/ICNIDC.2010.5657776)
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso,  
 "Extraction of Representative Structure of Decorative Character Images,"  
-Proceedings of the Chinese Conference on Pattern Recognition (CCPR) and the First CJK Joint Workshop on Pattern Recognition (CJKPR), vol.2, pp.944-948, 2009
+Proceedings of the Chinese Conference on Pattern Recognition (CCPR) and the First CJK Joint Workshop on Pattern Recognition (CJKPR), vol.2, pp.944-948, 2009 [**[paper]**](http://dx.doi.org/10.1109/CCPR.2009.5343952)
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso,  
 "Extraction of Structure of Silhouette Images by Weighted Minimum Common Supergraph,"  
