@@ -405,8 +405,9 @@ Systems (SOIM-GCOE2009), 2009
 
 
 # Funding
-1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No.16H02841, 2018-2021  [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
-1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No.16H02841, 2016-2019  [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
+1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No.16H02841, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
+1. Grant-in-Aid for Scientific Research (C), Co-Investigator, No.18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
+1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No.16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
 1. Grant-in-Aid for Research Activity start-up, Principal Investigator, No.15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
 
 
