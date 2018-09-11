@@ -58,13 +58,12 @@ The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no
 
 # International Conference (Refereed)
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
-"Mackerel Classification using Global and Local
-Features,"  
+"Mackerel Classification using Global and Local Features,"  
 The 2018 IEEE 23rd International Conference on Emerging Technologies and Factory Automation (ETFA), p.1209-1212, 2018
 
 1. Chisato Sugawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Retrieval for Japanese Historical Documents by Image Generation,"  
-The 4th International Workshop on Historical Document Imaging and Processing (HIP), 2017 [**[paper]**](https://doi.org/10.1145/3151509.3151512)
+The 4th International Workshop on Historical Document Imaging and Processing (HIP), p.19-24, 2017 [**[paper]**](https://doi.org/10.1145/3151509.3151512)
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Detection by Faster R-CNN with Multiple Region Proposal Network,"  
@@ -149,7 +148,7 @@ International Workshop on Emerging ICT, 2016
 "Detection of a Key String from Scene Images Using Saliency,"  
 International Workshop on Emerging ICT, 2016
 
-1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,
+1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Rough Detection of Text in Scene Images by Finding Stroke Parts,"  
 Proceedings of the International Workshop on Electronics and Communications, Oral Session 4, 2014
 
@@ -161,9 +160,10 @@ Proceedings of the International Workshop on Electronics and Communications, Ora
 "Extracting Representative Graph of Decorative Character Images by Random Method,"   
 Proceedings of the Third Student Organizing International Mini-Conference on Information Electronics Systems, pp.67–68, 2010
 
-1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, “Iterative Extraction of Representative Graph Using
-Common Features from Decorative Character Images,” Proceedings of the Second
-Student Organizing International Mini-Conference on Information Electronics Systems,
+1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
+“Iterative Extraction of Representative Graph Using
+Common Features from Decorative Character Images,”  
+Proceedings of the Second Student Organizing International Mini-Conference on Information Electronics Systems,
 pp.85–86, 2009
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso,  
@@ -201,7 +201,7 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 1. 佐藤 大亮, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
 "Determining Important Objects in Scene Image Using Neural Networks,"  
 平成29年度電気関係学会東北支部連合大会講演論文集, 2B12, 2017  
-[**[<font color=red>The Encouragement Prize Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/index.php)
+[**[<font color=red>The Encouragement Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/index.php)
 
 1. 八重樫 日菜子, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎,  
 "スパースコーディングを用いた動画像符号化に関する検討,"  
@@ -239,14 +239,14 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 "Graph Learning with Quadratic Programming in Consideration of Class Diversity,"  
 画像の認識・理解シンポジウム (MIRU), PS2-42, 2016
 
-1. 酒井 利晃, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎,
+1. 酒井 利晃, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎,  
 "非線形最小化によるグラフのモデルの構築と画像認識,"  
 電子情報通信学会2016年総合大会講演論文集, D-12-96, 2016
 
 1. Shuto Shinbo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Accuracy Improvement of Character Recognition Using Generated Samples by Morphing,"  
 平成27年度電気関係学会東北支部連合大会講演論文集, 2A12, 2015  
-[<font color=red>The Best Paper Prize</font>](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2015.html)
+[**[<font color=red>The Best Paper Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2015.html)
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Gaze Detection in Omnidirectional Scene by Iterative Image Matching,"  
