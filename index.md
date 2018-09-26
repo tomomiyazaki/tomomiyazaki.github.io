@@ -19,6 +19,10 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Journal
+1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
+"Structural Data Recognition with Graph Model Boosting,"  
+IEEE Access, 2018
+
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
 Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
@@ -30,10 +34,6 @@ Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fish
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation,"  
 IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
-
-1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
-"Structural Data Recognition with Graph Model Boosting,"  
-[arXiv: 1703.02662](https://arxiv.org/abs/1703.02662), 2017
 
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise,  
 "Automatic Generation of Typographic Font from a Small Font Subset,"  
@@ -342,6 +342,10 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 1. <u>**宮崎 智**</u>, 川村 思織, 菅谷 至寛, 大町 真一郎,  
 "ユーザ入力の補助線による情景画像からの高精度文字抽出",  
 画像ラボ, 2017年10月号
+
+1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
+"Structural Data Recognition with Graph Model Boosting,"  
+[arXiv: 1703.02662](https://arxiv.org/abs/1703.02662), 2017
 
 
 # Exhibition
