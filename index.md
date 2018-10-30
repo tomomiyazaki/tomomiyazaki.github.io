@@ -21,7 +21,7 @@ Also structural data, such as chemical compounds, is my research target.
 # Journal
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi,  
 "Structural Data Recognition with Graph Model Boosting,"  
-IEEE Access, 2018
+IEEE Access, 2018　[**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi,  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
