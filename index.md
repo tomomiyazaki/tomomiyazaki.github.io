@@ -23,22 +23,17 @@ Also structural data, such as chemical compounds, is my research target.
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
 IIEEJ Transactions on Image Electronics and Visual Computing, 2019 (to appear)
 
-1. 菅谷 至寛, 坂井 清士郎, <u>**宮崎 智**</u>, 大町 真一郎  
-"環境中文字認識を利用した情報提供アプリケーションのための
-ウェアラブルシステムの開発"  
-画像電子学誌 第48巻 第2号, 2019 (to appear)
-
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
 IEEE Access, 2018　[**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
-Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
+MDPI Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
 
 1. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
-Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026)
+MDPI Journal of Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026)
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
@@ -52,13 +47,19 @@ IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](htt
 "Efficient Coding for Video Including Text Using Image Generation"  
 Journal of Information Processing, vol.24, no.2, pp.330-338, 2016 [**[paper]**](https://doi.org/10.2197/ipsjjip.24.330)  
 
-1. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
-"補助線を用いた情景画像からの高精度文字領域抽出"  
-画像電子学会誌, vol.45, no.1, pp.62-70, 2016 [**[paper]**](https://doi.org/10.11371/iieej.45.62)  
-
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Representative Graph Generation for Graph-Based Character Recognition"  
 The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)  
+
+Japanese:
+1. 菅谷 至寛, 坂井 清士郎, <u>**宮崎 智**</u>, 大町 真一郎  
+"環境中文字認識を利用した情報提供アプリケーションのための
+ウェアラブルシステムの開発"  
+画像電子学誌 第48巻 第2号, 2019 (to appear)
+
+1. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+"補助線を用いた情景画像からの高精度文字領域抽出"  
+画像電子学会誌, vol.45, no.1, pp.62-70, 2016 [**[paper]**](https://doi.org/10.11371/iieej.45.62)  
 
 1. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
 "重み付き最小共通スーパーグラフを用いたシルエット画像認識"  
@@ -428,6 +429,7 @@ Systems (SOIM-GCOE2009), 2009
 
 
 # Funding
+1. Grant-in-Aid for Scientific Research (C), Principal Investigator, No19K11848., 2019-2021 [**[URL]**]()
 1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No.16H02841, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
 1. Grant-in-Aid for Scientific Research (C), Co-Investigator, No.18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
 1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No.16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
