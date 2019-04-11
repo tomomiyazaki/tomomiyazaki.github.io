@@ -25,7 +25,7 @@ IIEEJ Transactions on Image Electronics and Visual Computing, 2019 (to appear)
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
-IEEE Access, 2018　[**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
+IEEE Access, vol.6, pp.63606-63618, 2018　[**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
