@@ -19,6 +19,10 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Journal
+1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
+"Automatic Mackerel Sorting Machine using Global and Local Features"  
+IEEE Access (to appear)
+
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
 IIEEJ Transactions on Image Electronics and Visual Computing, 2019 (to appear)
