@@ -6,6 +6,7 @@ I am an Assistant Professor at Department of Communication Engineering at Tohoku
 
 <a href="https://researchmap.jp/7000017763/"><img src="./imgs/researchmap.gif"></a>  
 <a href="https://orcid.org/0000-0001-5205-0542"><img src="./imgs/orcid.png" width=70></a>  
+<a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/kaken.png" height=30></a>  
 
 <a href="https://github.com/tomomiyazaki"><img src="./imgs/GitHub-Mark-120px-plus.png" height=70></a>
 <a href="https://www.facebook.com/tomo.miyazaki.16"><img src="./imgs/f_logo_RGB-Grey_58.png" height=70></a>
