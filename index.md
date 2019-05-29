@@ -4,13 +4,19 @@
 
 I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
+<a href="https://researchmap.jp/7000017763/"><img src="./imgs/researchmap.gif"></a>  
+<a href="https://orcid.org/0000-0001-5205-0542"><img src="./imgs/orcid.png" width=70></a>  
+
+<a href="https://github.com/tomomiyazaki"><img src="./imgs/GitHub-Mark-120px-plus.png" height=70></a>
+<a href="https://www.facebook.com/tomo.miyazaki.16"><img src="./imgs/f_logo_RGB-Grey_58.png" height=70></a>
+<a href="http://www.iic.ecei.tohoku.ac.jp/index.html"><img src="./imgs/iiclab-dark.png" height=70></a>
 
 # Physical Address
 Emai: tomo (at) iic.ecei.tohoku.ac.jp  
 Tel: +81-22-795-7088  
 Fax: +81-22-795-7090  
 Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan（仙台市青葉区荒巻字青葉6-6-05 電気系1号館 621号室）  
-Website: [Laboratory for Image Information Communications (In Japanese)](http://www.iic.ecei.tohoku.ac.jp/index.html)
+Lab Website: [Laboratory for Image Information Communications (In Japanese)](http://www.iic.ecei.tohoku.ac.jp/index.html)
 
 # Research
 My research interests are in pattern recognition and image processing.
@@ -19,13 +25,17 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Journal
-1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
-"Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access (to appear)
+1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise  
+"Automatic Generation of Typographic Font from a Small Font Subset"  
+IEEE Computer Graphics and Applications  (Conditinally Accepted)
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
-IIEEJ Transactions on Image Electronics and Visual Computing, 2019 (to appear)
+IIEEJ Transactions on Image Electronics and Visual Computing, 2019 (in press)
+
+1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
+"Automatic Mackerel Sorting Machine using Global and Local Features"  
+IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554)  
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
@@ -41,11 +51,7 @@ MDPI Journal of Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
-IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
-
-1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise  
-"Automatic Generation of Typographic Font from a Small Font Subset"  
-[arXiv: 1701.05703](https://arxiv.org/abs/1701.05703), 2017
+IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) (in press)
 
 1. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Efficient Coding for Video Including Text Using Image Generation"  
@@ -59,7 +65,7 @@ Japanese:
 1. 菅谷 至寛, 坂井 清士郎, <u>**宮崎 智**</u>, 大町 真一郎  
 "環境中文字認識を利用した情報提供アプリケーションのための
 ウェアラブルシステムの開発"  
-画像電子学誌 第48巻 第2号, 2019 (to appear)
+画像電子学誌 第48巻 第2号, 2019 (in press)
 
 1. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
 "補助線を用いた情景画像からの高精度文字領域抽出"  
@@ -373,6 +379,9 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 "Structural Data Recognition with Graph Model Boosting"  
 [arXiv: 1703.02662](https://arxiv.org/abs/1703.02662), 2017
 
+1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise  
+"Automatic Generation of Typographic Font from a Small Font Subset"  
+[arXiv: 1701.05703](https://arxiv.org/abs/1701.05703), 2017
 
 # Exhibition
 1. 全方位文字認識技術（全方位に存在する文字を高精度かつリアルタイムに認識するデモシス
@@ -404,14 +413,19 @@ Tohoku-Section Joint Convention Record of Institutes of Electrical and Informati
 # Patent
 1. 菅谷 至寛, 外崎 健人, 大町 真一郎, 宮崎 智,  
 "情報端末、位置推定方法、および位置推定プログラム"  
-特願2016-056139
+特願2016-056139，特開2017-173001
+
+2. 大町真一郎, 長岡禎人, 宮崎 智, 菅谷至寛, 山下龍麿, 菅原道晴, 小野寺政行  
+"魚選別装置、魚選別方法、魚種類推定装置、及び、魚種類推定方法"  
+特願2018-018601
 
 
 # Professional Service
 1. Program Committee Member, The 16th International Conference on
 Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
 1. Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
-1. Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/), [**[2017]**](http://events.unifr.ch/hip2017/people/)
+1. Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/) [**[2017]**](http://events.unifr.ch/hip2017/people/)
+[**[2019]**](https://www.primaresearch.org/hip2019/people)
 1. Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
 Systems (SOIM-GCOE2009), 2009
 1. 専門委員, パターン認識・メディア理解研究専門委員会（PRMU), 2015-
@@ -433,11 +447,11 @@ Systems (SOIM-GCOE2009), 2009
 
 
 # Funding
-1. Grant-in-Aid for Scientific Research (C), Principal Investigator, No19K11848., 2019-2021 [**[URL]**]()
-1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No.16H02841, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
-1. Grant-in-Aid for Scientific Research (C), Co-Investigator, No.18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
-1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No.16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
-1. Grant-in-Aid for Research Activity start-up, Principal Investigator, No.15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
+1. Grant-in-Aid for Scientific Research (C), Principal Investigator, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
+1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No. 16H02841, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
+1. Grant-in-Aid for Scientific Research (C), Co-Investigator, No. 18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
+1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No. 16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
+1. Grant-in-Aid for Research Activity start-up, Principal Investigator, No. 15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
 
 
 <!--
