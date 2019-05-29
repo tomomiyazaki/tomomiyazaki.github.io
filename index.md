@@ -420,7 +420,7 @@ Tohoku-Section Joint Convention Record of Institutes of Electrical and Informati
 特願2018-018601
 
 
-# Professional Service
+# Professional Activity
 1. Program Committee Member, The 16th International Conference on
 Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
 1. Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
@@ -428,9 +428,9 @@ Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.
 [**[2019]**](https://www.primaresearch.org/hip2019/people)
 1. Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
 Systems (SOIM-GCOE2009), 2009
-1. 専門委員, パターン認識・メディア理解研究専門委員会（PRMU), 2015-
-
-
+1. 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015- [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019)
+1. 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019- [**[URL]**](https://www.ieice.org/iss/ie/jpn/)
+1. 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4-2020.3 [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
 
 # Review Experience
 1. IEEE Transaction on Image Processing (TIP)
