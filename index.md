@@ -26,19 +26,19 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Selected Publication
-1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
++ <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
 IEEE Computer Graphics and Applications  (Conditinally Accepted)
 
-1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
++ Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
 IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554)  
 
-1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
++ <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
 IEEE Access, vol.6, pp.63606-63618, 2018　[**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)
 
-1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
++ Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
 IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) (in press)
 
