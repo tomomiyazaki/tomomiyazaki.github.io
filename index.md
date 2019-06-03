@@ -28,7 +28,7 @@ Also structural data, such as chemical compounds, is my research target.
 # Selected Publication
 + <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications  (Conditinally Accepted)
+IEEE Computer Graphics and Applications, 2019 (Minor Revision)
 
 + Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
@@ -83,7 +83,7 @@ Systems (SOIM-GCOE2009), 2009
 1. 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015- [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019)
 1. 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019- [**[URL]**](https://www.ieice.org/iss/ie/jpn/)
 1. 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4-2020.3 [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
-1. MIRU 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
+1. MIRU2019 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
 
 # Review Experience
 1. IEEE Transaction on Image Processing (TIP)
