@@ -32,11 +32,11 @@ IEEE Computer Graphics and Applications, 2019 (Minor Revision)
 
 + Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554)  
+IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)  
 
 + <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
-IEEE Access, vol.6, pp.63606-63618, 2018　[**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)
+IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
 
 + Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
