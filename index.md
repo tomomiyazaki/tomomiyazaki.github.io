@@ -80,8 +80,8 @@ Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.
 [**[2019]**](https://www.primaresearch.org/hip2019/people)
 1. Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
 Systems (SOIM-GCOE2009), 2009
-1. 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015- [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019)
-1. 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019- [**[URL]**](https://www.ieice.org/iss/ie/jpn/)
+1. 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021 [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019) [**[Letter]**](./imgs/Letter_PRMU.pdf)
+1. 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021 [**[URL]**](https://www.ieice.org/iss/ie/jpn/) [**[Letter]**](./imgs/Letter_IE.pdf)
 1. 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4-2020.3 [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
 1. MIRU2019 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
 
@@ -101,7 +101,7 @@ Systems (SOIM-GCOE2009), 2009
 
 # Funding
 1. Grant-in-Aid for Scientific Research (C), Principal Investigator, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
-1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No. 16H02841, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
+1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No. 18K19772, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
 1. Grant-in-Aid for Scientific Research (C), Co-Investigator, No. 18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
 1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No. 16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
 1. Grant-in-Aid for Research Activity start-up, Principal Investigator, No. 15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
