@@ -4,13 +4,16 @@
 
 I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
-<a href="https://researchmap.jp/7000017763/"><img src="./imgs/researchmap.gif"></a>  
-<a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>  
 
+<a href="https://researchmap.jp/7000017763/"><img src="./imgs/researchmap.gif"></a>
+<a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>
+
+<a href="https://scholar.google.co.jp/citations?user=Utjz8l8AAAAJ&hl=ja"><img src="./imgs/google_96px.png" height=70></a>
 <a href="https://orcid.org/0000-0001-5205-0542"><img src="./imgs/ORCIDiD_icon64x64.png" height=70></a>
 <a href="https://github.com/tomomiyazaki"><img src="./imgs/GitHub-Mark-120px-plus.png" height=70></a>
 <a href="https://www.facebook.com/tomo.miyazaki.16"><img src="./imgs/f_logo_RGB-Grey_58.png" height=70></a>
 <a href="http://www.iic.ecei.tohoku.ac.jp/index.html"><img src="./imgs/iiclab-dark.png" height=70></a>
+
 
 # Physical Address
 Emai: tomo (at) iic.ecei.tohoku.ac.jp  
