@@ -7,7 +7,7 @@ IEEE Computer Graphics and Applications, 2019 (Minor Revision)
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
-IIEEJ Transactions on Image Electronics and Visual Computing, 2019 (in press)
+IIEEJ Transactions on Image Electronics and Visual Computing, vol.7, no.1, p.2-12, 2019 [**[paper]**](https://www.iieej.org/journal-of-the-society/)
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
