@@ -347,6 +347,10 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 
 
 # Misc
+1. 北本 朝展, カラーヌワット タリン, <u>**宮崎 智**</u>, 山本　和明  
+"文字データの分析――機械学習によるくずし字認識の可能性とそのインパクト――"  
+電子情報通信学会会誌, Vol.102 No.6pp.563-568, 2019 [**[paper]**](https://www.journal.ieice.org/summary.php?id=k102_6_563&year=2019&lang=J)   
+
 1. <u>**宮崎 智**</u>, 川村 思織, 菅谷 至寛, 大町 真一郎  
 "ユーザ入力の補助線による情景画像からの高精度文字抽出",  
 画像ラボ, 2017年10月号

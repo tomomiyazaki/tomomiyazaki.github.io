@@ -1,113 +1,486 @@
 <!DOCTYPE html>
-<html>
+<html data-markdown-preview-plus-context="html-export">
   <head>
-      <meta charset="utf-8" />
-      <title>publications</title>
-      <style>.markdown-preview:not([data-use-github-style]) { padding: 2em; font-size: 1.2em; color: rgb(85, 85, 85); background-color: white; overflow: auto; }
-.markdown-preview:not([data-use-github-style]) > :first-child { margin-top: 0px; }
-.markdown-preview:not([data-use-github-style]) h1, .markdown-preview:not([data-use-github-style]) h2, .markdown-preview:not([data-use-github-style]) h3, .markdown-preview:not([data-use-github-style]) h4, .markdown-preview:not([data-use-github-style]) h5, .markdown-preview:not([data-use-github-style]) h6 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0.5em; color: rgb(3, 3, 3); }
-.markdown-preview:not([data-use-github-style]) h1 { font-size: 2.4em; font-weight: 300; }
-.markdown-preview:not([data-use-github-style]) h2 { font-size: 1.8em; font-weight: 400; }
-.markdown-preview:not([data-use-github-style]) h3 { font-size: 1.5em; font-weight: 500; }
-.markdown-preview:not([data-use-github-style]) h4 { font-size: 1.2em; font-weight: 600; }
-.markdown-preview:not([data-use-github-style]) h5 { font-size: 1.1em; font-weight: 600; }
-.markdown-preview:not([data-use-github-style]) h6 { font-size: 1em; font-weight: 600; }
-.markdown-preview:not([data-use-github-style]) strong { color: rgb(3, 3, 3); }
-.markdown-preview:not([data-use-github-style]) del { color: rgb(126, 126, 126); }
-.markdown-preview:not([data-use-github-style]) a, .markdown-preview:not([data-use-github-style]) a code { color: black; }
-.markdown-preview:not([data-use-github-style]) img { max-width: 100%; }
-.markdown-preview:not([data-use-github-style]) > p { margin-top: 0px; margin-bottom: 1.5em; }
-.markdown-preview:not([data-use-github-style]) > ul, .markdown-preview:not([data-use-github-style]) > ol { margin-bottom: 1.5em; }
-.markdown-preview:not([data-use-github-style]) blockquote { margin: 1.5em 0px; font-size: inherit; color: rgb(126, 126, 126); border-color: rgb(214, 214, 214); border-width: 4px; }
-.markdown-preview:not([data-use-github-style]) hr { margin: 3em 0px; border-top: 2px dashed rgb(214, 214, 214); background: none; }
-.markdown-preview:not([data-use-github-style]) table { margin: 1.5em 0px; }
-.markdown-preview:not([data-use-github-style]) th { color: rgb(3, 3, 3); }
-.markdown-preview:not([data-use-github-style]) th, .markdown-preview:not([data-use-github-style]) td { padding: 0.66em 1em; border: 1px solid rgb(214, 214, 214); }
-.markdown-preview:not([data-use-github-style]) code { color: rgb(3, 3, 3); background-color: rgb(240, 240, 240); }
-.markdown-preview:not([data-use-github-style]) pre.editor-colors { margin: 1.5em 0px; padding: 1em; font-size: 0.92em; border-radius: 3px; background-color: rgb(245, 245, 245); }
-.markdown-preview:not([data-use-github-style]) kbd { color: rgb(3, 3, 3); border-width: 1px 1px 2px; border-style: solid; border-color: rgb(214, 214, 214) rgb(214, 214, 214) rgb(199, 199, 199); border-image: initial; background-color: rgb(240, 240, 240); }
-.markdown-preview[data-use-github-style] { font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif; line-height: 1.6; word-wrap: break-word; padding: 30px; font-size: 16px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); overflow: scroll; }
-.markdown-preview[data-use-github-style] > :first-child { margin-top: 0px !important; }
-.markdown-preview[data-use-github-style] > :last-child { margin-bottom: 0px !important; }
-.markdown-preview[data-use-github-style] a:not([href]) { color: inherit; text-decoration: none; }
-.markdown-preview[data-use-github-style] .absent { color: rgb(204, 0, 0); }
-.markdown-preview[data-use-github-style] .anchor { position: absolute; top: 0px; left: 0px; display: block; padding-right: 6px; padding-left: 30px; margin-left: -30px; }
-.markdown-preview[data-use-github-style] .anchor:focus { outline: none; }
-.markdown-preview[data-use-github-style] h1, .markdown-preview[data-use-github-style] h2, .markdown-preview[data-use-github-style] h3, .markdown-preview[data-use-github-style] h4, .markdown-preview[data-use-github-style] h5, .markdown-preview[data-use-github-style] h6 { position: relative; margin-top: 1em; margin-bottom: 16px; font-weight: bold; line-height: 1.4; }
-.markdown-preview[data-use-github-style] h1 .octicon-link, .markdown-preview[data-use-github-style] h2 .octicon-link, .markdown-preview[data-use-github-style] h3 .octicon-link, .markdown-preview[data-use-github-style] h4 .octicon-link, .markdown-preview[data-use-github-style] h5 .octicon-link, .markdown-preview[data-use-github-style] h6 .octicon-link { display: none; color: rgb(0, 0, 0); vertical-align: middle; }
-.markdown-preview[data-use-github-style] h1:hover .anchor, .markdown-preview[data-use-github-style] h2:hover .anchor, .markdown-preview[data-use-github-style] h3:hover .anchor, .markdown-preview[data-use-github-style] h4:hover .anchor, .markdown-preview[data-use-github-style] h5:hover .anchor, .markdown-preview[data-use-github-style] h6:hover .anchor { padding-left: 8px; margin-left: -30px; text-decoration: none; }
-.markdown-preview[data-use-github-style] h1:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h2:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h3:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h4:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h5:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h6:hover .anchor .octicon-link { display: inline-block; }
-.markdown-preview[data-use-github-style] h1 tt, .markdown-preview[data-use-github-style] h2 tt, .markdown-preview[data-use-github-style] h3 tt, .markdown-preview[data-use-github-style] h4 tt, .markdown-preview[data-use-github-style] h5 tt, .markdown-preview[data-use-github-style] h6 tt, .markdown-preview[data-use-github-style] h1 code, .markdown-preview[data-use-github-style] h2 code, .markdown-preview[data-use-github-style] h3 code, .markdown-preview[data-use-github-style] h4 code, .markdown-preview[data-use-github-style] h5 code, .markdown-preview[data-use-github-style] h6 code { font-size: inherit; }
-.markdown-preview[data-use-github-style] h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
-.markdown-preview[data-use-github-style] h1 .anchor { line-height: 1; }
-.markdown-preview[data-use-github-style] h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
-.markdown-preview[data-use-github-style] h2 .anchor { line-height: 1; }
-.markdown-preview[data-use-github-style] h3 { font-size: 1.5em; line-height: 1.43; }
-.markdown-preview[data-use-github-style] h3 .anchor { line-height: 1.2; }
-.markdown-preview[data-use-github-style] h4 { font-size: 1.25em; }
-.markdown-preview[data-use-github-style] h4 .anchor { line-height: 1.2; }
-.markdown-preview[data-use-github-style] h5 { font-size: 1em; }
-.markdown-preview[data-use-github-style] h5 .anchor { line-height: 1.1; }
-.markdown-preview[data-use-github-style] h6 { font-size: 1em; color: rgb(119, 119, 119); }
-.markdown-preview[data-use-github-style] h6 .anchor { line-height: 1.1; }
-.markdown-preview[data-use-github-style] p, .markdown-preview[data-use-github-style] blockquote, .markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol, .markdown-preview[data-use-github-style] dl, .markdown-preview[data-use-github-style] table, .markdown-preview[data-use-github-style] pre { margin-top: 0px; margin-bottom: 16px; }
-.markdown-preview[data-use-github-style] hr { height: 4px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border: 0px none; }
-.markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol { padding-left: 2em; }
-.markdown-preview[data-use-github-style] ul.no-list, .markdown-preview[data-use-github-style] ol.no-list { padding: 0px; list-style-type: none; }
-.markdown-preview[data-use-github-style] ul ul, .markdown-preview[data-use-github-style] ul ol, .markdown-preview[data-use-github-style] ol ol, .markdown-preview[data-use-github-style] ol ul { margin-top: 0px; margin-bottom: 0px; }
-.markdown-preview[data-use-github-style] li > p { margin-top: 16px; }
-.markdown-preview[data-use-github-style] dl { padding: 0px; }
-.markdown-preview[data-use-github-style] dl dt { padding: 0px; margin-top: 16px; font-size: 1em; font-style: italic; font-weight: bold; }
-.markdown-preview[data-use-github-style] dl dd { padding: 0px 16px; margin-bottom: 16px; }
-.markdown-preview[data-use-github-style] blockquote { padding: 0px 15px; color: rgb(119, 119, 119); border-left: 4px solid rgb(221, 221, 221); }
-.markdown-preview[data-use-github-style] blockquote > :first-child { margin-top: 0px; }
-.markdown-preview[data-use-github-style] blockquote > :last-child { margin-bottom: 0px; }
-.markdown-preview[data-use-github-style] table { display: block; width: 100%; overflow: auto; word-break: keep-all; }
-.markdown-preview[data-use-github-style] table th { font-weight: bold; }
-.markdown-preview[data-use-github-style] table th, .markdown-preview[data-use-github-style] table td { padding: 6px 13px; border: 1px solid rgb(221, 221, 221); }
-.markdown-preview[data-use-github-style] table tr { background-color: rgb(255, 255, 255); border-top: 1px solid rgb(204, 204, 204); }
-.markdown-preview[data-use-github-style] table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
-.markdown-preview[data-use-github-style] img { max-width: 100%; box-sizing: border-box; }
-.markdown-preview[data-use-github-style] .emoji { max-width: none; }
-.markdown-preview[data-use-github-style] span.frame { display: block; overflow: hidden; }
-.markdown-preview[data-use-github-style] span.frame > span { display: block; float: left; width: auto; padding: 7px; margin: 13px 0px 0px; overflow: hidden; border: 1px solid rgb(221, 221, 221); }
-.markdown-preview[data-use-github-style] span.frame span img { display: block; float: left; }
-.markdown-preview[data-use-github-style] span.frame span span { display: block; padding: 5px 0px 0px; clear: both; color: rgb(51, 51, 51); }
-.markdown-preview[data-use-github-style] span.align-center { display: block; overflow: hidden; clear: both; }
-.markdown-preview[data-use-github-style] span.align-center > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: center; }
-.markdown-preview[data-use-github-style] span.align-center span img { margin: 0px auto; text-align: center; }
-.markdown-preview[data-use-github-style] span.align-right { display: block; overflow: hidden; clear: both; }
-.markdown-preview[data-use-github-style] span.align-right > span { display: block; margin: 13px 0px 0px; overflow: hidden; text-align: right; }
-.markdown-preview[data-use-github-style] span.align-right span img { margin: 0px; text-align: right; }
-.markdown-preview[data-use-github-style] span.float-left { display: block; float: left; margin-right: 13px; overflow: hidden; }
-.markdown-preview[data-use-github-style] span.float-left span { margin: 13px 0px 0px; }
-.markdown-preview[data-use-github-style] span.float-right { display: block; float: right; margin-left: 13px; overflow: hidden; }
-.markdown-preview[data-use-github-style] span.float-right > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: right; }
-.markdown-preview[data-use-github-style] code, .markdown-preview[data-use-github-style] tt { padding: 0.2em 0px; margin: 0px; font-size: 85%; background-color: rgba(0, 0, 0, 0.04); border-radius: 3px; }
-.markdown-preview[data-use-github-style] code::before, .markdown-preview[data-use-github-style] tt::before, .markdown-preview[data-use-github-style] code::after, .markdown-preview[data-use-github-style] tt::after { letter-spacing: -0.2em; content: " "; }
-.markdown-preview[data-use-github-style] code br, .markdown-preview[data-use-github-style] tt br { display: none; }
-.markdown-preview[data-use-github-style] del code { text-decoration: inherit; }
-.markdown-preview[data-use-github-style] pre > code { padding: 0px; margin: 0px; font-size: 100%; word-break: normal; white-space: pre; background: transparent; border: 0px; }
-.markdown-preview[data-use-github-style] .highlight { margin-bottom: 16px; }
-.markdown-preview[data-use-github-style] .highlight pre, .markdown-preview[data-use-github-style] pre { padding: 16px; overflow: auto; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border-radius: 3px; }
-.markdown-preview[data-use-github-style] .highlight pre { margin-bottom: 0px; word-break: normal; }
-.markdown-preview[data-use-github-style] pre { word-wrap: normal; }
-.markdown-preview[data-use-github-style] pre code, .markdown-preview[data-use-github-style] pre tt { display: inline; max-width: initial; padding: 0px; margin: 0px; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0px; }
-.markdown-preview[data-use-github-style] pre code::before, .markdown-preview[data-use-github-style] pre tt::before, .markdown-preview[data-use-github-style] pre code::after, .markdown-preview[data-use-github-style] pre tt::after { content: normal; }
-.markdown-preview[data-use-github-style] kbd { display: inline-block; padding: 3px 5px; font-size: 11px; line-height: 10px; color: rgb(85, 85, 85); vertical-align: middle; background-color: rgb(252, 252, 252); border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(187, 187, 187); border-image: initial; border-radius: 3px; box-shadow: rgb(187, 187, 187) 0px -1px 0px inset; }
-.markdown-preview[data-use-github-style] a { color: rgb(51, 122, 183); }
-.markdown-preview[data-use-github-style] code { color: inherit; }
-.markdown-preview[data-use-github-style] pre.editor-colors { padding: 0.8em 1em; margin-bottom: 1em; font-size: 0.85em; border-radius: 4px; overflow: auto; }
-.scrollbars-visible-always .markdown-preview pre.editor-colors .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors .horizontal-scrollbar { visibility: hidden; }
-.scrollbars-visible-always .markdown-preview pre.editor-colors:hover .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors:hover .horizontal-scrollbar { visibility: visible; }
-.markdown-preview .task-list-item-checkbox { position: absolute; margin: 0.25em 0px 0px -1.4em; }
+    <meta charset="utf-8" />
+    <title>publications</title><script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    jax: ["input/TeX","output/HTML-CSS"],
+    extensions: ["[a11y]/accessibility-menu.js"],
+    'HTML-CSS': {
+      availableFonts: [],
+      webFont: 'TeX',
+      undefinedFamily: "serif",
+      mtextFontInherit: true,
+    },
+    TeX: {
+  "Macros": {},
+  "equationNumbers": {},
+  "extensions": [
+    "AMSmath.js",
+    "AMSsymbols.js",
+    "noErrors.js",
+    "noUndefined.js"
+  ]
+},
+    showMathMenu: true
+  });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js"></script>
+    <style>.emoji {
+  max-width: 1em !important;
+}
+del {
+  text-decoration: none;
+  position: relative;
+}
+del::after {
+  border-bottom: 1px solid black;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+ul.contains-task-list li.task-list-item {
+  position: relative;
+  list-style-type: none;
+}
+ul.contains-task-list li.task-list-item input.task-list-item-checkbox {
+  position: absolute;
+  transform: translateX(-100%);
+  width: 26px;
+}
+span.critic.comment {
+  position: relative;
+}
+span.critic.comment::before {
+  content: '\1f4ac';
+  position: initial;
+}
+span.critic.comment > span {
+  display: none;
+}
+span.critic.comment:hover > span {
+  display: initial;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: 1px solid;
+  border-radius: 5px;
+  max-height: 4em;
+  overflow: auto;
+}
+span.critic.comment:focus > span {
+  display: initial;
+  text-decoration: underline;
+  position: initial;
+  top: auto;
+  left: auto;
+  border: initial;
+  border-radius: initial;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: transparent;
+}
+
+body {
+  overflow: initial !important;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  line-height: 1.6;
+  word-wrap: break-word;
+  padding: 30px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+}
+body > *:first-child {
+  margin-top: 0 !important;
+}
+body > *:last-child {
+  margin-bottom: 0 !important;
+}
+body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+body .absent {
+  color: #c00;
+}
+body .anchor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+body .anchor:focus {
+  outline: none;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+body h1 .octicon-link,
+body h2 .octicon-link,
+body h3 .octicon-link,
+body h4 .octicon-link,
+body h5 .octicon-link,
+body h6 .octicon-link {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+body h1:hover .anchor,
+body h2:hover .anchor,
+body h3:hover .anchor,
+body h4:hover .anchor,
+body h5:hover .anchor,
+body h6:hover .anchor {
+  padding-left: 8px;
+  margin-left: -30px;
+  text-decoration: none;
+}
+body h1:hover .anchor .octicon-link,
+body h2:hover .anchor .octicon-link,
+body h3:hover .anchor .octicon-link,
+body h4:hover .anchor .octicon-link,
+body h5:hover .anchor .octicon-link,
+body h6:hover .anchor .octicon-link {
+  display: inline-block;
+}
+body h1 tt,
+body h2 tt,
+body h3 tt,
+body h4 tt,
+body h5 tt,
+body h6 tt,
+body h1 code,
+body h2 code,
+body h3 code,
+body h4 code,
+body h5 code,
+body h6 code {
+  font-size: inherit;
+}
+body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+body h1 .anchor {
+  line-height: 1;
+}
+body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+body h2 .anchor {
+  line-height: 1;
+}
+body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+body h3 .anchor {
+  line-height: 1.2;
+}
+body h4 {
+  font-size: 1.25em;
+}
+body h4 .anchor {
+  line-height: 1.2;
+}
+body h5 {
+  font-size: 1em;
+}
+body h5 .anchor {
+  line-height: 1.1;
+}
+body h6 {
+  font-size: 1em;
+  color: #777;
+}
+body h6 .anchor {
+  line-height: 1.1;
+}
+body p,
+body blockquote,
+body ul,
+body ol,
+body dl,
+body table,
+body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+body ul,
+body ol {
+  padding-left: 2em;
+}
+body ul.no-list,
+body ol.no-list {
+  padding: 0;
+  list-style-type: none;
+}
+body ul ul,
+body ul ol,
+body ol ol,
+body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+body li > p {
+  margin-top: 16px;
+}
+body dl {
+  padding: 0;
+}
+body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+body blockquote > :first-child {
+  margin-top: 0;
+}
+body blockquote > :last-child {
+  margin-bottom: 0;
+}
+body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+body table th {
+  font-weight: bold;
+}
+body table th,
+body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body .emoji {
+  max-width: none;
+}
+body span.frame {
+  display: block;
+  overflow: hidden;
+}
+body span.frame > span {
+  display: block;
+  float: left;
+  width: auto;
+  padding: 7px;
+  margin: 13px 0 0;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+body span.frame span img {
+  display: block;
+  float: left;
+}
+body span.frame span span {
+  display: block;
+  padding: 5px 0 0;
+  clear: both;
+  color: #333;
+}
+body span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+body span.align-center > span {
+  display: block;
+  margin: 13px auto 0;
+  overflow: hidden;
+  text-align: center;
+}
+body span.align-center span img {
+  margin: 0 auto;
+  text-align: center;
+}
+body span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+body span.align-right > span {
+  display: block;
+  margin: 13px 0 0;
+  overflow: hidden;
+  text-align: right;
+}
+body span.align-right span img {
+  margin: 0;
+  text-align: right;
+}
+body span.float-left {
+  display: block;
+  float: left;
+  margin-right: 13px;
+  overflow: hidden;
+}
+body span.float-left span {
+  margin: 13px 0 0;
+}
+body span.float-right {
+  display: block;
+  float: right;
+  margin-left: 13px;
+  overflow: hidden;
+}
+body span.float-right > span {
+  display: block;
+  margin: 13px auto 0;
+  overflow: hidden;
+  text-align: right;
+}
+body code,
+body tt {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 3px;
+}
+body code:before,
+body tt:before,
+body code:after,
+body tt:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+body code br,
+body tt br {
+  display: none;
+}
+body del code {
+  text-decoration: inherit;
+}
+body pre > code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+body .highlight {
+  margin-bottom: 16px;
+}
+body .highlight pre,
+body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+body pre {
+  word-wrap: normal;
+}
+body pre code,
+body pre tt {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+body pre code:before,
+body pre tt:before,
+body pre code:after,
+body pre tt:after {
+  content: normal;
+}
+body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+span.critic.comment > span {
+  background-color: #fff;
+}
+a {
+  color: #337ab7;
+}
+
 .bracket-matcher .region {
   border-bottom: 1px dotted lime;
   position: absolute;
 }
 .line-number.bracket-matcher.bracket-matcher {
-  color: #555;
-  background-color: rgba(255, 255, 134, 0.34);
+  color: #383a42;
+  background-color: #e5e5e6;
 }
 
 .spell-check-misspelling .region {
@@ -118,377 +491,893 @@
 }
 
 pre.editor-colors {
-  background-color: white;
-  color: #555;
+  background-color: #fafafa;
+  color: #383a42;
+}
+pre.editor-colors .line.cursor-line {
+  background-color: rgba(56, 58, 66, 0.05);
+}
+pre.editor-colors .invisible {
+  color: #383a42;
+}
+pre.editor-colors .cursor {
+  border-left: 2px solid #526fff;
+}
+pre.editor-colors .selection .region {
+  background-color: #e5e5e6;
+}
+pre.editor-colors .bracket-matcher .region {
+  border-bottom: 1px solid #526fff;
+  box-sizing: border-box;
 }
 pre.editor-colors .invisible-character {
-  color: rgba(85, 85, 85, 0.2);
+  color: rgba(56, 58, 66, 0.2);
 }
 pre.editor-colors .indent-guide {
-  color: rgba(85, 85, 85, 0.2);
+  color: rgba(56, 58, 66, 0.2);
 }
 pre.editor-colors .wrap-guide {
-  background-color: rgba(85, 85, 85, 0.2);
+  background-color: rgba(56, 58, 66, 0.2);
 }
-pre.editor-colors .gutter {
-  color: #555;
-  background: white;
+pre.editor-colors .find-result .region.region.region,
+pre.editor-colors .current-result .region.region.region {
+  border-radius: 2px;
+  background-color: rgba(82, 111, 255, 0.2);
+  transition: border-color 0.4s;
+}
+pre.editor-colors .find-result .region.region.region {
+  border: 2px solid transparent;
+}
+pre.editor-colors .current-result .region.region.region {
+  border: 2px solid #526fff;
+  transition-duration: .1s;
+}
+pre.editor-colors .gutter .line-number {
+  color: #9d9d9f;
+  -webkit-font-smoothing: antialiased;
+}
+pre.editor-colors .gutter .line-number.cursor-line {
+  color: #383a42;
+  background-color: #e5e5e6;
+}
+pre.editor-colors .gutter .line-number.cursor-line-no-selection {
+  background-color: transparent;
+}
+pre.editor-colors .gutter .line-number .icon-right {
+  color: #383a42;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed.git-line-removed::before {
+  bottom: -3px;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed::after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 25px;
+  border-bottom: 1px dotted rgba(255, 20, 20, 0.5);
+  pointer-events: none;
 }
 pre.editor-colors .gutter .line-number.folded,
 pre.editor-colors .gutter .line-number:after,
 pre.editor-colors .fold-marker:after {
-  color: #e87b00;
-}
-pre.editor-colors .invisible {
-  color: #555;
-}
-pre.editor-colors .selection .region {
-  background-color: #e1e1e1;
-}
-pre.editor-colors .bracket-matcher .region {
-  background-color: #C9C9C9;
-  opacity: .7;
-  border-bottom: 0 none;
-}
-pre.editor-colors.is-focused .cursor {
-  border-color: black;
-}
-pre.editor-colors.is-focused .selection .region {
-  background-color: #afc4da;
-}
-pre.editor-colors.is-focused .line-number.cursor-line-no-selection,
-pre.editor-colors.is-focused .line.cursor-line {
-  background-color: rgba(255, 255, 134, 0.34);
-}
-pre.editor-colors .syntax--source.syntax--gfm {
-  color: #444;
-}
-pre.editor-colors .syntax--gfm .syntax--markup.syntax--heading {
-  color: #111;
-}
-pre.editor-colors .syntax--gfm .syntax--link {
-  color: #888;
-}
-pre.editor-colors .syntax--gfm .syntax--variable.syntax--list {
-  color: #888;
-}
-pre.editor-colors .syntax--markdown .syntax--paragraph {
-  color: #444;
-}
-pre.editor-colors .syntax--markdown .syntax--heading {
-  color: #111;
-}
-pre.editor-colors .syntax--markdown .syntax--link {
-  color: #888;
-}
-pre.editor-colors .syntax--markdown .syntax--link .syntax--string {
-  color: #888;
+  color: #383a42;
 }
 .syntax--comment {
-  color: #999988;
+  color: #a0a1a7;
   font-style: italic;
 }
-.syntax--string {
-  color: #D14;
+.syntax--comment .syntax--markup.syntax--link {
+  color: #a0a1a7;
 }
-.syntax--string .syntax--source,
-.syntax--string .syntax--meta.syntax--embedded.syntax--line {
-  color: #5A5A5A;
-}
-.syntax--string .syntax--punctuation.syntax--section.syntax--embedded {
-  color: #920B2D;
-}
-.syntax--string .syntax--punctuation.syntax--section.syntax--embedded .syntax--source {
-  color: #920B2D;
-}
-.syntax--constant.syntax--numeric {
-  color: #D14;
-}
-.syntax--constant.syntax--language {
-  color: #606aa1;
-}
-.syntax--constant.syntax--character,
-.syntax--constant.syntax--other {
-  color: #606aa1;
-}
-.syntax--constant.syntax--symbol {
-  color: #990073;
-}
-.syntax--constant.syntax--numeric.syntax--line-number.syntax--find-in-files .syntax--match {
-  color: rgba(143, 190, 0, 0.63);
-}
-.syntax--variable {
-  color: #008080;
-}
-.syntax--variable.syntax--parameter {
-  color: #606aa1;
-}
-.syntax--keyword {
-  color: #222;
-  font-weight: bold;
-}
-.syntax--keyword.syntax--unit {
-  color: #445588;
-}
-.syntax--keyword.syntax--special-method {
-  color: #0086B3;
-}
-.syntax--storage {
-  color: #222;
-}
-.syntax--storage.syntax--type {
-  color: #222;
-}
-.syntax--entity.syntax--name.syntax--class {
-  text-decoration: underline;
-  color: #606aa1;
+.syntax--entity.syntax--name.syntax--type {
+  color: #c18401;
 }
 .syntax--entity.syntax--other.syntax--inherited-class {
-  text-decoration: underline;
-  color: #606aa1;
+  color: #50a14f;
 }
-.syntax--entity.syntax--name.syntax--function {
-  color: #900;
+.syntax--keyword {
+  color: #a626a4;
 }
-.syntax--entity.syntax--name.syntax--tag {
-  color: #008080;
+.syntax--keyword.syntax--control {
+  color: #a626a4;
 }
-.syntax--entity.syntax--other.syntax--attribute-name {
-  color: #458;
+.syntax--keyword.syntax--operator {
+  color: #383a42;
+}
+.syntax--keyword.syntax--other.syntax--special-method {
+  color: #4078f2;
+}
+.syntax--keyword.syntax--other.syntax--unit {
+  color: #986801;
+}
+.syntax--storage {
+  color: #a626a4;
+}
+.syntax--storage.syntax--type.syntax--annotation,
+.syntax--storage.syntax--type.syntax--primitive {
+  color: #a626a4;
+}
+.syntax--storage.syntax--modifier.syntax--package,
+.syntax--storage.syntax--modifier.syntax--import {
+  color: #383a42;
+}
+.syntax--constant {
+  color: #986801;
+}
+.syntax--constant.syntax--variable {
+  color: #986801;
+}
+.syntax--constant.syntax--character.syntax--escape {
+  color: #0184bc;
+}
+.syntax--constant.syntax--numeric {
+  color: #986801;
+}
+.syntax--constant.syntax--other.syntax--color {
+  color: #0184bc;
+}
+.syntax--constant.syntax--other.syntax--symbol {
+  color: #0184bc;
+}
+.syntax--variable {
+  color: #e45649;
+}
+.syntax--variable.syntax--interpolation {
+  color: #ca1243;
+}
+.syntax--variable.syntax--parameter {
+  color: #383a42;
+}
+.syntax--string {
+  color: #50a14f;
+}
+.syntax--string.syntax--regexp {
+  color: #0184bc;
+}
+.syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded {
+  color: #c18401;
+}
+.syntax--string.syntax--other.syntax--link {
+  color: #e45649;
+}
+.syntax--punctuation.syntax--definition.syntax--comment {
+  color: #a0a1a7;
+}
+.syntax--punctuation.syntax--definition.syntax--method-parameters,
+.syntax--punctuation.syntax--definition.syntax--function-parameters,
+.syntax--punctuation.syntax--definition.syntax--parameters,
+.syntax--punctuation.syntax--definition.syntax--separator,
+.syntax--punctuation.syntax--definition.syntax--seperator,
+.syntax--punctuation.syntax--definition.syntax--array {
+  color: #383a42;
+}
+.syntax--punctuation.syntax--definition.syntax--heading,
+.syntax--punctuation.syntax--definition.syntax--identity {
+  color: #4078f2;
+}
+.syntax--punctuation.syntax--definition.syntax--bold {
+  color: #c18401;
   font-weight: bold;
 }
-.syntax--entity.syntax--name.syntax--filename.syntax--find-in-files {
-  color: #E6DB74;
+.syntax--punctuation.syntax--definition.syntax--italic {
+  color: #a626a4;
+  font-style: italic;
 }
-.syntax--support.syntax--constant,
-.syntax--support.syntax--function,
-.syntax--support.syntax--type {
-  color: #458;
+.syntax--punctuation.syntax--section.syntax--embedded {
+  color: #ca1243;
+}
+.syntax--punctuation.syntax--section.syntax--method,
+.syntax--punctuation.syntax--section.syntax--class,
+.syntax--punctuation.syntax--section.syntax--inner-class {
+  color: #383a42;
 }
 .syntax--support.syntax--class {
-  color: #008080;
+  color: #c18401;
 }
-.syntax--invalid {
-  color: #F8F8F0;
-  background-color: #00A8C6;
+.syntax--support.syntax--type {
+  color: #0184bc;
+}
+.syntax--support.syntax--function {
+  color: #0184bc;
+}
+.syntax--support.syntax--function.syntax--any-method {
+  color: #4078f2;
+}
+.syntax--entity.syntax--name.syntax--function {
+  color: #4078f2;
+}
+.syntax--entity.syntax--name.syntax--class,
+.syntax--entity.syntax--name.syntax--type.syntax--class {
+  color: #c18401;
+}
+.syntax--entity.syntax--name.syntax--section {
+  color: #4078f2;
+}
+.syntax--entity.syntax--name.syntax--tag {
+  color: #e45649;
+}
+.syntax--entity.syntax--other.syntax--attribute-name {
+  color: #986801;
+}
+.syntax--entity.syntax--other.syntax--attribute-name.syntax--id {
+  color: #4078f2;
+}
+.syntax--meta.syntax--class {
+  color: #c18401;
+}
+.syntax--meta.syntax--class.syntax--body {
+  color: #383a42;
+}
+.syntax--meta.syntax--method-call,
+.syntax--meta.syntax--method {
+  color: #383a42;
+}
+.syntax--meta.syntax--definition.syntax--variable {
+  color: #e45649;
+}
+.syntax--meta.syntax--link {
+  color: #986801;
+}
+.syntax--meta.syntax--require {
+  color: #4078f2;
+}
+.syntax--meta.syntax--selector {
+  color: #a626a4;
+}
+.syntax--meta.syntax--separator {
+  color: #383a42;
+}
+.syntax--meta.syntax--tag {
+  color: #383a42;
+}
+.syntax--underline {
+  text-decoration: underline;
+}
+.syntax--none {
+  color: #383a42;
 }
 .syntax--invalid.syntax--deprecated {
-  color: #F8F8F0;
-  background-color: #8FBE00;
+  color: #000000 !important;
+  background-color: #f2a60d !important;
 }
-.syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--double.syntax--json,
-.syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--double.syntax--json .syntax--punctuation.syntax--string {
-  color: #000080;
+.syntax--invalid.syntax--illegal {
+  color: white !important;
+  background-color: #ff1414 !important;
 }
-.syntax--meta.syntax--structure.syntax--dictionary.syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--double.syntax--json {
-  color: #d14;
-}
-.syntax--meta.syntax--diff,
-.syntax--meta.syntax--diff.syntax--header {
-  color: #75715E;
-}
-.syntax--css.syntax--support.syntax--property-name {
+.syntax--markup.syntax--bold {
+  color: #986801;
   font-weight: bold;
-  color: #333;
 }
-.syntax--css.syntax--constant {
-  color: #099;
+.syntax--markup.syntax--changed {
+  color: #a626a4;
 }
+.syntax--markup.syntax--deleted {
+  color: #e45649;
+}
+.syntax--markup.syntax--italic {
+  color: #a626a4;
+  font-style: italic;
+}
+.syntax--markup.syntax--heading {
+  color: #e45649;
+}
+.syntax--markup.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading {
+  color: #4078f2;
+}
+.syntax--markup.syntax--link {
+  color: #0184bc;
+}
+.syntax--markup.syntax--inserted {
+  color: #50a14f;
+}
+.syntax--markup.syntax--quote {
+  color: #986801;
+}
+.syntax--markup.syntax--raw {
+  color: #50a14f;
+}
+.syntax--source.syntax--c .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--cpp .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--cs .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--css .syntax--property-name,
+.syntax--source.syntax--css .syntax--property-value {
+  color: #696c77;
+}
+.syntax--source.syntax--css .syntax--property-name.syntax--support,
+.syntax--source.syntax--css .syntax--property-value.syntax--support {
+  color: #383a42;
+}
+.syntax--source.syntax--elixir .syntax--source.syntax--embedded.syntax--source {
+  color: #383a42;
+}
+.syntax--source.syntax--elixir .syntax--constant.syntax--language,
+.syntax--source.syntax--elixir .syntax--constant.syntax--numeric,
+.syntax--source.syntax--elixir .syntax--constant.syntax--definition {
+  color: #4078f2;
+}
+.syntax--source.syntax--elixir .syntax--variable.syntax--definition,
+.syntax--source.syntax--elixir .syntax--variable.syntax--anonymous {
+  color: #a626a4;
+}
+.syntax--source.syntax--elixir .syntax--parameter.syntax--variable.syntax--function {
+  color: #986801;
+  font-style: italic;
+}
+.syntax--source.syntax--elixir .syntax--quoted {
+  color: #50a14f;
+}
+.syntax--source.syntax--elixir .syntax--keyword.syntax--special-method,
+.syntax--source.syntax--elixir .syntax--embedded.syntax--section,
+.syntax--source.syntax--elixir .syntax--embedded.syntax--source.syntax--empty {
+  color: #e45649;
+}
+.syntax--source.syntax--elixir .syntax--readwrite.syntax--module .syntax--punctuation {
+  color: #e45649;
+}
+.syntax--source.syntax--elixir .syntax--regexp.syntax--section,
+.syntax--source.syntax--elixir .syntax--regexp.syntax--string {
+  color: #ca1243;
+}
+.syntax--source.syntax--elixir .syntax--separator,
+.syntax--source.syntax--elixir .syntax--keyword.syntax--operator {
+  color: #986801;
+}
+.syntax--source.syntax--elixir .syntax--variable.syntax--constant {
+  color: #c18401;
+}
+.syntax--source.syntax--elixir .syntax--array,
+.syntax--source.syntax--elixir .syntax--scope,
+.syntax--source.syntax--elixir .syntax--section {
+  color: #696c77;
+}
+.syntax--source.syntax--gfm .syntax--markup {
+  -webkit-font-smoothing: auto;
+}
+.syntax--source.syntax--gfm .syntax--link .syntax--entity {
+  color: #4078f2;
+}
+.syntax--source.syntax--go .syntax--storage.syntax--type.syntax--string {
+  color: #a626a4;
+}
+.syntax--source.syntax--ini .syntax--keyword.syntax--other.syntax--definition.syntax--ini {
+  color: #e45649;
+}
+.syntax--source.syntax--java .syntax--storage.syntax--modifier.syntax--import {
+  color: #c18401;
+}
+.syntax--source.syntax--java .syntax--storage.syntax--type {
+  color: #c18401;
+}
+.syntax--source.syntax--java .syntax--keyword.syntax--operator.syntax--instanceof {
+  color: #a626a4;
+}
+.syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair {
+  color: #e45649;
+}
+.syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair > .syntax--punctuation {
+  color: #383a42;
+}
+.syntax--source.syntax--js .syntax--keyword.syntax--operator {
+  color: #0184bc;
+}
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--delete,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--in,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--of,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--instanceof,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--new,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--typeof,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--void {
+  color: #a626a4;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json {
+  color: #e45649;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation.syntax--string {
+  color: #e45649;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation {
+  color: #50a14f;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--constant.syntax--language.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--constant.syntax--language.syntax--json {
+  color: #0184bc;
+}
+.syntax--source.syntax--ruby .syntax--constant.syntax--other.syntax--symbol > .syntax--punctuation {
+  color: inherit;
+}
+.syntax--source.syntax--php .syntax--class.syntax--bracket {
+  color: #383a42;
+}
+.syntax--source.syntax--python .syntax--keyword.syntax--operator.syntax--logical.syntax--python {
+  color: #a626a4;
+}
+.syntax--source.syntax--python .syntax--variable.syntax--parameter {
+  color: #986801;
+}
+
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
 </style>
+
   </head>
-  <body class='markdown-preview' data-use-github-style><p><a href="./index.html">HOME</a></p>
-<h1 id="journal">Journal</h1>
+  <body>
+    <p><a href="./index.html">HOME</a></p>
+<h1>Journal</h1>
 <ol>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, <a href="http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml">Masakazu Iwamura</a>, <a href="http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html">Seiichi Uchida</a>, <a href="http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html">Koichi Kise</a><br>"Automatic Generation of Typographic Font from a Small Font Subset"<br>IEEE Computer Graphics and Applications, 2019 (Minor Revision)</p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, <a href="http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml">Masakazu Iwamura</a>, <a href="http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html">Seiichi Uchida</a>, <a href="http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html">Koichi Kise</a><br>
+“Automatic Generation of Typographic Font from a Small Font Subset”<br>
+IEEE Computer Graphics and Applications, 2019 (Minor Revision)</p>
 </li>
-<li><p>Antoine Chauvet, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"<br>IIEEJ Transactions on Image Electronics and Visual Computing, vol.7, no.1, p.2-12, 2019 <a href="https://www.iieej.org/journal-of-the-society/"><strong>[paper]</strong></a></p>
+<li>
+<p>Antoine Chauvet, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks”<br>
+IIEEJ Transactions on Image Electronics and Visual Computing, vol.7, no.1, p.2-12, 2019 <a href="https://www.iieej.org/journal-of-the-society/"><strong>[paper]</strong></a></p>
 </li>
-<li><p>Yoshito Nagaoka, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya,  Shinichiro Omachi<br>"Automatic Mackerel Sorting Machine using Global and Local Features"<br>IEEE Access, vol. 7, pp. 63767-63777, 2019 <a href="https://doi.org/10.1109/ACCESS.2019.2917554"><strong>[paper]</strong></a> <a href="https://github.com/yoyoyo-yo/glcc-frcn.pytorch"><strong>[code]</strong></a>  </p>
+<li>
+<p>Yoshito Nagaoka, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya,  Shinichiro Omachi<br>
+“Automatic Mackerel Sorting Machine using Global and Local Features”<br>
+IEEE Access, vol. 7, pp. 63767-63777, 2019 <a href="https://doi.org/10.1109/ACCESS.2019.2917554"><strong>[paper]</strong></a> <a href="https://github.com/yoyoyo-yo/glcc-frcn.pytorch"><strong>[code]</strong></a></p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Structural Data Recognition with Graph Model Boosting"<br>IEEE Access, vol.6, pp.63606-63618, 2018 <a href="https://doi.org/10.1109/ACCESS.2018.2876860"><strong>[paper]</strong></a>  </p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Structural Data Recognition with Graph Model Boosting”<br>
+IEEE Access, vol.6, pp.63606-63618, 2018 <a href="https://doi.org/10.1109/ACCESS.2018.2876860"><strong>[paper]</strong></a></p>
 </li>
-<li><p>Shun Chiba, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"<br>MDPI Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 <a href="https://doi.org/10.3390/jsan7030031"><strong>[paper]</strong></a></p>
+<li>
+<p>Shun Chiba, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems”<br>
+MDPI Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 <a href="https://doi.org/10.3390/jsan7030031"><strong>[paper]</strong></a></p>
 </li>
-<li><p>Airi Kitasato, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"<br>MDPI Journal of Fishes, Volume 3, Issue 3, p.26, 2018 <a href="https://doi.org/10.3390/fishes3030026"><strong>[paper]</strong></a></p>
+<li>
+<p>Airi Kitasato, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features”<br>
+MDPI Journal of Fishes, Volume 3, Issue 3, p.26, 2018 <a href="https://doi.org/10.3390/fishes3030026"><strong>[paper]</strong></a></p>
 </li>
-<li><p>Kazuya Ogasawara, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Object-Based Video Coding by Visual Saliency and Temporal Correlation"<br>IEEE Transactions on Emerging Topics in Computing (TETC), 2017 <a href="https://doi.org/10.1109/TETC.2017.2695640"><strong>[paper]</strong></a> (in press)</p>
+<li>
+<p>Kazuya Ogasawara, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Object-Based Video Coding by Visual Saliency and Temporal Correlation”<br>
+IEEE Transactions on Emerging Topics in Computing (TETC), 2017 <a href="https://doi.org/10.1109/TETC.2017.2695640"><strong>[paper]</strong></a> (in press)</p>
 </li>
-<li><p>Yosuke Nozue, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Efficient Coding for Video Including Text Using Image Generation"<br>Journal of Information Processing, vol.24, no.2, pp.330-338, 2016 <a href="https://doi.org/10.2197/ipsjjip.24.330"><strong>[paper]</strong></a>  </p>
+<li>
+<p>Yosuke Nozue, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Efficient Coding for Video Including Text Using Image Generation”<br>
+Journal of Information Processing, vol.24, no.2, pp.330-338, 2016 <a href="https://doi.org/10.2197/ipsjjip.24.330"><strong>[paper]</strong></a></p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Representative Graph Generation for Graph-Based Character Recognition"<br>The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 <a href="https://doi.org/10.11371/iieej.40.439"><strong>[paper]</strong></a>  </p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Representative Graph Generation for Graph-Based Character Recognition”<br>
+The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 <a href="https://doi.org/10.11371/iieej.40.439"><strong>[paper]</strong></a></p>
 </li>
 </ol>
 <p>Japanese:</p>
 <ol>
-<li><p>菅谷 至寛, 坂井 清士郎, <u><strong>宮崎 智</strong></u>, 大町 真一郎<br>"環境中文字認識を利用した情報提供アプリケーションのための
-ウェアラブルシステムの開発"<br>画像電子学誌 第48巻 第2号, 2019 (in press)</p>
+<li>
+<p>菅谷 至寛, 坂井 清士郎, <u><strong>宮崎 智</strong></u>, 大町 真一郎<br>
+“環境中文字認識を利用した情報提供アプリケーションのための
+ウェアラブルシステムの開発”<br>
+画像電子学誌 第48巻 第2号, 2019 (in press)</p>
 </li>
-<li><p>川村 思織, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"補助線を用いた情景画像からの高精度文字領域抽出"<br>画像電子学会誌, vol.45, no.1, pp.62-70, 2016 <a href="https://doi.org/10.11371/iieej.45.62"><strong>[paper]</strong></a>  </p>
+<li>
+<p>川村 思織, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“補助線を用いた情景画像からの高精度文字領域抽出”<br>
+画像電子学会誌, vol.45, no.1, pp.62-70, 2016 <a href="https://doi.org/10.11371/iieej.45.62"><strong>[paper]</strong></a></p>
 </li>
-<li><p><u><strong>宮崎 智</strong></u>, 大町 真一郎, 阿曽 弘具<br>"重み付き最小共通スーパーグラフを用いたシルエット画像認識"<br>画像電子学会誌, vol.38, no.5, pp.640-647, 2009 <a href="https://doi.org/10.11371/iieej.38.640"><strong>[paper]</strong></a></p>
-</li>
-</ol>
-<h1 id="international-conference-refereed-">International Conference (Refereed)</h1>
-<ol>
-<li><p>Yoshito Nagaoka, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya,  Shinichiro Omachi<br>"Mackerel Classification using Global and Local Features"<br>The 2018 IEEE 23rd International Conference on Emerging Technologies and Factory Automation (ETFA), p.1209-1212, 2018 <a href="https://doi.org/10.1109/ETFA.2018.8502584"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Chisato Sugawara, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Text Retrieval for Japanese Historical Documents by Image Generation"<br>The 4th International Workshop on Historical Document Imaging and Processing (HIP), p.19-24, 2017 <a href="https://doi.org/10.1145/3151509.3151512"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Yoshito Nagaoka, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Text Detection by Faster R-CNN with Multiple Region Proposal Network"<br>International Workshop on Camera Based Document Analysis and Recognition (CBDAR), p.15-20, 2017 <a href="https://doi.org/10.1109/ICDAR.2017.343"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Yoshihiro Sugaya, Kento Takeda, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"A Preliminary Study on Location Estimation without Preparation using Ceiling Signboard"<br>International Conference on Indoor Positioning and Indoor Navigation (IPIN), 179_WIP, 2017 <a href="http://www.ipin2017.org/ipinpapers/179/179.pdf"><strong>[
-paper]</strong></a>  </p>
-</li>
-<li><p>Ofusa Kenichiro, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Glyph-Based Data Augmentation for Accurate Kanji Character Recognition"<br>International Conference on Document Analysis and Recognition (ICDAR), p.597-602, 2017 <a href="https://doi.org/10.1109/ICDAR.2017.103"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Tomoya Honto, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Analysis of Floor Map Image in Information Board for Indoor Navigation"<br>International Conference on Indoor Positioning and Indoor Navigation (IPIN), 144_RP, 2017 <a href="https://doi.org/10.1109/IPIN.2017.8115896"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Kiyoshiro Sakai, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Development of Wearable System for Translation of Japanese Texts in the Environment"<br>Proceedings of International Workshop on Frontiers of Computer Vison (FCV), OS3-2, 2017</p>
-</li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Graph Model Boosting for Structural Data Recognition"<br>Proceedings of International conference of Pattern Recognition (ICPR), p.1708-1713, 2016 <a href="http://dx.doi.org/10.1109/ICPR.2016.7899882"><strong>[paper]</strong></a>  </p>
-</li>
-<li><p>Kento Tonosaki, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Improvement of Map Matching for Indoor Navigation Exploiting Photo of Information Board"<br>Proceedings of International Conference on Indoor Positioning and Indoor Navigation (IPIN), p.22-26, 2016 <a href="http://www3.uah.es/ipin2016/usb/app/descargas/219_WIP.pdf"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Antoine Chauvet, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya Shinichiro Omachi<br>"Adaptive Post Filter for Reducing Block Artifacts in High Efficiency Video Coding"<br>International Conference on Multimedia Systems and Signal Processing, 2016 <a href="http://dx.doi.org/10.1109/ICMSSP.2016.014"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Kento Tonosaki, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Indoor Localization by Map Matching Using One Image of Information Board"<br>Proceedings of The Eighth International Conferences on Pervasive Patterns and Applications (PATTERNS), pp.22-26, 2016<br><a href="http://www.iaria.org/conferences2016/AwardsPATTERNS16.html"><strong>[<font color="red">Best Paper Award</font>]</strong></a> <a href="http://www.thinkmind.org/index.php?view=article&amp;articleid=patterns_2016_1_40_70039"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Kazuya Ogasawara, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Object-based Video Coding for Arbitrary Shape by Visual Saliency and Temporal Correlation"<br>Proceedings of The Eighth International Conference on Creative Content Technologies (CONTENT), pp.13-16, 2016<br><a href="http://www.iaria.org/conferences2016/AwardsCONTENT16.html"><strong>[<font color="red">Best Paper Award</font>]</strong></a> <a href="http://www.thinkmind.org/index.php?view=article&amp;articleid=content_2016_1_30_60053"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Airi Kitasato, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Discrimination of Scomber Japonicus and Scomber Australasicus by Dorsal Fin Length and Fork Length"<br>Proceedings of The 22nd Korea-Japan joint Workshop on Frontiers of Computer Vision (FCV), pp.338-341, 2016</p>
-</li>
-<li><p>Shuhei Toba, Hirotaka Kudo, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Ultra-low Resolution Character Recognition System with Pruning Mutual Subspace Method"<br>Proceedings of International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.284-285, 2015 <a href="http://dx.doi.org/10.1109/ICCE-TW.2015.7216900"><strong>[paper]</strong></a></p>
-</li>
-<li><p>Shun Chiba, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Estimation of Gazing Points in Environment Using Eye Tracker and Omnidirectional Camera"<br>Proceedings of 2015 International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.47-48, 2015 <a href="http://dx.doi.org/10.1109/ICCE-TW.2015.7217003"><strong>[paper]</strong></a></p>
-</li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Finding Stroke Parts for Rough Text Detection in Scene Images with Random Forest"<br>Proceedings of Joint Conference of IWAIT and IFMIA, 2015</p>
-</li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Fast Method for Extracting Representative Graph from Decorative Character Images"<br>Proceedings of IEEE International Conference on Network Infrastructures and Digital Content (IEEE IC-NIDC), pp.219-223, 2010 <a href="http://dx.doi.org/10.1109/ICNIDC.2010.5657776"><strong>[paper]</strong></a></p>
-</li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>"Extraction of Representative Structure of Decorative Character Images"<br>Proceedings of the Chinese Conference on Pattern Recognition (CCPR) and the First CJK Joint Workshop on Pattern Recognition (CJKPR), vol.2, pp.944-948, 2009 <a href="http://dx.doi.org/10.1109/CCPR.2009.5343952"><strong>[paper]</strong></a></p>
-</li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>"Extraction of Structure of Silhouette Images by Weighted Minimum Common Supergraph"<br>Proceedings of the Second Korea-Japan Joint Workshop on Pattern Recognition (KJPR), pp.57-61, 2007</p>
+<li>
+<p><u><strong>宮崎 智</strong></u>, 大町 真一郎, 阿曽 弘具<br>
+“重み付き最小共通スーパーグラフを用いたシルエット画像認識”<br>
+画像電子学会誌, vol.38, no.5, pp.640-647, 2009 <a href="https://doi.org/10.11371/iieej.38.640"><strong>[paper]</strong></a></p>
 </li>
 </ol>
-<h1 id="international-conference-non-refereed-">International Conference (Non-refereed)</h1>
+<h1>International Conference (Refereed)</h1>
 <ol>
-<li><p>Kyoko Maeda, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Investigation of Convolutional Neural Network Structure for Low Resolution Character Recognition"<br>International Workshop on Emerging ICT, 2016</p>
+<li>
+<p>Yoshito Nagaoka, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya,  Shinichiro Omachi<br>
+“Mackerel Classification using Global and Local Features”<br>
+The 2018 IEEE 23rd International Conference on Emerging Technologies and Factory Automation (ETFA), p.1209-1212, 2018 <a href="https://doi.org/10.1109/ETFA.2018.8502584"><strong>[paper]</strong></a></p>
 </li>
-<li><p>Kota Oodaira, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Detection of a Key String from Scene Images Using Saliency"<br>International Workshop on Emerging ICT, 2016</p>
+<li>
+<p>Chisato Sugawara, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Text Retrieval for Japanese Historical Documents by Image Generation”<br>
+The 4th International Workshop on Historical Document Imaging and Processing (HIP), p.19-24, 2017 <a href="https://doi.org/10.1145/3151509.3151512"><strong>[paper]</strong></a></p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Rough Detection of Text in Scene Images by Finding Stroke Parts"<br>Proceedings of the International Workshop on Electronics and Communications, Oral Session 4, 2014</p>
+<li>
+<p>Yoshito Nagaoka, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Text Detection by Faster R-CNN with Multiple Region Proposal Network”<br>
+International Workshop on Camera Based Document Analysis and Recognition (CBDAR), p.15-20, 2017 <a href="https://doi.org/10.1109/ICDAR.2017.343"><strong>[paper]</strong></a></p>
 </li>
-<li><p>Jian Wang, Hiroya Saito, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Automatic Synthesis of Character Pattern Using Patch Transform"<br>Proceedings of the International Workshop on Electronics and Communications, Oral Session 1, 2014</p>
+<li>
+<p>Yoshihiro Sugaya, Kento Takeda, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“A Preliminary Study on Location Estimation without Preparation using Ceiling Signboard”<br>
+International Conference on Indoor Positioning and Indoor Navigation (IPIN), 179_WIP, 2017 <a href="http://www.ipin2017.org/ipinpapers/179/179.pdf"><strong>[
+paper]</strong></a></p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Extracting Representative Graph of Decorative Character Images by Random Method"<br>Proceedings of the Third Student Organizing International Mini-Conference on Information Electronics Systems, pp.67–68, 2010</p>
+<li>
+<p>Ofusa Kenichiro, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Glyph-Based Data Augmentation for Accurate Kanji Character Recognition”<br>
+International Conference on Document Analysis and Recognition (ICDAR), p.597-602, 2017 <a href="https://doi.org/10.1109/ICDAR.2017.103"><strong>[paper]</strong></a></p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>“Iterative Extraction of Representative Graph Using
-Common Features from Decorative Character Images,”<br>Proceedings of the Second Student Organizing International Mini-Conference on Information Electronics Systems,
+<li>
+<p>Tomoya Honto, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Analysis of Floor Map Image in Information Board for Indoor Navigation”<br>
+International Conference on Indoor Positioning and Indoor Navigation (IPIN), 144_RP, 2017 <a href="https://doi.org/10.1109/IPIN.2017.8115896"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Kiyoshiro Sakai, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Development of Wearable System for Translation of Japanese Texts in the Environment”<br>
+Proceedings of International Workshop on Frontiers of Computer Vison (FCV), OS3-2, 2017</p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Graph Model Boosting for Structural Data Recognition”<br>
+Proceedings of International conference of Pattern Recognition (ICPR), p.1708-1713, 2016 <a href="http://dx.doi.org/10.1109/ICPR.2016.7899882"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Kento Tonosaki, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Improvement of Map Matching for Indoor Navigation Exploiting Photo of Information Board”<br>
+Proceedings of International Conference on Indoor Positioning and Indoor Navigation (IPIN), p.22-26, 2016 <a href="http://www3.uah.es/ipin2016/usb/app/descargas/219_WIP.pdf"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Antoine Chauvet, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya Shinichiro Omachi<br>
+“Adaptive Post Filter for Reducing Block Artifacts in High Efficiency Video Coding”<br>
+International Conference on Multimedia Systems and Signal Processing, 2016 <a href="http://dx.doi.org/10.1109/ICMSSP.2016.014"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Kento Tonosaki, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Indoor Localization by Map Matching Using One Image of Information Board”<br>
+Proceedings of The Eighth International Conferences on Pervasive Patterns and Applications (PATTERNS), pp.22-26, 2016<br>
+<a href="http://www.iaria.org/conferences2016/AwardsPATTERNS16.html"><strong>[<font color="red">Best Paper Award</font>]</strong></a> <a href="http://www.thinkmind.org/index.php?view=article&amp;articleid=patterns_2016_1_40_70039"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Kazuya Ogasawara, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Object-based Video Coding for Arbitrary Shape by Visual Saliency and Temporal Correlation”<br>
+Proceedings of The Eighth International Conference on Creative Content Technologies (CONTENT), pp.13-16, 2016<br>
+<a href="http://www.iaria.org/conferences2016/AwardsCONTENT16.html"><strong>[<font color="red">Best Paper Award</font>]</strong></a> <a href="http://www.thinkmind.org/index.php?view=article&amp;articleid=content_2016_1_30_60053"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Airi Kitasato, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Discrimination of Scomber Japonicus and Scomber Australasicus by Dorsal Fin Length and Fork Length”<br>
+Proceedings of The 22nd Korea-Japan joint Workshop on Frontiers of Computer Vision (FCV), pp.338-341, 2016</p>
+</li>
+<li>
+<p>Shuhei Toba, Hirotaka Kudo, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Ultra-low Resolution Character Recognition System with Pruning Mutual Subspace Method”<br>
+Proceedings of International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.284-285, 2015 <a href="http://dx.doi.org/10.1109/ICCE-TW.2015.7216900"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p>Shun Chiba, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Estimation of Gazing Points in Environment Using Eye Tracker and Omnidirectional Camera”<br>
+Proceedings of 2015 International Conference on Consumer Electronics - Taiwan (ICCE-TW), pp.47-48, 2015 <a href="http://dx.doi.org/10.1109/ICCE-TW.2015.7217003"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Finding Stroke Parts for Rough Text Detection in Scene Images with Random Forest”<br>
+Proceedings of Joint Conference of IWAIT and IFMIA, 2015</p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Fast Method for Extracting Representative Graph from Decorative Character Images”<br>
+Proceedings of IEEE International Conference on Network Infrastructures and Digital Content (IEEE IC-NIDC), pp.219-223, 2010 <a href="http://dx.doi.org/10.1109/ICNIDC.2010.5657776"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>
+“Extraction of Representative Structure of Decorative Character Images”<br>
+Proceedings of the Chinese Conference on Pattern Recognition (CCPR) and the First CJK Joint Workshop on Pattern Recognition (CJKPR), vol.2, pp.944-948, 2009 <a href="http://dx.doi.org/10.1109/CCPR.2009.5343952"><strong>[paper]</strong></a></p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>
+“Extraction of Structure of Silhouette Images by Weighted Minimum Common Supergraph”<br>
+Proceedings of the Second Korea-Japan Joint Workshop on Pattern Recognition (KJPR), pp.57-61, 2007</p>
+</li>
+</ol>
+<h1>International Conference (Non-refereed)</h1>
+<ol>
+<li>
+<p>Kyoko Maeda,&nbsp;<u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Investigation of Convolutional Neural Network Structure for Low Resolution Character Recognition”<br>
+International Workshop on Emerging ICT, 2016</p>
+</li>
+<li>
+<p>Kota Oodaira,&nbsp;<u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Detection of a Key String from Scene Images Using Saliency”<br>
+International Workshop on Emerging ICT, 2016</p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Rough Detection of Text in Scene Images by Finding Stroke Parts”<br>
+Proceedings of the International Workshop on Electronics and Communications, Oral Session 4, 2014</p>
+</li>
+<li>
+<p>Jian Wang, Hiroya Saito, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Automatic Synthesis of Character Pattern Using Patch Transform”<br>
+Proceedings of the International Workshop on Electronics and Communications, Oral Session 1, 2014</p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Extracting Representative Graph of Decorative Character Images by Random Method”<br>
+Proceedings of the Third Student Organizing International Mini-Conference on Information Electronics Systems, pp.67–68, 2010</p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Iterative Extraction of Representative Graph Using
+Common Features from Decorative Character Images,”<br>
+Proceedings of the Second Student Organizing International Mini-Conference on Information Electronics Systems,
 pp.85–86, 2009</p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>"Silhouette Image Recognition"<br>Proceedings of the Third Korea-Japan Joint Workshop on Pattern Recognition, pp.13–
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>
+“Silhouette Image Recognition”<br>
+Proceedings of the Third Korea-Japan Joint Workshop on Pattern Recognition, pp.13–
 14, 2008</p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>"Structure Extraction from Silhouette Images by Weighted Minimum Common Supergraph"<br>Proceedings of the First Student Organizing International Mini-Conference on Information Electronics Systems, pp.75–76, 2008</p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>
+“Structure Extraction from Silhouette Images by Weighted Minimum Common Supergraph”<br>
+Proceedings of the First Student Organizing International Mini-Conference on Information Electronics Systems, pp.75–76, 2008</p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>"Extraction of Structure of Shapes Using Weighted Minimum Common Supergraph"<br>Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Information, pp.49–50, 2008</p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>
+“Extraction of Structure of Shapes Using Weighted Minimum Common Supergraph”<br>
+Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Information, pp.49–50, 2008</p>
 </li>
 </ol>
-<h1 id="domestic-non-refereed-">Domestic (Non-refereed)</h1>
+<h1>Domestic (Non-refereed)</h1>
 <ol>
-<li><p>西村 遼平, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"ニューラルネットワークを用いた古典籍画像からの文字検出"<br>電子情報通信学会総合大会学生ポスターセッション, XXX, 2019</p>
+<li>
+<p>西村 遼平,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“ニューラルネットワークを用いた古典籍画像からの文字検出”<br>
+電子情報通信学会総合大会学生ポスターセッション, XXX, 2019</p>
 </li>
-<li><p>石田 聖, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"グラフ構造に着目した分子特性の認識"<br>電子情報通信学会総合大会学生ポスターセッション, XXX, 2019</p>
+<li>
+<p>石田 聖,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“グラフ構造に着目した分子特性の認識”<br>
+電子情報通信学会総合大会学生ポスターセッション, XXX, 2019</p>
 </li>
-<li><p>中屋 悠資, 鈴木 海斗, <u><strong>宮崎 智</strong></u>, 大町 真一郎<br>"部首に注目したDeep Leaningによるくずし字の認識を用いた日本古典籍の解析"<br>電子情報通信学会総合大会学生ポスターセッション, XXX, 2019</p>
+<li>
+<p>中屋 悠資, 鈴木 海斗,&nbsp;<u><strong>宮崎 智</strong></u>, 大町 真一郎<br>
+“部首に注目したDeep Leaningによるくずし字の認識を用いた日本古典籍の解析”<br>
+電子情報通信学会総合大会学生ポスターセッション, XXX, 2019</p>
 </li>
-<li><p>黄 希, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"Multi-Frame Super Resolution Using 3D Convolution and RNN Prediction"<br>平成30年度電気関係学会東北支部連合大会講演論文集, 2F12, 2018</p>
+<li>
+<p>黄 希, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“Multi-Frame Super Resolution Using 3D Convolution and RNN Prediction”<br>
+平成30年度電気関係学会東北支部連合大会講演論文集, 2F12, 2018</p>
 </li>
-<li><p>桑野 拓朗, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"超解像を用いた動画像符号化に関する検討"<br>平成30年度電気関係学会東北支部連合大会講演論文集, 1D14, 2018</p>
+<li>
+<p>桑野 拓朗, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“超解像を用いた動画像符号化に関する検討”<br>
+平成30年度電気関係学会東北支部連合大会講演論文集, 1D14, 2018</p>
 </li>
-<li><p>増保 純平, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"監視カメラを活用したユーザの実世界位置の推定"<br>平成30年度電気関係学会東北支部連合大会講演論文集, 1I05, 2018</p>
+<li>
+<p>増保 純平, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“監視カメラを活用したユーザの実世界位置の推定”<br>
+平成30年度電気関係学会東北支部連合大会講演論文集, 1I05, 2018</p>
 </li>
-<li><p>竹村 貴文, 菅谷 至寛, <u><strong>宮崎 智</strong></u>, 大町 真一郎<br>"天吊り案内板を用いた屋内ナビゲーション手法の検討"<br>平成30年度電気関係学会東北支部連合大会講演論文集, 2A07, 2018</p>
+<li>
+<p>竹村 貴文, 菅谷 至寛, <u><strong>宮崎 智</strong></u>, 大町 真一郎<br>
+“天吊り案内板を用いた屋内ナビゲーション手法の検討”<br>
+平成30年度電気関係学会東北支部連合大会講演論文集, 2A07, 2018</p>
 </li>
-<li><p>佐藤 大亮, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"Determining Important Objects in Scene Image Using Neural Networks"<br>平成29年度電気関係学会東北支部連合大会講演論文集, 2B12, 2017<br><a href="http://www.ecei.tohoku.ac.jp/ieee-sendai/index.php"><strong>[<font color="red">The Encouragement Prize</font>]</strong></a></p>
+<li>
+<p>佐藤 大亮, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“Determining Important Objects in Scene Image Using Neural Networks”<br>
+平成29年度電気関係学会東北支部連合大会講演論文集, 2B12, 2017<br>
+<a href="http://www.ecei.tohoku.ac.jp/ieee-sendai/index.php"><strong>[<font color="red">The Encouragement Prize</font>]</strong></a></p>
 </li>
-<li><p>八重樫 日菜子, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"スパースコーディングを用いた動画像符号化に関する検討"<br>電子情報通信学会総合大会学生ポスターセッション, ISS-SP-200, 2017</p>
+<li>
+<p>八重樫 日菜子,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“スパースコーディングを用いた動画像符号化に関する検討”<br>
+電子情報通信学会総合大会学生ポスターセッション, ISS-SP-200, 2017</p>
 </li>
-<li><p>大平 康太, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"重要度を考慮した情景画像中における文字情報抽出"<br>電子情報通信学会総合大会学生ポスターセッション, ISS-SP-199, 2017</p>
+<li>
+<p>大平 康太,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“重要度を考慮した情景画像中における文字情報抽出”<br>
+電子情報通信学会総合大会学生ポスターセッション, ISS-SP-199, 2017</p>
 </li>
-<li><p>坂井 清士郎, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"文字認識を利用した環境中の日本語英字翻訳を行うウェアラブルシステムの開発"<br>平成28年度電気関係学会東北支部連合大会講演論文集, 2G04, 2016</p>
+<li>
+<p>坂井 清士郎,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“文字認識を利用した環境中の日本語英字翻訳を行うウェアラブルシステムの開発”<br>
+平成28年度電気関係学会東北支部連合大会講演論文集, 2G04, 2016</p>
 </li>
-<li><p>Kyoko Maeda, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Low Resolution Character Recognition Using Convolutional Neural Networks"<br>平成28年度電気関係学会東北支部連合大会講演論文集, 1A04, 2016</p>
+<li>
+<p>Kyoko Maeda,&nbsp;<u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Low Resolution Character Recognition Using Convolutional Neural Networks”<br>
+平成28年度電気関係学会東北支部連合大会講演論文集, 1A04, 2016</p>
 </li>
-<li><p>Kenta Takeda, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Signboard Extraction and Recognition in Subway Station Premises"<br>平成28年度電気関係学会東北支部連合大会講演論文集, 1A03, 2016</p>
+<li>
+<p>Kenta Takeda,&nbsp;Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Signboard Extraction and Recognition in Subway Station Premises”<br>
+平成28年度電気関係学会東北支部連合大会講演論文集, 1A03, 2016</p>
 </li>
-<li><p>井上 慶祐, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"スパースコーディングを用いたテキストを含む画像符号化に関する検討"<br>電子情報通信学会技術研究報告, IE2016-36, vol.116, no.119, pp.5-10, 2016</p>
+<li>
+<p>井上 慶祐,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“スパースコーディングを用いたテキストを含む画像符号化に関する検討”<br>
+電子情報通信学会技術研究報告, IE2016-36, vol.116, no.119, pp.5-10, 2016</p>
 </li>
-<li><p>景山 竣, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"パーツの生成による少数サンプルからのフォント生成"<br>画像の認識・理解シンポジウム (MIRU), PS3-08, 2016</p>
+<li>
+<p>景山 竣, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“パーツの生成による少数サンプルからのフォント生成”<br>
+画像の認識・理解シンポジウム (MIRU), PS3-08, 2016</p>
 </li>
-<li><p>大平 康太, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"顕著性を利用した情景画像からの重要な文字列の検出"<br>画像の認識・理解シンポジウム (MIRU), PS3-42, 2016</p>
+<li>
+<p>大平 康太, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“顕著性を利用した情景画像からの重要な文字列の検出”<br>
+画像の認識・理解シンポジウム (MIRU), PS3-42, 2016</p>
 </li>
-<li><p>Toshiaki Sakai, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Graph Learning with Quadratic Programming in Consideration of Class Diversity"<br>画像の認識・理解シンポジウム (MIRU), PS2-42, 2016</p>
+<li>
+<p>Toshiaki Sakai, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Graph Learning with Quadratic Programming in Consideration of Class Diversity”<br>
+画像の認識・理解シンポジウム (MIRU), PS2-42, 2016</p>
 </li>
-<li><p>酒井 利晃, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"非線形最小化によるグラフのモデルの構築と画像認識"<br>電子情報通信学会2016年総合大会講演論文集, D-12-96, 2016</p>
+<li>
+<p>酒井 利晃, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“非線形最小化によるグラフのモデルの構築と画像認識”<br>
+電子情報通信学会2016年総合大会講演論文集, D-12-96, 2016</p>
 </li>
-<li><p>Shuto Shinbo, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Accuracy Improvement of Character Recognition Using Generated Samples by Morphing"<br>平成27年度電気関係学会東北支部連合大会講演論文集, 2A12, 2015<br><a href="http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2015.html"><strong>[<font color="red">The Best Paper Prize</font>]</strong></a></p>
+<li>
+<p>Shuto Shinbo, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Accuracy Improvement of Character Recognition Using Generated Samples by Morphing”<br>
+平成27年度電気関係学会東北支部連合大会講演論文集, 2A12, 2015<br>
+<a href="http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2015.html"><strong>[<font color="red">The Best Paper Prize</font>]</strong></a></p>
 </li>
-<li><p>Shun Chiba, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Gaze Detection in Omnidirectional Scene by Iterative Image Matching"<br>平成27年度電気関係学会東北支部連合大会講演論文集, 2A11, 2015</p>
+<li>
+<p>Shun Chiba, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Gaze Detection in Omnidirectional Scene by Iterative Image Matching”<br>
+平成27年度電気関係学会東北支部連合大会講演論文集, 2A11, 2015</p>
 </li>
-<li><p>Kento Tonosaki, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Survey of Guide Plates and Fundamental Study of Map Image Analysis for Indoor Navigation"<br>平成27年度電気関係学会東北支部連合大会講演論文集, 1E05, 2015</p>
+<li>
+<p>Kento Tonosaki, Yoshihiro Sugaya, <u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Survey of Guide Plates and Fundamental Study of Map Image Analysis for Indoor Navigation”<br>
+平成27年度電気関係学会東北支部連合大会講演論文集, 1E05, 2015</p>
 </li>
-<li><p>小笠原 和也, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"顕著性マップとGrabCutによる注目物体抽出を用いた動画像符号化"<br>平成27年度電気関係学会東北支部連合大会講演論文集, 2D10, 2015</p>
+<li>
+<p>小笠原 和也, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“顕著性マップとGrabCutによる注目物体抽出を用いた動画像符号化”<br>
+平成27年度電気関係学会東北支部連合大会講演論文集, 2D10, 2015</p>
 </li>
-<li><p>千葉 駿, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"アイトラッカと全方位カメラを用いた環境中の視点位置推定"<br>電子情報通信学会技術研究報告, PRMU2014-134, vol.114, no.454, pp.101-102, 2015</p>
+<li>
+<p>千葉 駿, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“アイトラッカと全方位カメラを用いた環境中の視点位置推定”<br>
+電子情報通信学会技術研究報告, PRMU2014-134, vol.114, no.454, pp.101-102, 2015</p>
 </li>
-<li><p>大島 康嗣, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"ストローク幅特徴を用いた情景画像中の文字検出"<br>電子情報通信学会技術研究報告, PRMU2014-133, vol.114, no.454, pp.99-100, 2015</p>
+<li>
+<p>大島 康嗣, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“ストローク幅特徴を用いた情景画像中の文字検出”<br>
+電子情報通信学会技術研究報告, PRMU2014-133, vol.114, no.454, pp.99-100, 2015</p>
 </li>
-<li><p>石森 亮輔, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"画像抽象化による分割圧縮効果改善の検討"<br>電子情報通信学会技術研究報告, PRMU2014-132, vol.114, no.454, pp.97-98, 2015</p>
+<li>
+<p>石森 亮輔, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“画像抽象化による分割圧縮効果改善の検討”<br>
+電子情報通信学会技術研究報告, PRMU2014-132, vol.114, no.454, pp.97-98, 2015</p>
 </li>
-<li><p>鳥羽 修平, 工藤 裕貴, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"動画像を用いた超低解像度文字認識"<br>電子情報通信学会技術研究報告, PRMU2014-131, vol.114, no.454, pp.95-96, 2015</p>
+<li>
+<p>鳥羽 修平, 工藤 裕貴, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“動画像を用いた超低解像度文字認識”<br>
+電子情報通信学会技術研究報告, PRMU2014-131, vol.114, no.454, pp.95-96, 2015</p>
 </li>
-<li><p>吉田 大樹, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"電子基板の欠陥検査のための文字認識"<br>平成27年度電気関係学会東北支部連合大会講演論文集, 1E06, 2015</p>
+<li>
+<p>吉田 大樹, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“電子基板の欠陥検査のための文字認識”<br>
+平成27年度電気関係学会東北支部連合大会講演論文集, 1E06, 2015</p>
 </li>
-<li><p>川村 思織, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"補助線を利用した文字領域抽出"<br>電子情報通信学会技術研究報告, PRMU2013-152, vol.113, no.431, pp.119-120, 2014</p>
+<li>
+<p>川村 思織, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“補助線を利用した文字領域抽出”<br>
+電子情報通信学会技術研究報告, PRMU2013-152, vol.113, no.431, pp.119-120, 2014</p>
 </li>
-<li><p>石森 亮輔, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"オブジェクトベースの符号化のための画像抽象化を用いた分割圧縮"<br>画像符号化シンポジウム予稿集, P-4-11, 2014</p>
+<li>
+<p>石森 亮輔, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“オブジェクトベースの符号化のための画像抽象化を用いた分割圧縮”<br>
+画像符号化シンポジウム予稿集, P-4-11, 2014</p>
 </li>
-<li><p>野末 洋佑, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"文字パラメータを利用した動画像中の文字の高効率符号化"<br>画像符号化シンポジウム予稿集, P-2-11, 2014</p>
+<li>
+<p>野末 洋佑, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“文字パラメータを利用した動画像中の文字の高効率符号化”<br>
+画像符号化シンポジウム予稿集, P-2-11, 2014</p>
 </li>
-<li><p>Shuhei Toba, Hirotaka Kudo, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Ultra-Low Resolution Character Recognition with Increased Training Data and Image Enhancement"<br>平成26年度電気関係学会東北支部連合大会講演論文集, 2A18, 2014</p>
+<li>
+<p>Shuhei Toba, Hirotaka Kudo, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Ultra-Low Resolution Character Recognition with Increased Training Data and Image Enhancement”<br>
+平成26年度電気関係学会東北支部連合大会講演論文集, 2A18, 2014</p>
 </li>
-<li><p>Tatsunori Tsuchiya, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"Automatic Generation of Kanji Fonts from Sample Designs"<br>平成26年度電気関係学会東北支部連合大会講演論文集, 2A17, 2014</p>
+<li>
+<p>Tatsunori Tsuchiya, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Automatic Generation of Kanji Fonts from Sample Designs”<br>
+平成26年度電気関係学会東北支部連合大会講演論文集, 2A17, 2014</p>
 </li>
-<li><p>Yosuke Nozue, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>"A Video Coding Method for Scene Text"<br>平成26年度電気関係学会東北支部連合大会講演論文集, 2A19, 2014</p>
+<li>
+<p>Yosuke Nozue, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“A Video Coding Method for Scene Text”<br>
+平成26年度電気関係学会東北支部連合大会講演論文集, 2A19, 2014</p>
 </li>
-<li><p>石森 亮輔, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"抽象化を用いた画像圧縮のための領域分割"<br>平成26年度電気関係学会東北支部連合大会講演論文集, 2H14, 2014</p>
+<li>
+<p>石森 亮輔, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“抽象化を用いた画像圧縮のための領域分割”<br>
+平成26年度電気関係学会東北支部連合大会講演論文集, 2H14, 2014</p>
 </li>
-<li><p>大島 康嗣, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"全方位情景画像のための2段階文字列検出"<br>画像の認識・理解シンポジウム (MIRU), SS1-42, 2014</p>
+<li>
+<p>大島 康嗣,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“全方位情景画像のための2段階文字列検出”<br>
+画像の認識・理解シンポジウム (MIRU), SS1-42, 2014</p>
 </li>
-<li><p>鳥羽 修平, 工藤 裕貴, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"ぼけ除去及び複数フレームを利用した超低解像度文字認識"<br>画像の認識・理解シンポジウム (MIRU), SS2-50, 2014</p>
+<li>
+<p>鳥羽 修平, 工藤 裕貴,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“ぼけ除去及び複数フレームを利用した超低解像度文字認識”<br>
+画像の認識・理解シンポジウム (MIRU), SS2-50, 2014</p>
 </li>
-<li><p>土屋 達徳, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"サンプルデザインからの漢字フォントの自動生成"<br>画像の認識・理解シンポジウム (MIRU), SS3-17, 2014</p>
+<li>
+<p>土屋 達徳,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“サンプルデザインからの漢字フォントの自動生成”<br>
+画像の認識・理解シンポジウム (MIRU), SS3-17, 2014</p>
 </li>
-<li><p>川村 思織, <u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>"補助線を利用した文字領域抽出"<br>画像の認識・理解シンポジウム (MIRU), SS3-45, 2014</p>
+<li>
+<p>川村 思織,&nbsp;<u><strong>宮崎 智</strong></u>, 菅谷 至寛, 大町 真一郎<br>
+“補助線を利用した文字領域抽出”<br>
+画像の認識・理解シンポジウム (MIRU), SS3-45, 2014</p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>"Structure Extraction from Multiple Decorative Character Images"<br>平成21年度電気関係学会東北支部連合大会講演論文集, 2A-11, 2009<br><a href="http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2009.html"><font color="red">The Best Paper Prize</font></a></p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi, Hirotomo Aso<br>
+“Structure Extraction from Multiple Decorative Character Images”<br>
+平成21年度電気関係学会東北支部連合大会講演論文集, 2A-11, 2009<br>
+<a href="http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2009.html"><font color="red">The Best Paper Prize</font></a></p>
 </li>
-<li><p><u><strong>宮崎 智</strong></u>, 大町 真一郎, 阿曽 弘具<br>"共通拡大グラフによる飾り文字画像群からの文字構造抽出"<br>画像の認識・理解シンポジウム論文集, IS1-16, pp.506-512, 2009</p>
+<li>
+<p><u><strong>宮崎 智</strong></u>, 大町 真一郎, 阿曽 弘具<br>
+“共通拡大グラフによる飾り文字画像群からの文字構造抽出”<br>
+画像の認識・理解シンポジウム論文集, IS1-16, pp.506-512, 2009</p>
 </li>
-<li><p><u><strong>宮崎 智</strong></u>, 大町 真一郎, 阿曽 弘具<br>"重み付き最小共通スーパーグラフによるシルエット画像の構造抽出"<br>画像の認識・理解シンポジウム論文集, IS5-3, pp.1408-1413, 2008</p>
+<li>
+<p><u><strong>宮崎 智</strong></u>, 大町 真一郎, 阿曽 弘具<br>
+“重み付き最小共通スーパーグラフによるシルエット画像の構造抽出”<br>
+画像の認識・理解シンポジウム論文集, IS5-3, pp.1408-1413, 2008</p>
 </li>
 </ol>
-<h1 id="misc">Misc</h1>
+<h1>Misc</h1>
 <ol>
-<li><p><u><strong>宮崎 智</strong></u>, 川村 思織, 菅谷 至寛, 大町 真一郎<br>"ユーザ入力の補助線による情景画像からの高精度文字抽出",<br>画像ラボ, 2017年10月号</p>
+<li>
+<p>北本 朝展, カラーヌワット タリン, <u><strong>宮崎 智</strong></u>, 山本　和明<br>
+“文字データの分析――機械学習によるくずし字認識の可能性とそのインパクト――”<br>
+電子情報通信学会会誌, Vol.102 No.6pp.563-568, 2019 <a href="https://www.journal.ieice.org/summary.php?id=k102_6_563&amp;year=2019&amp;lang=J"><strong>[paper]</strong></a></p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>"Structural Data Recognition with Graph Model Boosting"<br><a href="https://arxiv.org/abs/1703.02662">arXiv: 1703.02662</a>, 2017</p>
+<li>
+<p><u><strong>宮崎 智</strong></u>, 川村 思織, 菅谷 至寛, 大町 真一郎<br>
+“ユーザ入力の補助線による情景画像からの高精度文字抽出”,<br>
+画像ラボ, 2017年10月号</p>
 </li>
-<li><p><u><strong>Tomo Miyazaki</strong></u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise<br>"Automatic Generation of Typographic Font from a Small Font Subset"<br><a href="https://arxiv.org/abs/1701.05703">arXiv: 1701.05703</a>, 2017</p>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Shinichiro Omachi<br>
+“Structural Data Recognition with Graph Model Boosting”<br>
+<a href="https://arxiv.org/abs/1703.02662">arXiv: 1703.02662</a>, 2017</p>
+</li>
+<li>
+<p><u><strong>Tomo Miyazaki</strong></u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, Masakazu Iwamura, Seiichi Uchida, Koichi Kise<br>
+“Automatic Generation of Typographic Font from a Small Font Subset”<br>
+<a href="https://arxiv.org/abs/1701.05703">arXiv: 1701.05703</a>, 2017</p>
 </li>
 </ol>
-<h1 id="exhibition">Exhibition</h1>
+<h1>Exhibition</h1>
 <ol>
 <li>全方位文字認識技術（全方位に存在する文字を高精度かつリアルタイムに認識するデモシス
 テム）の出展, 最先端IT・エレクトロニクス総合展（CEATEC JAPAN）, 2014 年10 月
@@ -497,5 +1386,7 @@ pp.85–86, 2009</p>
 識するデモシステム）の出展, 東北大学イノベーションフェア, 2014 年1 月28 日</li>
 <li>人間調和型の文字検出および認識手法（人間が見た文字を検出し認識するデモシステム）の
 出展, 東北大学電気・情報東京フォーラム, 2013 年11 月25 日</li>
-</ol></body>
+</ol>
+
+  </body>
 </html>

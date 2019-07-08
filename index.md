@@ -4,7 +4,6 @@
 
 I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
-
 <a href="https://researchmap.jp/7000017763/"><img src="./imgs/researchmap.gif"></a>
 <a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>
 
@@ -21,6 +20,14 @@ Tel: +81-22-795-7088
 Fax: +81-22-795-7090  
 Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan（仙台市青葉区荒巻字青葉6-6-05 電気系1号館 621号室）  
 Lab Website: [Laboratory for Image Information Communications (In Japanese)](http://www.iic.ecei.tohoku.ac.jp/index.html)
+
+
+
+# Important things
+1. Respect to everyone.
+1. Work intensively.
+1. Comparison with myself, not others.
+
 
 # Research
 My research interests are in pattern recognition and image processing.
@@ -48,6 +55,7 @@ IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](htt
 [Full list](./publications.html)
 
 
+
 # Awards
 1. The Eighth International Conferences on Pervasive Patterns and Applications, Best Paper Award (March 22, 2016)  
 Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
@@ -73,6 +81,7 @@ Tohoku-Section Joint Convention Record of Institutes of Electrical and Informati
 2. 大町真一郎, 長岡禎人, 宮崎 智, 菅谷至寛, 山下龍麿, 菅原道晴, 小野寺政行  
 "魚選別装置、魚選別方法、魚種類推定装置、及び、魚種類推定方法"  
 特願2018-018601
+
 
 
 # Professional Activity
@@ -103,11 +112,13 @@ Systems (SOIM-GCOE2009), 2009
 
 
 # Funding
-1. Grant-in-Aid for Scientific Research (C), Principal Investigator, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
-1. Grant-in-Aid for Challenging Research (Exploratory), Co-Investigator, No. 18K19772, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
-1. Grant-in-Aid for Scientific Research (C), Co-Investigator, No. 18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
-1. Grant-in-Aid for Scientific Research (B), Co-Investigator, No. 16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
+1. Grant-in-Aid for Scientific Research ( C ), Principal Investigator, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
+1. Grant-in-Aid for Challenging Research ( Exploratory ), Co-Investigator, No. 18K19772, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
+1. Grant-in-Aid for Scientific Research ( C ), Co-Investigator, No. 18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
+1. Grant-in-Aid for Scientific Research ( B ), Co-Investigator, No. 16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
 1. Grant-in-Aid for Research Activity start-up, Principal Investigator, No. 15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
+
+
 
 
 <!--
