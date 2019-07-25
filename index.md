@@ -23,9 +23,9 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 
 
-# Important things
-1. Respect to everyone.
-1. Work intensively.
+# My Goal
+1. Respect everyone.
+1. Work for neighbors.
 1. Comparison with myself, not others.
 
 
