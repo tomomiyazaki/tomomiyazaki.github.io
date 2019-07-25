@@ -3,7 +3,7 @@
 # Journal
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications, 2019 (Minor Revision)
+IEEE Computer Graphics and Applications, 2019 (in press)
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
