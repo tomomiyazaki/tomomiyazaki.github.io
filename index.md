@@ -38,7 +38,7 @@ Also structural data, such as chemical compounds, is my research target.
 # Selected Publication
 + <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications, 2019 (in press)
+IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
 
 + Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
