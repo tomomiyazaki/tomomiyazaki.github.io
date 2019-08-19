@@ -25,7 +25,7 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 # My Goal
 1. Respect everyone.
-1. Work for neighbors.
+1. Work for neighbours.
 1. Comparison with myself, not others.
 
 
