@@ -371,3 +371,30 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 識するデモシステム）の出展, 東北大学イノベーションフェア, 2014 年1 月28 日
 1. 人間調和型の文字検出および認識手法（人間が見た文字を検出し認識するデモシステム）の
 出展, 東北大学電気・情報東京フォーラム, 2013 年11 月25 日
+
+
+# Awards
+1. The Eighth International Conferences on Pervasive Patterns and Applications, Best Paper Award (March 22, 2016)  
+Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+"Indoor Localization by Map Matching Using One Image of Information Board"  
+Proceedings of The Eighth International Conferences on Pervasive Patterns and Applications (PATTERNS), pp.22-26, 2016 [**[URL]**](http://www.iaria.org/conferences2016/AwardsPATTERNS16.html)   
+
+1. The Eighth International Conferences on Creative Content Technologies, Best Paper Award (March 22, 2016)  
+Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+"Object-based Video Coding for Arbitrary Shape by Visual Saliency and Temporal Correlation"  
+Proceedings of The Eighth International Conference on Creative Content Technologies (CONTENT), pp.13-16, 2016 [**[URL]**](http://www.iaria.org/conferences2016/AwardsCONTENT16.html)  
+
+1. IEEE Sendai Section, The Best Paper Prize (December 7, 2009)  
+<u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso  
+"Structure Extraction from Multiple Decorative Character Images"  
+Tohoku-Section Joint Convention Record of Institutes of Electrical and Information Engineers, 2A-11, 2009 [**[URL]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2009.html)
+
+
+# Patent
+1. 菅谷 至寛, 外崎 健人, 大町 真一郎, 宮崎 智,  
+"情報端末、位置推定方法、および位置推定プログラム"  
+特願2016-056139，特開2017-173001
+
+2. 大町真一郎, 長岡禎人, 宮崎 智, 菅谷至寛, 山下龍麿, 菅原道晴, 小野寺政行  
+"魚選別装置、魚選別方法、魚種類推定装置、及び、魚種類推定方法"  
+特願2018-018601

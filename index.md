@@ -23,7 +23,7 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 
 
-# My Goal
+# My Goals
 1. Respect everyone.
 1. Work for neighbours.
 1. Comparison with myself, not others.
@@ -35,71 +35,44 @@ I am especially interested in recognizing visual objects with their structure.
 Also structural data, such as chemical compounds, is my research target.
 
 
-# Selected Publication
-+ <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
+# Publications
++ <u>**T. Miyazaki**</u>, T. Tsuchiya, Y. Sugaya, S. Omachi, [M. Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [S. Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [K. Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
 IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
 
-+ Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
++ Y. Nagaoka, <u>**T. Miyazaki**</u>, Y. Sugaya,  S. Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)  
+IEEE Access, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)  
 
-+ <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
++ <u>**T. Miyazaki**</u>, S. Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
-IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
+IEEE Access, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
 
-+ Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
++ K. Ogasawara, <u>**T. Miyazaki**</u>, Y. Sugaya, S. Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
-IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) (in press)
+IEEE Transactions on Emerging Topics in Computing, 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
 
-[Full list](./publications.html)
-
-
-
-# Awards
-1. The Eighth International Conferences on Pervasive Patterns and Applications, Best Paper Award (March 22, 2016)  
-Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
-"Indoor Localization by Map Matching Using One Image of Information Board"  
-Proceedings of The Eighth International Conferences on Pervasive Patterns and Applications (PATTERNS), pp.22-26, 2016 [**[URL]**](http://www.iaria.org/conferences2016/AwardsPATTERNS16.html)   
-
-1. The Eighth International Conferences on Creative Content Technologies, Best Paper Award (March 22, 2016)  
-Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
-"Object-based Video Coding for Arbitrary Shape by Visual Saliency and Temporal Correlation"  
-Proceedings of The Eighth International Conference on Creative Content Technologies (CONTENT), pp.13-16, 2016 [**[URL]**](http://www.iaria.org/conferences2016/AwardsCONTENT16.html)  
-
-1. IEEE Sendai Section, The Best Paper Prize (December 7, 2009)  
-<u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso  
-"Structure Extraction from Multiple Decorative Character Images"  
-Tohoku-Section Joint Convention Record of Institutes of Electrical and Information Engineers, 2A-11, 2009 [**[URL]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2009.html)
-
-
-# Patent
-1. 菅谷 至寛, 外崎 健人, 大町 真一郎, 宮崎 智,  
-"情報端末、位置推定方法、および位置推定プログラム"  
-特願2016-056139，特開2017-173001
-
-2. 大町真一郎, 長岡禎人, 宮崎 智, 菅谷至寛, 山下龍麿, 菅原道晴, 小野寺政行  
-"魚選別装置、魚選別方法、魚種類推定装置、及び、魚種類推定方法"  
-特願2018-018601
+[**Full list**](./publications.html)
 
 
 
 # Professional Activity
+1. Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/) [**[2017]**](http://events.unifr.ch/hip2017/people/)
+[**[2019]**](https://www.primaresearch.org/hip2019/people)
 1. Program Committee Member, The 16th International Conference on
 Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
 1. Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
-1. Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/) [**[2017]**](http://events.unifr.ch/hip2017/people/)
-[**[2019]**](https://www.primaresearch.org/hip2019/people)
 1. Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
 Systems (SOIM-GCOE2009), 2009
 1. 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021 [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019) [**[Letter]**](./imgs/Letter_PRMU.pdf)
 1. 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021 [**[URL]**](https://www.ieice.org/iss/ie/jpn/) [**[Letter]**](./imgs/Letter_IE.pdf)
 1. 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4-2020.3 [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
+1. MIRU2020 組織副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
 1. MIRU2019 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
 
 # Review Experience
 1. IEEE Transaction on Image Processing (TIP)
-1. IEEE Transactions on Circuits and Systems for Video Technology
+1. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 1. IEEE Access
 1. International Journal on Document Analysis and Recognition (IJDAR)
 1. Journal of Circuits, Systems, and Computers
