@@ -1,6 +1,10 @@
 [HOME](./index.html)
 
 # Journal
+1. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+"Optical Flow-Based Fast Motion Parameters Estimation for Affine Motion Compensation"  
+MDPI Journal of Applied Sciences, vol.10, no.2, 2020 [**[paper]**](https://www.mdpi.com/2076-3417/10/2/729)
+
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
 IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
@@ -41,7 +45,7 @@ Japanese:
 1. 菅谷 至寛, 坂井 清士郎, <u>**宮崎 智**</u>, 大町 真一郎  
 "環境中文字認識を利用した情報提供アプリケーションのための
 ウェアラブルシステムの開発"  
-画像電子学誌 第48巻 第2号, 2019 (in press)
+画像電子学誌 第48巻 第2号, pp.248-257, 2019
 
 1. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
 "補助線を用いた情景画像からの高精度文字領域抽出"  
