@@ -26,7 +26,7 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 # My Goals
 1. Respect everyone.
 1. Work for neighbours.
-1. Comparison with myself, not others.
+1. Comparison with myself, not others.  
 
 
 # Research
@@ -39,15 +39,12 @@ Also structural data, such as chemical compounds, is my research target.
 + <u>**T. Miyazaki**</u>, T. Tsuchiya, Y. Sugaya, S. Omachi, [M. Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [S. Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [K. Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
 IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
-
 + Y. Nagaoka, <u>**T. Miyazaki**</u>, Y. Sugaya,  S. Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
 IEEE Access, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)  
-
 + <u>**T. Miyazaki**</u>, S. Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
 IEEE Access, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
-
 + K. Ogasawara, <u>**T. Miyazaki**</u>, Y. Sugaya, S. Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
 IEEE Transactions on Emerging Topics in Computing, 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
@@ -57,39 +54,45 @@ IEEE Transactions on Emerging Topics in Computing, 2017 [**[paper]**](https://do
 
 
 # Professional Activity
-1. Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/) [**[2017]**](http://events.unifr.ch/hip2017/people/)
-[**[2019]**](https://www.primaresearch.org/hip2019/people)
-1. Program Committee Member, The 16th International Conference on
-Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
-1. Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
-1. Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
-Systems (SOIM-GCOE2009), 2009
-1. 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021 [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019) [**[Letter]**](./imgs/Letter_PRMU.pdf)
-1. 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021 [**[URL]**](https://www.ieice.org/iss/ie/jpn/) [**[Letter]**](./imgs/Letter_IE.pdf)
-1. 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4-2020.3 [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
-1. MIRU2020 組織副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
-1. MIRU2019 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
+Ongoing:
+- 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4- [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
+- MIRU2020 組織 副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
+- 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021 [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019) [**[Letter]**](./imgs/Letter_PRMU.pdf)
+- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021 [**[URL]**](https://www.ieice.org/iss/ie/jpn/) [**[Letter]**](./imgs/Letter_IE.pdf)
 
-# Review Experience
-1. IEEE Transaction on Image Processing (TIP)
-1. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+Done:
+- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/) [**[2017]**](http://events.unifr.ch/hip2017/people/)
+[**[2019]**](https://www.primaresearch.org/hip2019/people)
+- Program Committee Member, The 16th International Conference on
+Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
+- Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
+- Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
+Systems (SOIM-GCOE2009), 2009
+- MIRU2019 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
+
+
+# Review Experience (newest first)
 1. IEEE Access
+1. IJCAI-PRICAI2020
+1. IEICE Transactions on Information and Systems
+1. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+1. Meeting on Image Recognition and Understanding (MIRU)
+1. IEEE Transaction on Image Processing (TIP)
 1. International Journal on Document Analysis and Recognition (IJDAR)
 1. Journal of Circuits, Systems, and Computers
-1. IEICE Transactions on Information and Systems
 1. The International Conference on Frontiers in Handwriting Recognition
 (ICFHR)
 1. The International Workshop on Document Analysis System (DAS)
 1. The Asian Conference on Pattern Recognition (ACPR)
-1. Meeting on Image Recognition and Understanding (MIRU)
 
 
 # Funding
-1. Grant-in-Aid for Scientific Research ( C ), Principal Investigator, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
+1. Grant-in-Aid for Scientific Research ( C ), **Principal Investigator**, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
 1. Grant-in-Aid for Challenging Research ( Exploratory ), Co-Investigator, No. 18K19772, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/)
 1. Grant-in-Aid for Scientific Research ( C ), Co-Investigator, No. 18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
 1. Grant-in-Aid for Scientific Research ( B ), Co-Investigator, No. 16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
-1. Grant-in-Aid for Research Activity start-up, Principal Investigator, No. 15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
+1. Grant-in-Aid for Research Activity start-up, **Principal Investigator**, No. 15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
 
 
 

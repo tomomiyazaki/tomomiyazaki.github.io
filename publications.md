@@ -7,7 +7,7 @@ MDPI Journal of Applied Sciences, vol.10, no.2, 2020 [**[paper]**](https://www.m
 
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
+IEEE Computer Graphics and Applications, vol.40, issue 1, pp.99-111, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
@@ -31,7 +31,7 @@ MDPI Journal of Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
-IEEE Transactions on Emerging Topics in Computing (TETC), 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) (in press)
+IEEE Transactions on Emerging Topics in Computing (TETC), Volume 8, Issue 1, pp. 168-178, 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) (in press)
 
 1. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Efficient Coding for Video Including Text Using Image Generation"  
