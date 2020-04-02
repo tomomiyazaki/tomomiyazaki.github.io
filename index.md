@@ -15,7 +15,7 @@ I am an Assistant Professor at Department of Communication Engineering at Tohoku
 
 
 # Physical Address
-Emai: tomo (at) tohoku.ac.jp  
+Email: tomo (at) tohoku.ac.jp  
 Tel: +81-22-795-7088  
 Fax: +81-22-795-7090  
 Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan（仙台市青葉区荒巻字青葉6-6-05 電気系1号館 621号室）  
