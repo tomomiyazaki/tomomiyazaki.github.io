@@ -36,6 +36,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Publications
+- [Prepreints](https://arxiv.org/a/miyazaki_t_1.html)
 + <u>**T. Miyazaki**</u>, T. Tsuchiya, Y. Sugaya, S. Omachi, [M. Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [S. Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [K. Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
 IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
@@ -73,19 +74,22 @@ Systems (SOIM-GCOE2009), 2009
 
 
 # Review Experience (newest first)
+1. ICFHR2020
+1. MIRU2020
 1. IEEE Access
 1. IJCAI-PRICAI2020
 1. IEICE Transactions on Information and Systems
 1. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-1. Meeting on Image Recognition and Understanding (MIRU)
+<!--
 1. IEEE Transaction on Image Processing (TIP)
 1. International Journal on Document Analysis and Recognition (IJDAR)
+1. Meeting on Image Recognition and Understanding (MIRU)
 1. Journal of Circuits, Systems, and Computers
 1. The International Conference on Frontiers in Handwriting Recognition
 (ICFHR)
 1. The International Workshop on Document Analysis System (DAS)
 1. The Asian Conference on Pattern Recognition (ACPR)
-
+-->
 
 # Funding
 1. Grant-in-Aid for Scientific Research ( C ), **Principal Investigator**, No. 19K11848, 2019-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/)
