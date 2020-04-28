@@ -36,17 +36,19 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Publications
-- [Prepreints](https://arxiv.org/a/miyazaki_t_1.html)
-+ <u>**T. Miyazaki**</u>, T. Tsuchiya, Y. Sugaya, S. Omachi, [M. Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [S. Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [K. Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
+- H. M. Nguyen, <u>**T. Miyazaki**</u>, Y. Sugaya,  S. Omachi  
+"Multiple Visual-Semantic Embedding for Video Retrieval from Query Sentence"  
+arXiv, 2020 [**[paper]**](https://arxiv.org/abs/2004.07967)
+- <u>**T. Miyazaki**</u>, T. Tsuchiya, Y. Sugaya, S. Omachi, [M. Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [S. Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [K. Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
 IEEE Computer Graphics and Applications, 2019 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
-+ Y. Nagaoka, <u>**T. Miyazaki**</u>, Y. Sugaya,  S. Omachi  
+- Y. Nagaoka, <u>**T. Miyazaki**</u>, Y. Sugaya,  S. Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)  
-+ <u>**T. Miyazaki**</u>, S. Omachi  
+IEEE Access, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)
+- <u>**T. Miyazaki**</u>, S. Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
 IEEE Access, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
-+ K. Ogasawara, <u>**T. Miyazaki**</u>, Y. Sugaya, S. Omachi  
+- K. Ogasawara, <u>**T. Miyazaki**</u>, Y. Sugaya, S. Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
 IEEE Transactions on Emerging Topics in Computing, 2017 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
 
