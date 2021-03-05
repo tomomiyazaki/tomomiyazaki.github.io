@@ -13,11 +13,11 @@ Applied Sciences, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
-IEEE Transactions on Emerging Topics in Computing (TETC), Volume 8, Issue 1, pp. 168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
+IEEE Transactions on Emerging Topics in Computing (TETC), Volume 8, Issue 1, pp. 168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 6.043**
 
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431)  
+IEEE Computer Graphics and Applications, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 1.627**
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
@@ -25,11 +25,11 @@ IIEEJ Transactions on Image Electronics and Visual Computing, vol.7, no.1, p.2-1
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch)  
+IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.745**
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
-IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)  
+IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.745**
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
