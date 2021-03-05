@@ -242,7 +242,7 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 1. 黄 希, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
 "Multi-Frame Super Resolution Using 3D Convolution and RNN Prediction"  
 平成30年度電気関係学会東北支部連合大会講演論文集, 2F12, 2018  
-**[<font color=red>The Encouragement Prize</font>]**
+[**[<font color=red>The Encouragement Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/awards2018.pdf)
 
 1. 桑野 拓朗, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
 "超解像を用いた動画像符号化に関する検討"  
