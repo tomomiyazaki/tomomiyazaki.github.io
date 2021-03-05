@@ -56,14 +56,24 @@ IEEE Access, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)
 # Professional Activity
 Current:
 - 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4- [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
+- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP),
+[**[2021]**](https://blog.sbb.berlin/hip2021/#people)
+[**[2019]**](https://www.primaresearch.org/hip2019/people)
+[**[2017]**](http://events.unifr.ch/hip2017/people/)
+[**[2015]**](http://hip2015.irisa.fr/people/)
+- IJCAI-PRICAI PC Member [**2021**] [**[2020]**](https://ijcai20.org/pc_members/)
+- PC Member ICDAR [**2021**]
 
 Previous:
-- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP), [**[2015]**](http://hip2015.irisa.fr/people/) [**[2017]**](http://events.unifr.ch/hip2017/people/)
-[**[2019]**](https://www.primaresearch.org/hip2019/people) [**[2021]**](https://blog.sbb.berlin/hip2021/#people)
-- IJCAI-PRICAI PC Member [**[2020]**](https://ijcai20.org/pc_members/)
 - MIRU2020 組織 副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
-- 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021 [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019) [**[Letter]**](./imgs/Letter_PRMU.pdf)
-- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021 [**[URL]**](https://www.ieice.org/iss/ie/jpn/) [**[Letter]**](./imgs/Letter_IE.pdf)
+- 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021
+[**[Letter]**](./imgs/Letter_PRMU.pdf)
+[**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html)
+[**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/)
+[**[アルコン2019]**](https://sites.google.com/view/alcon2019)
+- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021
+[**[Letter]**](./imgs/Letter_IE.pdf)
+[**[URL]**](https://www.ieice.org/iss/ie/jpn/)
 - Program Committee Member, The 16th International Conference on
 Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
 - Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
