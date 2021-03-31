@@ -3,6 +3,11 @@
 [Preprints](https://arxiv.org/a/miyazaki_t_1.html)
 
 # Journal
+1. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+"Multiple Visual-Semantic Embedding for Video Retrieval from Query
+Sentence"  
+Applied Sciences, vol.XX, no.XX, 2021 [**[paper]**]() **IF: 2.474**
+
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale"  
 Sensors, vol.21, no.4, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.275**
@@ -45,7 +50,8 @@ Journal of Information Processing, vol.24, no.2, pp.330-338, 2016 [**[paper]**](
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Representative Graph Generation for Graph-Based Character Recognition"  
-The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)  
+The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439) 
+
 
 Japanese:
 1. 菅谷 至寛, 坂井 清士郎, <u>**宮崎 智**</u>, 大町 真一郎  
