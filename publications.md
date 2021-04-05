@@ -6,7 +6,7 @@
 1. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Multiple Visual-Semantic Embedding for Video Retrieval from Query
 Sentence"  
-Applied Sciences, vol.XX, no.XX, 2021 [**[paper]**]() **IF: 2.474**
+Applied Sciences, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.474**
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale"  
