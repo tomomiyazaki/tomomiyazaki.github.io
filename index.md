@@ -4,7 +4,7 @@
 
 I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
-<a href="https://researchmap.jp/7000017763/"><img src="./imgs/researchmap.gif"></a>
+<a href="https://researchmap.jp/tomo_miyazaki"><img src="./imgs/researchmap.gif"></a>
 <a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>
 
 <a href="https://scholar.google.co.jp/citations?user=Utjz8l8AAAAJ&hl=ja"><img src="./imgs/google_96px.png" height=70></a>
@@ -55,7 +55,7 @@ IEEE Access, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860)
 
 # Professional Activity
 Current:
-- 大阪府立大学 文書解析・知識科学研究所 客員研究員, 2018.4- [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
+- 大阪府立大学 文書解析・知識科学研究所 客員研究員 (Visiting Researcher at Institute of Document Analysis and Knowledge Science, IDAKS) 2018.4- [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
 - Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP),
 [**[2021]**](https://blog.sbb.berlin/hip2021/#people)
 [**[2019]**](https://www.primaresearch.org/hip2019/people)
@@ -63,6 +63,9 @@ Current:
 [**[2015]**](http://hip2015.irisa.fr/people/)
 - IJCAI-PRICAI PC Member [**2021**] [**[2020]**](https://ijcai20.org/pc_members/)
 - PC Member ICDAR [**2021**]
+- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2023
+[**[Letter]**](./imgs/Letter_IE.pdf)
+[**[URL]**](https://www.ieice.org/iss/ie/jpn/)
 
 Previous:
 - MIRU2020 組織 副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
@@ -71,9 +74,6 @@ Previous:
 [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html)
 [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/)
 [**[アルコン2019]**](https://sites.google.com/view/alcon2019)
-- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2021
-[**[Letter]**](./imgs/Letter_IE.pdf)
-[**[URL]**](https://www.ieice.org/iss/ie/jpn/)
 - Program Committee Member, The 16th International Conference on
 Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
 - Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
