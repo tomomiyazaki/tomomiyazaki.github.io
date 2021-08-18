@@ -1,115 +1,486 @@
-      <!DOCTYPE html>
-      <html>
-        <head>
-            <meta charset="utf-8" />
-            <title>index</title>
-            <style>.markdown-preview:not([data-use-github-style]) { padding: 2em; font-size: 1.2em; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); overflow: auto; }
-.markdown-preview:not([data-use-github-style]) > :first-child { margin-top: 0px; }
-.markdown-preview:not([data-use-github-style]) h1, .markdown-preview:not([data-use-github-style]) h2, .markdown-preview:not([data-use-github-style]) h3, .markdown-preview:not([data-use-github-style]) h4, .markdown-preview:not([data-use-github-style]) h5, .markdown-preview:not([data-use-github-style]) h6 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0.5em; color: rgb(255, 255, 255); }
-.markdown-preview:not([data-use-github-style]) h1 { font-size: 2.4em; font-weight: 300; }
-.markdown-preview:not([data-use-github-style]) h2 { font-size: 1.8em; font-weight: 400; }
-.markdown-preview:not([data-use-github-style]) h3 { font-size: 1.5em; font-weight: 500; }
-.markdown-preview:not([data-use-github-style]) h4 { font-size: 1.2em; font-weight: 600; }
-.markdown-preview:not([data-use-github-style]) h5 { font-size: 1.1em; font-weight: 600; }
-.markdown-preview:not([data-use-github-style]) h6 { font-size: 1em; font-weight: 600; }
-.markdown-preview:not([data-use-github-style]) strong { color: rgb(255, 255, 255); }
-.markdown-preview:not([data-use-github-style]) del { color: rgb(124, 135, 156); }
-.markdown-preview:not([data-use-github-style]) a, .markdown-preview:not([data-use-github-style]) a code { color: rgb(82, 139, 255); }
-.markdown-preview:not([data-use-github-style]) img { max-width: 100%; }
-.markdown-preview:not([data-use-github-style]) > p { margin-top: 0px; margin-bottom: 1.5em; }
-.markdown-preview:not([data-use-github-style]) > ul, .markdown-preview:not([data-use-github-style]) > ol { margin-bottom: 1.5em; }
-.markdown-preview:not([data-use-github-style]) blockquote { margin: 1.5em 0px; font-size: inherit; color: rgb(124, 135, 156); border-color: rgb(75, 83, 98); border-width: 4px; }
-.markdown-preview:not([data-use-github-style]) hr { margin: 3em 0px; border-top: 2px dashed rgb(75, 83, 98); background: none; }
-.markdown-preview:not([data-use-github-style]) table { margin: 1.5em 0px; }
-.markdown-preview:not([data-use-github-style]) th { color: rgb(255, 255, 255); }
-.markdown-preview:not([data-use-github-style]) th, .markdown-preview:not([data-use-github-style]) td { padding: 0.66em 1em; border: 1px solid rgb(75, 83, 98); }
-.markdown-preview:not([data-use-github-style]) code { color: rgb(255, 255, 255); background-color: rgb(58, 63, 75); }
-.markdown-preview:not([data-use-github-style]) pre.editor-colors { margin: 1.5em 0px; padding: 1em; font-size: 0.92em; border-radius: 3px; background-color: rgb(49, 54, 63); }
-.markdown-preview:not([data-use-github-style]) kbd { color: rgb(255, 255, 255); border-width: 1px 1px 2px; border-style: solid; border-color: rgb(75, 83, 98) rgb(75, 83, 98) rgb(62, 68, 81); border-image: initial; background-color: rgb(58, 63, 75); }
-.markdown-preview[data-use-github-style] { font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif; line-height: 1.6; overflow-wrap: break-word; padding: 30px; font-size: 16px; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); overflow: scroll; }
-.markdown-preview[data-use-github-style] > :first-child { margin-top: 0px !important; }
-.markdown-preview[data-use-github-style] > :last-child { margin-bottom: 0px !important; }
-.markdown-preview[data-use-github-style] a:not([href]) { color: inherit; text-decoration: none; }
-.markdown-preview[data-use-github-style] .absent { color: rgb(204, 0, 0); }
-.markdown-preview[data-use-github-style] .anchor { position: absolute; top: 0px; left: 0px; display: block; padding-right: 6px; padding-left: 30px; margin-left: -30px; }
-.markdown-preview[data-use-github-style] .anchor:focus { outline: none; }
-.markdown-preview[data-use-github-style] h1, .markdown-preview[data-use-github-style] h2, .markdown-preview[data-use-github-style] h3, .markdown-preview[data-use-github-style] h4, .markdown-preview[data-use-github-style] h5, .markdown-preview[data-use-github-style] h6 { position: relative; margin-top: 1em; margin-bottom: 16px; font-weight: bold; line-height: 1.4; }
-.markdown-preview[data-use-github-style] h1 .octicon-link, .markdown-preview[data-use-github-style] h2 .octicon-link, .markdown-preview[data-use-github-style] h3 .octicon-link, .markdown-preview[data-use-github-style] h4 .octicon-link, .markdown-preview[data-use-github-style] h5 .octicon-link, .markdown-preview[data-use-github-style] h6 .octicon-link { display: none; color: rgb(0, 0, 0); vertical-align: middle; }
-.markdown-preview[data-use-github-style] h1:hover .anchor, .markdown-preview[data-use-github-style] h2:hover .anchor, .markdown-preview[data-use-github-style] h3:hover .anchor, .markdown-preview[data-use-github-style] h4:hover .anchor, .markdown-preview[data-use-github-style] h5:hover .anchor, .markdown-preview[data-use-github-style] h6:hover .anchor { padding-left: 8px; margin-left: -30px; text-decoration: none; }
-.markdown-preview[data-use-github-style] h1:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h2:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h3:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h4:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h5:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h6:hover .anchor .octicon-link { display: inline-block; }
-.markdown-preview[data-use-github-style] h1 tt, .markdown-preview[data-use-github-style] h2 tt, .markdown-preview[data-use-github-style] h3 tt, .markdown-preview[data-use-github-style] h4 tt, .markdown-preview[data-use-github-style] h5 tt, .markdown-preview[data-use-github-style] h6 tt, .markdown-preview[data-use-github-style] h1 code, .markdown-preview[data-use-github-style] h2 code, .markdown-preview[data-use-github-style] h3 code, .markdown-preview[data-use-github-style] h4 code, .markdown-preview[data-use-github-style] h5 code, .markdown-preview[data-use-github-style] h6 code { font-size: inherit; }
-.markdown-preview[data-use-github-style] h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
-.markdown-preview[data-use-github-style] h1 .anchor { line-height: 1; }
-.markdown-preview[data-use-github-style] h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
-.markdown-preview[data-use-github-style] h2 .anchor { line-height: 1; }
-.markdown-preview[data-use-github-style] h3 { font-size: 1.5em; line-height: 1.43; }
-.markdown-preview[data-use-github-style] h3 .anchor { line-height: 1.2; }
-.markdown-preview[data-use-github-style] h4 { font-size: 1.25em; }
-.markdown-preview[data-use-github-style] h4 .anchor { line-height: 1.2; }
-.markdown-preview[data-use-github-style] h5 { font-size: 1em; }
-.markdown-preview[data-use-github-style] h5 .anchor { line-height: 1.1; }
-.markdown-preview[data-use-github-style] h6 { font-size: 1em; color: rgb(119, 119, 119); }
-.markdown-preview[data-use-github-style] h6 .anchor { line-height: 1.1; }
-.markdown-preview[data-use-github-style] p, .markdown-preview[data-use-github-style] blockquote, .markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol, .markdown-preview[data-use-github-style] dl, .markdown-preview[data-use-github-style] table, .markdown-preview[data-use-github-style] pre { margin-top: 0px; margin-bottom: 16px; }
-.markdown-preview[data-use-github-style] hr { height: 4px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border: 0px none; }
-.markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol { padding-left: 2em; }
-.markdown-preview[data-use-github-style] ul.no-list, .markdown-preview[data-use-github-style] ol.no-list { padding: 0px; list-style-type: none; }
-.markdown-preview[data-use-github-style] ul ul, .markdown-preview[data-use-github-style] ul ol, .markdown-preview[data-use-github-style] ol ol, .markdown-preview[data-use-github-style] ol ul { margin-top: 0px; margin-bottom: 0px; }
-.markdown-preview[data-use-github-style] li > p { margin-top: 16px; }
-.markdown-preview[data-use-github-style] dl { padding: 0px; }
-.markdown-preview[data-use-github-style] dl dt { padding: 0px; margin-top: 16px; font-size: 1em; font-style: italic; font-weight: bold; }
-.markdown-preview[data-use-github-style] dl dd { padding: 0px 16px; margin-bottom: 16px; }
-.markdown-preview[data-use-github-style] blockquote { padding: 0px 15px; color: rgb(119, 119, 119); border-left: 4px solid rgb(221, 221, 221); }
-.markdown-preview[data-use-github-style] blockquote > :first-child { margin-top: 0px; }
-.markdown-preview[data-use-github-style] blockquote > :last-child { margin-bottom: 0px; }
-.markdown-preview[data-use-github-style] table { display: block; width: 100%; overflow: auto; word-break: keep-all; }
-.markdown-preview[data-use-github-style] table th { font-weight: bold; }
-.markdown-preview[data-use-github-style] table th, .markdown-preview[data-use-github-style] table td { padding: 6px 13px; border: 1px solid rgb(221, 221, 221); }
-.markdown-preview[data-use-github-style] table tr { background-color: rgb(255, 255, 255); border-top: 1px solid rgb(204, 204, 204); }
-.markdown-preview[data-use-github-style] table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
-.markdown-preview[data-use-github-style] img { max-width: 100%; box-sizing: border-box; }
-.markdown-preview[data-use-github-style] .emoji { max-width: none; }
-.markdown-preview[data-use-github-style] span.frame { display: block; overflow: hidden; }
-.markdown-preview[data-use-github-style] span.frame > span { display: block; float: left; width: auto; padding: 7px; margin: 13px 0px 0px; overflow: hidden; border: 1px solid rgb(221, 221, 221); }
-.markdown-preview[data-use-github-style] span.frame span img { display: block; float: left; }
-.markdown-preview[data-use-github-style] span.frame span span { display: block; padding: 5px 0px 0px; clear: both; color: rgb(51, 51, 51); }
-.markdown-preview[data-use-github-style] span.align-center { display: block; overflow: hidden; clear: both; }
-.markdown-preview[data-use-github-style] span.align-center > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: center; }
-.markdown-preview[data-use-github-style] span.align-center span img { margin: 0px auto; text-align: center; }
-.markdown-preview[data-use-github-style] span.align-right { display: block; overflow: hidden; clear: both; }
-.markdown-preview[data-use-github-style] span.align-right > span { display: block; margin: 13px 0px 0px; overflow: hidden; text-align: right; }
-.markdown-preview[data-use-github-style] span.align-right span img { margin: 0px; text-align: right; }
-.markdown-preview[data-use-github-style] span.float-left { display: block; float: left; margin-right: 13px; overflow: hidden; }
-.markdown-preview[data-use-github-style] span.float-left span { margin: 13px 0px 0px; }
-.markdown-preview[data-use-github-style] span.float-right { display: block; float: right; margin-left: 13px; overflow: hidden; }
-.markdown-preview[data-use-github-style] span.float-right > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: right; }
-.markdown-preview[data-use-github-style] code, .markdown-preview[data-use-github-style] tt { padding: 0.2em 0px; margin: 0px; font-size: 85%; background-color: rgba(0, 0, 0, 0.04); border-radius: 3px; }
-.markdown-preview[data-use-github-style] code::before, .markdown-preview[data-use-github-style] tt::before, .markdown-preview[data-use-github-style] code::after, .markdown-preview[data-use-github-style] tt::after { letter-spacing: -0.2em; content: " "; }
-.markdown-preview[data-use-github-style] code br, .markdown-preview[data-use-github-style] tt br { display: none; }
-.markdown-preview[data-use-github-style] del code { text-decoration: inherit; }
-.markdown-preview[data-use-github-style] pre > code { padding: 0px; margin: 0px; font-size: 100%; word-break: normal; white-space: pre; background: transparent; border: 0px; }
-.markdown-preview[data-use-github-style] .highlight { margin-bottom: 16px; }
-.markdown-preview[data-use-github-style] .highlight pre, .markdown-preview[data-use-github-style] pre { padding: 16px; overflow: auto; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border-radius: 3px; }
-.markdown-preview[data-use-github-style] .highlight pre { margin-bottom: 0px; word-break: normal; }
-.markdown-preview[data-use-github-style] pre { overflow-wrap: normal; }
-.markdown-preview[data-use-github-style] pre code, .markdown-preview[data-use-github-style] pre tt { display: inline; max-width: initial; padding: 0px; margin: 0px; overflow: initial; line-height: inherit; overflow-wrap: normal; background-color: transparent; border: 0px; }
-.markdown-preview[data-use-github-style] pre code::before, .markdown-preview[data-use-github-style] pre tt::before, .markdown-preview[data-use-github-style] pre code::after, .markdown-preview[data-use-github-style] pre tt::after { content: normal; }
-.markdown-preview[data-use-github-style] kbd { display: inline-block; padding: 3px 5px; font-size: 11px; line-height: 10px; color: rgb(85, 85, 85); vertical-align: middle; background-color: rgb(252, 252, 252); border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(187, 187, 187); border-image: initial; border-radius: 3px; box-shadow: rgb(187, 187, 187) 0px -1px 0px inset; }
-.markdown-preview[data-use-github-style] a { color: rgb(51, 122, 183); }
-.markdown-preview[data-use-github-style] code { color: inherit; }
-.markdown-preview[data-use-github-style] pre.editor-colors { padding: 0.8em 1em; margin-bottom: 1em; font-size: 0.85em; border-radius: 4px; overflow: auto; }
-.markdown-preview pre.editor-colors { user-select: auto; }
-.scrollbars-visible-always .markdown-preview pre.editor-colors .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors .horizontal-scrollbar { visibility: hidden; }
-.scrollbars-visible-always .markdown-preview pre.editor-colors:hover .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors:hover .horizontal-scrollbar { visibility: visible; }
-.markdown-preview .task-list-item input[type="checkbox"] { position: absolute; margin: 0.25em 0px 0px -1.4em; }
-.markdown-preview .task-list-item { list-style-type: none; }
+<!DOCTYPE html>
+<html data-markdown-preview-plus-context="html-export">
+  <head>
+    <meta charset="utf-8" />
+    <title>index</title><script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    jax: ["input/TeX","output/HTML-CSS"],
+    extensions: ["[a11y]/accessibility-menu.js"],
+    'HTML-CSS': {
+      availableFonts: [],
+      webFont: 'TeX',
+      undefinedFamily: "serif",
+      mtextFontInherit: true,
+    },
+    TeX: {
+  "Macros": {},
+  "equationNumbers": {},
+  "extensions": [
+    "AMSmath.js",
+    "AMSsymbols.js",
+    "noErrors.js",
+    "noUndefined.js"
+  ]
+},
+    showMathMenu: true
+  });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js"></script>
+    <style>.emoji {
+  max-width: 1em !important;
+}
+del {
+  text-decoration: none;
+  position: relative;
+}
+del::after {
+  border-bottom: 1px solid black;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+ul.contains-task-list li.task-list-item {
+  position: relative;
+  list-style-type: none;
+}
+ul.contains-task-list li.task-list-item input.task-list-item-checkbox {
+  position: absolute;
+  transform: translateX(-100%);
+  width: 26px;
+}
+span.critic.comment {
+  position: relative;
+}
+span.critic.comment::before {
+  content: '\1f4ac';
+  position: initial;
+}
+span.critic.comment > span {
+  display: none;
+}
+span.critic.comment:hover > span {
+  display: initial;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: 1px solid;
+  border-radius: 5px;
+  max-height: 4em;
+  overflow: auto;
+}
+span.critic.comment:focus > span {
+  display: initial;
+  text-decoration: underline;
+  position: initial;
+  top: auto;
+  left: auto;
+  border: initial;
+  border-radius: initial;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: transparent;
+}
+
+body {
+  overflow: initial !important;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  line-height: 1.6;
+  word-wrap: break-word;
+  padding: 30px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+}
+body > *:first-child {
+  margin-top: 0 !important;
+}
+body > *:last-child {
+  margin-bottom: 0 !important;
+}
+body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+body .absent {
+  color: #c00;
+}
+body .anchor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+body .anchor:focus {
+  outline: none;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+body h1 .octicon-link,
+body h2 .octicon-link,
+body h3 .octicon-link,
+body h4 .octicon-link,
+body h5 .octicon-link,
+body h6 .octicon-link {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+body h1:hover .anchor,
+body h2:hover .anchor,
+body h3:hover .anchor,
+body h4:hover .anchor,
+body h5:hover .anchor,
+body h6:hover .anchor {
+  padding-left: 8px;
+  margin-left: -30px;
+  text-decoration: none;
+}
+body h1:hover .anchor .octicon-link,
+body h2:hover .anchor .octicon-link,
+body h3:hover .anchor .octicon-link,
+body h4:hover .anchor .octicon-link,
+body h5:hover .anchor .octicon-link,
+body h6:hover .anchor .octicon-link {
+  display: inline-block;
+}
+body h1 tt,
+body h2 tt,
+body h3 tt,
+body h4 tt,
+body h5 tt,
+body h6 tt,
+body h1 code,
+body h2 code,
+body h3 code,
+body h4 code,
+body h5 code,
+body h6 code {
+  font-size: inherit;
+}
+body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+body h1 .anchor {
+  line-height: 1;
+}
+body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+body h2 .anchor {
+  line-height: 1;
+}
+body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+body h3 .anchor {
+  line-height: 1.2;
+}
+body h4 {
+  font-size: 1.25em;
+}
+body h4 .anchor {
+  line-height: 1.2;
+}
+body h5 {
+  font-size: 1em;
+}
+body h5 .anchor {
+  line-height: 1.1;
+}
+body h6 {
+  font-size: 1em;
+  color: #777;
+}
+body h6 .anchor {
+  line-height: 1.1;
+}
+body p,
+body blockquote,
+body ul,
+body ol,
+body dl,
+body table,
+body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+body ul,
+body ol {
+  padding-left: 2em;
+}
+body ul.no-list,
+body ol.no-list {
+  padding: 0;
+  list-style-type: none;
+}
+body ul ul,
+body ul ol,
+body ol ol,
+body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+body li > p {
+  margin-top: 16px;
+}
+body dl {
+  padding: 0;
+}
+body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+body blockquote > :first-child {
+  margin-top: 0;
+}
+body blockquote > :last-child {
+  margin-bottom: 0;
+}
+body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+body table th {
+  font-weight: bold;
+}
+body table th,
+body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body .emoji {
+  max-width: none;
+}
+body span.frame {
+  display: block;
+  overflow: hidden;
+}
+body span.frame > span {
+  display: block;
+  float: left;
+  width: auto;
+  padding: 7px;
+  margin: 13px 0 0;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+body span.frame span img {
+  display: block;
+  float: left;
+}
+body span.frame span span {
+  display: block;
+  padding: 5px 0 0;
+  clear: both;
+  color: #333;
+}
+body span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+body span.align-center > span {
+  display: block;
+  margin: 13px auto 0;
+  overflow: hidden;
+  text-align: center;
+}
+body span.align-center span img {
+  margin: 0 auto;
+  text-align: center;
+}
+body span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+body span.align-right > span {
+  display: block;
+  margin: 13px 0 0;
+  overflow: hidden;
+  text-align: right;
+}
+body span.align-right span img {
+  margin: 0;
+  text-align: right;
+}
+body span.float-left {
+  display: block;
+  float: left;
+  margin-right: 13px;
+  overflow: hidden;
+}
+body span.float-left span {
+  margin: 13px 0 0;
+}
+body span.float-right {
+  display: block;
+  float: right;
+  margin-left: 13px;
+  overflow: hidden;
+}
+body span.float-right > span {
+  display: block;
+  margin: 13px auto 0;
+  overflow: hidden;
+  text-align: right;
+}
+body code,
+body tt {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 3px;
+}
+body code:before,
+body tt:before,
+body code:after,
+body tt:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+body code br,
+body tt br {
+  display: none;
+}
+body del code {
+  text-decoration: inherit;
+}
+body pre > code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+body .highlight {
+  margin-bottom: 16px;
+}
+body .highlight pre,
+body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+body pre {
+  word-wrap: normal;
+}
+body pre code,
+body pre tt {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+body pre code:before,
+body pre tt:before,
+body pre code:after,
+body pre tt:after {
+  content: normal;
+}
+body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+span.critic.comment > span {
+  background-color: #fff;
+}
+a {
+  color: #337ab7;
+}
+
 .bracket-matcher .region {
   border-bottom: 1px dotted lime;
   position: absolute;
 }
 .line-number.bracket-matcher.bracket-matcher {
-  color: #abb2bf;
-  background-color: #3a3f4b;
+  color: #383a42;
+  background-color: #e5e5e6;
 }
 
 .spell-check-misspelling .region {
@@ -120,60 +491,60 @@
 }
 
 pre.editor-colors {
-  background-color: #282c34;
-  color: #abb2bf;
+  background-color: #fafafa;
+  color: #383a42;
 }
 pre.editor-colors .line.cursor-line {
-  background-color: rgba(153, 187, 255, 0.04);
+  background-color: rgba(56, 58, 66, 0.05);
 }
 pre.editor-colors .invisible {
-  color: #abb2bf;
+  color: #383a42;
 }
 pre.editor-colors .cursor {
-  border-left: 2px solid #528bff;
+  border-left: 2px solid #526fff;
 }
 pre.editor-colors .selection .region {
-  background-color: #3e4451;
+  background-color: #e5e5e6;
 }
 pre.editor-colors .bracket-matcher .region {
-  border-bottom: 1px solid #528bff;
+  border-bottom: 1px solid #526fff;
   box-sizing: border-box;
 }
 pre.editor-colors .invisible-character {
-  color: rgba(171, 178, 191, 0.15);
+  color: rgba(56, 58, 66, 0.2);
 }
 pre.editor-colors .indent-guide {
-  color: rgba(171, 178, 191, 0.15);
+  color: rgba(56, 58, 66, 0.2);
 }
 pre.editor-colors .wrap-guide {
-  background-color: rgba(171, 178, 191, 0.15);
+  background-color: rgba(56, 58, 66, 0.2);
 }
 pre.editor-colors .find-result .region.region.region,
 pre.editor-colors .current-result .region.region.region {
   border-radius: 2px;
-  background-color: rgba(82, 139, 255, 0.24);
+  background-color: rgba(82, 111, 255, 0.2);
   transition: border-color 0.4s;
 }
 pre.editor-colors .find-result .region.region.region {
   border: 2px solid transparent;
 }
 pre.editor-colors .current-result .region.region.region {
-  border: 2px solid #528bff;
+  border: 2px solid #526fff;
   transition-duration: .1s;
 }
 pre.editor-colors .gutter .line-number {
-  color: #636d83;
+  color: #9d9d9f;
   -webkit-font-smoothing: antialiased;
 }
 pre.editor-colors .gutter .line-number.cursor-line {
-  color: #abb2bf;
-  background-color: #3a3f4b;
+  color: #383a42;
+  background-color: #e5e5e6;
 }
 pre.editor-colors .gutter .line-number.cursor-line-no-selection {
   background-color: transparent;
 }
 pre.editor-colors .gutter .line-number .icon-right {
-  color: #abb2bf;
+  color: #383a42;
 }
 pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed.git-line-removed::before {
   bottom: -3px;
@@ -184,98 +555,94 @@ pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed::aft
   left: 0px;
   bottom: 0px;
   width: 25px;
-  border-bottom: 1px dotted rgba(224, 82, 82, 0.5);
+  border-bottom: 1px dotted rgba(255, 20, 20, 0.5);
   pointer-events: none;
 }
 pre.editor-colors .gutter .line-number.folded,
 pre.editor-colors .gutter .line-number:after,
 pre.editor-colors .fold-marker:after {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--comment {
-  color: #5c6370;
+  color: #a0a1a7;
   font-style: italic;
 }
 .syntax--comment .syntax--markup.syntax--link {
-  color: #5c6370;
+  color: #a0a1a7;
 }
 .syntax--entity.syntax--name.syntax--type {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--entity.syntax--other.syntax--inherited-class {
-  color: #e5c07b;
+  color: #50a14f;
 }
 .syntax--keyword {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--keyword.syntax--control {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--keyword.syntax--operator {
-  color: #c678dd;
+  color: #383a42;
 }
 .syntax--keyword.syntax--other.syntax--special-method {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--keyword.syntax--other.syntax--unit {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--storage {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--storage.syntax--type.syntax--annotation,
 .syntax--storage.syntax--type.syntax--primitive {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--storage.syntax--modifier.syntax--package,
 .syntax--storage.syntax--modifier.syntax--import {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--constant {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--constant.syntax--variable {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--constant.syntax--character.syntax--escape {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--constant.syntax--numeric {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--constant.syntax--other.syntax--color {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--constant.syntax--other.syntax--symbol {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--variable {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--variable.syntax--interpolation {
-  color: #be5046;
+  color: #ca1243;
 }
 .syntax--variable.syntax--parameter {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--string {
-  color: #98c379;
-}
-.syntax--string > .syntax--source,
-.syntax--string .syntax--embedded {
-  color: #abb2bf;
+  color: #50a14f;
 }
 .syntax--string.syntax--regexp {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--string.syntax--other.syntax--link {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--punctuation.syntax--definition.syntax--comment {
-  color: #5c6370;
+  color: #a0a1a7;
 }
 .syntax--punctuation.syntax--definition.syntax--method-parameters,
 .syntax--punctuation.syntax--definition.syntax--function-parameters,
@@ -283,558 +650,325 @@ pre.editor-colors .fold-marker:after {
 .syntax--punctuation.syntax--definition.syntax--separator,
 .syntax--punctuation.syntax--definition.syntax--seperator,
 .syntax--punctuation.syntax--definition.syntax--array {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--punctuation.syntax--definition.syntax--heading,
 .syntax--punctuation.syntax--definition.syntax--identity {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--punctuation.syntax--definition.syntax--bold {
-  color: #e5c07b;
+  color: #c18401;
   font-weight: bold;
 }
 .syntax--punctuation.syntax--definition.syntax--italic {
-  color: #c678dd;
+  color: #a626a4;
   font-style: italic;
 }
 .syntax--punctuation.syntax--section.syntax--embedded {
-  color: #be5046;
+  color: #ca1243;
 }
 .syntax--punctuation.syntax--section.syntax--method,
 .syntax--punctuation.syntax--section.syntax--class,
 .syntax--punctuation.syntax--section.syntax--inner-class {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--support.syntax--class {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--support.syntax--type {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--support.syntax--function {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--support.syntax--function.syntax--any-method {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--entity.syntax--name.syntax--function {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--entity.syntax--name.syntax--class,
 .syntax--entity.syntax--name.syntax--type.syntax--class {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--entity.syntax--name.syntax--section {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--entity.syntax--name.syntax--tag {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--entity.syntax--other.syntax--attribute-name {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--entity.syntax--other.syntax--attribute-name.syntax--id {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--meta.syntax--class {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--meta.syntax--class.syntax--body {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--meta.syntax--method-call,
 .syntax--meta.syntax--method {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--meta.syntax--definition.syntax--variable {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--meta.syntax--link {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--meta.syntax--require {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--meta.syntax--selector {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--meta.syntax--separator {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--meta.syntax--tag {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--underline {
   text-decoration: underline;
 }
 .syntax--none {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--invalid.syntax--deprecated {
-  color: #523d14 !important;
-  background-color: #e0c285 !important;
+  color: #000000 !important;
+  background-color: #f2a60d !important;
 }
 .syntax--invalid.syntax--illegal {
   color: white !important;
-  background-color: #e05252 !important;
+  background-color: #ff1414 !important;
 }
 .syntax--markup.syntax--bold {
-  color: #d19a66;
+  color: #986801;
   font-weight: bold;
 }
 .syntax--markup.syntax--changed {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--markup.syntax--deleted {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--markup.syntax--italic {
-  color: #c678dd;
+  color: #a626a4;
   font-style: italic;
 }
 .syntax--markup.syntax--heading {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--markup.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--markup.syntax--link {
-  color: #56b6c2;
+  color: #0184bc;
 }
 .syntax--markup.syntax--inserted {
-  color: #98c379;
+  color: #50a14f;
 }
 .syntax--markup.syntax--quote {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--markup.syntax--raw {
-  color: #98c379;
+  color: #50a14f;
+}
+.syntax--source.syntax--c .syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--source.syntax--cpp .syntax--keyword.syntax--operator {
+  color: #a626a4;
 }
 .syntax--source.syntax--cs .syntax--keyword.syntax--operator {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--source.syntax--css .syntax--property-name,
 .syntax--source.syntax--css .syntax--property-value {
-  color: #828997;
+  color: #696c77;
 }
 .syntax--source.syntax--css .syntax--property-name.syntax--support,
 .syntax--source.syntax--css .syntax--property-value.syntax--support {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--source.syntax--elixir .syntax--source.syntax--embedded.syntax--source {
-  color: #abb2bf;
+  color: #383a42;
 }
 .syntax--source.syntax--elixir .syntax--constant.syntax--language,
 .syntax--source.syntax--elixir .syntax--constant.syntax--numeric,
 .syntax--source.syntax--elixir .syntax--constant.syntax--definition {
-  color: #61afef;
+  color: #4078f2;
 }
 .syntax--source.syntax--elixir .syntax--variable.syntax--definition,
 .syntax--source.syntax--elixir .syntax--variable.syntax--anonymous {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--source.syntax--elixir .syntax--parameter.syntax--variable.syntax--function {
-  color: #d19a66;
+  color: #986801;
   font-style: italic;
 }
 .syntax--source.syntax--elixir .syntax--quoted {
-  color: #98c379;
+  color: #50a14f;
 }
 .syntax--source.syntax--elixir .syntax--keyword.syntax--special-method,
 .syntax--source.syntax--elixir .syntax--embedded.syntax--section,
 .syntax--source.syntax--elixir .syntax--embedded.syntax--source.syntax--empty {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--source.syntax--elixir .syntax--readwrite.syntax--module .syntax--punctuation {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--source.syntax--elixir .syntax--regexp.syntax--section,
 .syntax--source.syntax--elixir .syntax--regexp.syntax--string {
-  color: #be5046;
+  color: #ca1243;
 }
 .syntax--source.syntax--elixir .syntax--separator,
 .syntax--source.syntax--elixir .syntax--keyword.syntax--operator {
-  color: #d19a66;
+  color: #986801;
 }
 .syntax--source.syntax--elixir .syntax--variable.syntax--constant {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--source.syntax--elixir .syntax--array,
 .syntax--source.syntax--elixir .syntax--scope,
 .syntax--source.syntax--elixir .syntax--section {
-  color: #828997;
+  color: #696c77;
 }
 .syntax--source.syntax--gfm .syntax--markup {
   -webkit-font-smoothing: auto;
 }
 .syntax--source.syntax--gfm .syntax--link .syntax--entity {
-  color: #61afef;
+  color: #4078f2;
+}
+.syntax--source.syntax--go .syntax--storage.syntax--type.syntax--string {
+  color: #a626a4;
 }
 .syntax--source.syntax--ini .syntax--keyword.syntax--other.syntax--definition.syntax--ini {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--source.syntax--java .syntax--storage.syntax--modifier.syntax--import {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--source.syntax--java .syntax--storage.syntax--type {
-  color: #e5c07b;
+  color: #c18401;
 }
 .syntax--source.syntax--java .syntax--keyword.syntax--operator.syntax--instanceof {
-  color: #c678dd;
+  color: #a626a4;
 }
 .syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair > .syntax--punctuation {
-  color: #abb2bf;
+  color: #383a42;
 }
-.syntax--source.syntax--ts .syntax--keyword.syntax--operator {
-  color: #56b6c2;
+.syntax--source.syntax--js .syntax--keyword.syntax--operator {
+  color: #0184bc;
 }
-.syntax--source.syntax--flow .syntax--keyword.syntax--operator {
-  color: #56b6c2;
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--delete,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--in,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--of,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--instanceof,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--new,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--typeof,
+.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--void {
+  color: #a626a4;
 }
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation.syntax--string {
-  color: #e06c75;
+  color: #e45649;
 }
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation,
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation {
-  color: #98c379;
+  color: #50a14f;
 }
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--constant.syntax--language.syntax--json,
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--constant.syntax--language.syntax--json {
-  color: #56b6c2;
+  color: #0184bc;
 }
-.syntax--ng.syntax--interpolation {
-  color: #e06c75;
-}
-.syntax--ng.syntax--interpolation.syntax--begin,
-.syntax--ng.syntax--interpolation.syntax--end {
-  color: #61afef;
-}
-.syntax--ng.syntax--interpolation .syntax--function {
-  color: #e06c75;
-}
-.syntax--ng.syntax--interpolation .syntax--function.syntax--begin,
-.syntax--ng.syntax--interpolation .syntax--function.syntax--end {
-  color: #61afef;
-}
-.syntax--ng.syntax--interpolation .syntax--bool {
-  color: #d19a66;
-}
-.syntax--ng.syntax--interpolation .syntax--bracket {
-  color: #abb2bf;
-}
-.syntax--ng.syntax--pipe,
-.syntax--ng.syntax--operator {
-  color: #abb2bf;
-}
-.syntax--ng.syntax--tag {
-  color: #56b6c2;
-}
-.syntax--ng.syntax--attribute-with-value .syntax--attribute-name {
-  color: #e5c07b;
-}
-.syntax--ng.syntax--attribute-with-value .syntax--string {
-  color: #c678dd;
-}
-.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--begin,
-.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--end {
-  color: #abb2bf;
+.syntax--source.syntax--ruby .syntax--constant.syntax--other.syntax--symbol > .syntax--punctuation {
+  color: inherit;
 }
 .syntax--source.syntax--php .syntax--class.syntax--bracket {
-  color: #abb2bf;
+  color: #383a42;
 }
+.syntax--source.syntax--python .syntax--keyword.syntax--operator.syntax--logical.syntax--python {
+  color: #a626a4;
+}
+.syntax--source.syntax--python .syntax--variable.syntax--parameter {
+  color: #986801;
+}
+
 /*
-   This defines styling rules for syntax classes.
-
-   See the naming conventions for a list of syntax classes:
-   https://flight-manual.atom.io/hacking-atom/sections/syntax-naming-conventions
-
-   When styling rules conflict:
-   - The last rule overrides previous rules.
-   - The rule with most classes and pseudo-classes overrides the last rule.
-*/
-.syntax--keyword {
-  color: #c678dd;
-}
-.syntax--keyword.syntax--type {
-  color: #56b6c2;
-}
-.syntax--keyword.syntax--function {
-  color: #e06c75;
-}
-.syntax--keyword.syntax--variable {
-  color: #e06c75;
-}
-.syntax--entity {
-  color: #abb2bf;
-}
-.syntax--entity.syntax--parameter {
-  color: #abb2bf;
-}
-.syntax--entity.syntax--support {
-  color: #e06c75;
-}
-.syntax--entity.syntax--decorator:last-child {
-  color: #61afef;
-}
-.syntax--entity.syntax--label {
-  text-decoration: underline;
-}
-.syntax--entity.syntax--function {
-  color: #61afef;
-}
-.syntax--entity.syntax--operator {
-  color: #61afef;
-}
-.syntax--entity.syntax--operator.syntax--symbolic {
-  color: #abb2bf;
-}
-.syntax--entity.syntax--type {
-  color: #56b6c2;
-}
-.syntax--entity.syntax--tag {
-  color: #e06c75;
-}
-.syntax--entity.syntax--attribute {
-  color: #d19a66;
-}
-.syntax--punctuation {
-  color: #abb2bf;
-}
-.syntax--punctuation.syntax--accessor {
-  color: #abb2bf;
-}
-.syntax--punctuation.syntax--accessor.syntax--member,
-.syntax--punctuation.syntax--accessor.syntax--scope {
-  color: #c678dd;
-}
-.syntax--punctuation.syntax--embedded {
-  color: #c678dd;
-}
-.syntax--string {
-  color: #98c379;
-}
-.syntax--string.syntax--immutable {
-  color: #98c379;
-}
-.syntax--string.syntax--part {
-  color: #56b6c2;
-}
-.syntax--string.syntax--interpolation {
-  color: #c678dd;
-}
-.syntax--string.syntax--regexp {
-  color: #98c379;
-}
-.syntax--string.syntax--regexp.syntax--language {
-  color: #c678dd;
-}
-.syntax--string.syntax--regexp.syntax--variable {
-  color: #61afef;
-}
-.syntax--string.syntax--regexp.syntax--punctuation {
-  color: #c678dd;
-}
-.syntax--constant {
-  color: #d19a66;
-}
-.syntax--constant.syntax--character {
-  color: #98c379;
-}
-.syntax--constant.syntax--character.syntax--escape {
-  color: #98c379;
-}
-.syntax--constant.syntax--character.syntax--code {
-  color: #56b6c2;
-}
-.syntax--text {
-  color: #abb2bf;
-}
-.syntax--markup.syntax--heading {
-  color: #e06c75;
-}
-.syntax--markup.syntax--list.syntax--punctuation {
-  color: #e06c75;
-}
-.syntax--markup.syntax--quote {
-  color: #5c6370;
-  font-style: italic;
-}
-.syntax--markup.syntax--bold {
-  color: #d19a66;
-  font-weight: bold;
-}
-.syntax--markup.syntax--italic {
-  color: #c678dd;
-  font-style: italic;
-}
-.syntax--markup.syntax--underline {
-  color: #56b6c2;
-  text-decoration: underline;
-}
-.syntax--markup.syntax--strike {
-  color: #e06c75;
-}
-.syntax--markup.syntax--raw {
-  color: #98c379;
-}
-.syntax--markup.syntax--link {
-  color: #56b6c2;
-}
-.syntax--markup.syntax--alt {
-  color: #61afef;
-}
-.syntax--markup.syntax--inserted {
-  color: #98c379;
-}
-.syntax--markup.syntax--inserted .syntax--punctuation {
-  color: #98c379;
-}
-.syntax--markup.syntax--highlighted {
-  color: #98c379;
-}
-.syntax--markup.syntax--highlighted .syntax--punctuation {
-  color: #98c379;
-}
-.syntax--markup.syntax--deleted {
-  color: #e06c75;
-}
-.syntax--markup.syntax--deleted .syntax--punctuation {
-  color: #e06c75;
-}
-.syntax--markup.syntax--changed {
-  color: #c678dd;
-}
-.syntax--markup.syntax--changed .syntax--punctuation {
-  color: #c678dd;
-}
-.syntax--markup.syntax--commented {
-  color: #5c6370;
-}
-.syntax--markup.syntax--commented .syntax--punctuation {
-  color: #5c6370;
-}
-.syntax--comment {
-  color: #5c6370;
-  font-style: italic;
-}
-.syntax--comment.syntax--caption {
-  color: #6a7181;
-  font-weight: bold;
-}
-.syntax--comment.syntax--term {
-  color: #707989;
-}
-.syntax--comment.syntax--punctuation {
-  color: #5c6370;
-  font-weight: normal;
-}
-.syntax--invalid:not(.syntax--punctuation).syntax--illegal {
-  color: white !important;
-  background-color: #e05252 !important;
-}
-.syntax--invalid:not(.syntax--punctuation).syntax--deprecated {
-  color: #523d14 !important;
-  background-color: #e0c285 !important;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--function {
-  color: #828997;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--function.syntax--support {
-  color: #56b6c2;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--selector {
-  color: #d19a66;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--selector.syntax--tag {
-  color: #e06c75;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--selector.syntax--id {
-  color: #61afef;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--property {
-  color: #828997;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--property.syntax--support {
-  color: #abb2bf;
-}
-.syntax--source.syntax--css .syntax--entity.syntax--variable {
-  color: #e06c75;
-}
-.syntax--source.syntax--css .syntax--constant {
-  color: #828997;
-}
-.syntax--source.syntax--css .syntax--constant.syntax--support {
-  color: #abb2bf;
-}
-.syntax--source.syntax--css .syntax--constant.syntax--numeric {
-  color: #d19a66;
-}
-.syntax--source.syntax--css .syntax--constant.syntax--media {
-  color: #d19a66;
-}
-.syntax--source.syntax--css .syntax--constant.syntax--color {
-  color: #d19a66;
-}
-.syntax--source.syntax--css .syntax--constant.syntax--offset {
-  color: #abb2bf;
-}
-.syntax--source.syntax--css .syntax--constant.syntax--attribute-value {
-  color: #98c379;
-}
-.syntax--source.syntax--css .syntax--punctuation.syntax--selector {
-  color: #d19a66;
-}
-.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--wildcard {
-  color: #e06c75;
-}
-.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--id {
-  color: #61afef;
-}
-.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--attribute {
-  color: #abb2bf;
-}
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
 </style>
-        </head>
-        <body class='markdown-preview' data-use-github-style><h1 id="tomo-miyazaki"><strong>Tomo Miyazaki</strong></h1>
-<img alt="Tomo Miyazaki" height="300" width="300" src="./imgs/miyazaki.jpg">
 
+  </head>
+  <body>
+    <h1><strong>Tomo Miyazaki</strong></h1>
+<img src="imgs/miyazaki.jpg" width="300" height="300" alt="Tomo Miyazaki">
 <p>I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.</p>
-<p><a href="https://researchmap.jp/tomo_miyazaki"><img src="./imgs/researchmap.gif"></a>
-<a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img height="40" src="./imgs/whiteKAKENHIlogoS_jp.jpg"></a></p>
-<p><a href="https://scholar.google.co.jp/citations?user=Utjz8l8AAAAJ&amp;hl=ja"><img height="70" src="./imgs/google_96px.png"></a>
-<a href="https://orcid.org/0000-0001-5205-0542"><img height="70" src="./imgs/ORCIDiD_icon64x64.png"></a>
-<a href="https://github.com/tomomiyazaki"><img height="70" src="./imgs/GitHub-Mark-120px-plus.png"></a>
-<a href="https://www.facebook.com/tomo.miyazaki.16"><img height="70" src="./imgs/f_logo_RGB-Grey_58.png"></a>
-<a href="http://www.iic.ecei.tohoku.ac.jp/index.html"><img height="70" src="./imgs/iiclab-dark.png"></a></p>
-<h1 id="physical-address">Physical Address</h1>
-<p>Email: tomo (at) tohoku.ac.jp<br>Tel: +81-22-795-7088<br>Fax: +81-22-795-7090<br>Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan（仙台市青葉区荒巻字青葉6-6-05 電気系1号館 621号室）<br>Lab Website: <a href="http://www.iic.ecei.tohoku.ac.jp/index.html">Laboratory for Image Information Communications (In Japanese)</a></p>
-<h1 id="my-goals">My Goals</h1>
+<p><a href="https://researchmap.jp/tomo_miyazaki"><img src="imgs/researchmap.gif"></a>
+<a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="imgs/whiteKAKENHIlogoS_jp.jpg" height="40"></a></p>
+<p><a href="https://scholar.google.co.jp/citations?user=Utjz8l8AAAAJ&amp;hl=ja"><img src="imgs/google_96px.png" height="70"></a>
+<a href="https://orcid.org/0000-0001-5205-0542"><img src="imgs/ORCIDiD_icon64x64.png" height="70"></a>
+<a href="https://github.com/tomomiyazaki"><img src="imgs/GitHub-Mark-120px-plus.png" height="70"></a>
+<a href="https://www.facebook.com/tomo.miyazaki.16"><img src="imgs/f_logo_RGB-Grey_58.png" height="70"></a>
+<a href="http://www.iic.ecei.tohoku.ac.jp/index.html"><img src="imgs/iiclab-dark.png" height="70"></a></p>
+<h1>Physical Address</h1>
+<p>Email: tomo (at) <a href="http://tohoku.ac.jp">tohoku.ac.jp</a><br>
+Tel: +81-22-795-7088<br>
+Fax: +81-22-795-7090<br>
+Address: 6–6–05 Aoba Aramaki, Aoba, Sendai, 980–8579, Japan（仙台市青葉区荒巻字青葉6-6-05 電気系1号館 621号室）<br>
+Lab Website: <a href="http://www.iic.ecei.tohoku.ac.jp/index.html">Laboratory for Image Information Communications (In Japanese)</a></p>
+<h1>My Goals</h1>
 <ol>
 <li>Respect everyone.</li>
 <li>Work for neighbours.</li>
-<li>Comparison with myself, not others.  </li>
+<li>Compare with myself, not others.</li>
 </ol>
-<h1 id="research">Research</h1>
+<h1>Research</h1>
 <p>My research interests are in pattern recognition and image processing.
 I am especially interested in recognizing visual objects with their structure.
 Also structural data, such as chemical compounds, is my research target.</p>
-<h1 id="publications">Publications</h1>
+<h1>Publications</h1>
 <ul>
-<li>K. Ogasawara, <u><strong>T. Miyazaki</strong></u>, Y. Sugaya, S. Omachi<br>"Object-Based Video Coding by Visual Saliency and Temporal Correlation"<br>IEEE Transactions on Emerging Topics in Computing, 2020 <a href="https://doi.org/10.1109/TETC.2017.2695640"><strong>[paper]</strong></a></li>
-<li><u><strong>T. Miyazaki</strong></u>, T. Tsuchiya, Y. Sugaya, S. Omachi, <a href="http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml">M. Iwamura</a>, <a href="http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html">S. Uchida</a>, <a href="http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html">K. Kise</a><br>"Automatic Generation of Typographic Font from a Small Font Subset"<br>IEEE Computer Graphics and Applications, 2020 <a href="https://doi.org/10.1109/MCG.2019.2931431"><strong>[paper]</strong></a>  </li>
-<li>Y. Nagaoka, <u><strong>T. Miyazaki</strong></u>, Y. Sugaya,  S. Omachi<br>"Automatic Mackerel Sorting Machine using Global and Local Features"<br>IEEE Access, 2019 <a href="https://doi.org/10.1109/ACCESS.2019.2917554"><strong>[paper]</strong></a> <a href="https://github.com/yoyoyo-yo/glcc-frcn.pytorch"><strong>[code]</strong></a></li>
-<li><u><strong>T. Miyazaki</strong></u>, S. Omachi<br>"Structural Data Recognition with Graph Model Boosting"<br>IEEE Access, 2018 <a href="https://doi.org/10.1109/ACCESS.2018.2876860"><strong>[paper]</strong></a>  </li>
+<li>J. Masuho, <u><strong>T. Miyazaki</strong></u>, Y. Sugaya, <a href="https://researchmap.jp/read0055275">M. Omachi</a> and S. Omachi<br>
+“A Framework for Estimating Gaze Point Information for Location-Based Services”<br>
+IEEE Transactions on Vehicular Technology, 2021 <a href="https://doi.org/10.1109/TVT.2021.3101932"><strong>[paper]</strong></a></li>
+<li>K. Ogasawara, <u><strong>T. Miyazaki</strong></u>, Y. Sugaya, S. Omachi<br>
+“Object-Based Video Coding by Visual Saliency and Temporal Correlation”<br>
+IEEE Transactions on Emerging Topics in Computing, 2020 <a href="https://doi.org/10.1109/TETC.2017.2695640"><strong>[paper]</strong></a></li>
+<li><u><strong>T. Miyazaki</strong></u>, T. Tsuchiya, Y. Sugaya, S. Omachi, <a href="http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml">M. Iwamura</a>, <a href="http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html">S. Uchida</a>, <a href="http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html">K. Kise</a><br>
+“Automatic Generation of Typographic Font from a Small Font Subset”<br>
+IEEE Computer Graphics and Applications, 2020 <a href="https://doi.org/10.1109/MCG.2019.2931431"><strong>[paper]</strong></a></li>
+<li>Y. Nagaoka, <u><strong>T. Miyazaki</strong></u>, Y. Sugaya,  S. Omachi<br>
+“Automatic Mackerel Sorting Machine using Global and Local Features”<br>
+IEEE Access, 2019 <a href="https://doi.org/10.1109/ACCESS.2019.2917554"><strong>[paper]</strong></a> <a href="https://github.com/yoyoyo-yo/glcc-frcn.pytorch"><strong>[code]</strong></a></li>
+<li><u><strong>T. Miyazaki</strong></u>, S. Omachi<br>
+“Structural Data Recognition with Graph Model Boosting”<br>
+IEEE Access, 2018 <a href="https://doi.org/10.1109/ACCESS.2018.2876860"><strong>[paper]</strong></a></li>
 </ul>
 <p><a href="./publications.html"><strong>Full list</strong></a></p>
-<h1 id="professional-activity">Professional Activity</h1>
+<h1>Professional Activity</h1>
 <p>Current:</p>
 <ul>
 <li>大阪府立大学 文書解析・知識科学研究所 客員研究員 (Visiting Researcher at Institute of Document Analysis and Knowledge Science, IDAKS) 2018.4- <a href="https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/"><strong>[URL]</strong></a></li>
@@ -864,15 +998,43 @@ Frontiers in Handwriting Recognition (ICFHR), 2018 <a href="http://icfhr2018.org
 Systems (SOIM-GCOE2009), 2009</li>
 <li>MIRU2019 若手プログラム委員 <a href="http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee"><strong>[URL]</strong></a></li>
 </ul>
-
-
-<h1 id="funding">Funding</h1>
-<ol>
+<!--
+# Review Experience (newest first)
+1. ICFHR2020
+1. MIRU2020
+1. IEEE Access
+1. IJCAI-PRICAI2020
+1. IEICE Transactions on Information and Systems
+1. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+1. IEEE Transaction on Image Processing (TIP)
+1. International Journal on Document Analysis and Recognition (IJDAR)
+1. Meeting on Image Recognition and Understanding (MIRU)
+1. Journal of Circuits, Systems, and Computers
+1. The International Conference on Frontiers in Handwriting Recognition
+(ICFHR)
+1. The International Workshop on Document Analysis System (DAS)
+1. The Asian Conference on Pattern Recognition (ACPR)
+-->
+<h1>Funding</h1>
+<ol reversed>
 <li>Grant-in-Aid for Scientific Research ( B ), Co-Investigator, 20H04201, 2020-2023 <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H04201/"><strong>[URL]</strong></a></li>
 <li>Grant-in-Aid for Scientific Research ( C ), <strong>Principal Investigator</strong>, 19K11848, 2019-2021 <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K11848/"><strong>[URL]</strong></a></li>
 <li>Grant-in-Aid for Challenging Research ( Exploratory ), Co-Investigator, 18K19772, 2018-2021 <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K19772/"><strong>[URL]</strong></a></li>
 <li>Grant-in-Aid for Scientific Research ( C ), Co-Investigator, 18K11546, 2018-2021 <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/"><strong>[URL]</strong></a></li>
 <li>Grant-in-Aid for Scientific Research ( B ), Co-Investigator, 16H02841, 2016-2019 <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/"><strong>[URL]</strong></a></li>
 <li>Grant-in-Aid for Research Activity start-up, <strong>Principal Investigator</strong>, 15H06009, 2015-2016 <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/"><strong>[URL]</strong></a></li>
-</ol></body>
-      </html>
+</ol>
+<!--
+1. 独立行政法人日本学術振興会, 科研費, 挑戦的研究()萌芽), 課題番号18K19772, 2018-
+1. 独立行政法人日本学術振興会, 科研費, 基盤(B), 研究分担者, 課題番号16H02841, 2016-
+1. 独立行政法人日本学術振興会, 科研費, 研究活動スタート支援, 研究代表者, 課題番号15H06009, 2015-2016
+-->
+<!--
+# Reference
+* [Grauman](http://www.cs.utexas.edu/~grauman/)
+* [Greg](http://www.cs.sfu.ca/~mori/)
+* [Alex burg](http://acberg.com/)
+-->
+
+  </body>
+</html>

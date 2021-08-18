@@ -3,30 +3,34 @@
 [Preprints](https://arxiv.org/a/miyazaki_t_1.html)
 
 # Journal
+1. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
+"A Framework for Estimating Gaze Point Information for Location-Based Services"  
+IEEE Transactions on Vehicular Technology, 2021 (in press) [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932) **IF: 5.978**
+
 1. Sho Ishida, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Graph Neural Networks with Multiple Feature Extraction Paths for Chemical Property Estimation"  
-Molecules, vol.26, no.11, 3125, 2021  [**[paper]**](https://doi.org/10.3390/molecules26113125) **IF: 3.267**
+Molecules, vol.26, no.11, 3125, 2021  [**[paper]**](https://doi.org/10.3390/molecules26113125) **IF: 4.411**
 
 1. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Multiple Visual-Semantic Embedding for Video Retrieval from Query
 Sentence"  
-Applied Sciences, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.474**
+Applied Sciences, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.679**
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale"  
-Sensors, vol.21, no.4, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.275**
+Sensors, vol.21, no.4, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.576**
 
 1. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Optical Flow-Based Fast Motion Parameters Estimation for Affine Motion Compensation"  
-Applied Sciences, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10020729) **IF: 2.474**
+Applied Sciences, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10020729) **IF: 2.679**
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
-IEEE Transactions on Emerging Topics in Computing (TETC), Volume 8, Issue 1, pp. 168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 6.043**
+IEEE Transactions on Emerging Topics in Computing (TETC), Volume 8, Issue 1, pp. 168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 7.691**
 
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 1.627**
+IEEE Computer Graphics and Applications, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 2.088**
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
@@ -34,11 +38,11 @@ IIEEJ Transactions on Image Electronics and Visual Computing, vol.7, no.1, p.2-1
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.745**
+IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.367**
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
-IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.745**
+IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.367**
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
@@ -46,7 +50,7 @@ Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper
 
 1. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
-Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026)
+Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026) **IF: 2.385**
 
 1. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Efficient Coding for Video Including Text Using Image Generation"  
@@ -73,10 +77,20 @@ Japanese:
 
 
 # International Conference (Refereed)
-1. Shoma Iwai, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
+1. [Shoma Iwai](https://iwa-shi.github.io/), <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
+"Self Texture Transfer Networks for Low Bitrate Image Compression"  
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp.1901-1905, 2021
+[**[paper]**](https://openaccess.thecvf.com/content/CVPR2021W/CLIC/html/Iwai_Self_Texture_Transfer_Networks_for_Low_Bitrate_Image_Compression_CVPRW_2021_paper.html)
+
+1. [Shoma Iwai](https://iwa-shi.github.io/), <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
 "Fidelity-Controllable Extreme Image Compression with Generative Adversarial Networks"  
 Proceedings of the 25th International Conference on Pattern Recognition (ICPR 2020), pp.8235-8242, Jaunary 2021.
+[**[arxiv]**](https://arxiv.org/abs/2008.10314)
+[**[code]**](https://github.com/iwa-shi/fidelity_controllable_compression)
 
+1. [Shoma Iwai](https://iwa-shi.github.io/), <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
+"Two-Stage Training for High-Fidelity Image Compression with Generative Adversarial Networks"  
+International Workshops on Emerging ICT, 2020 (Oral)
 
 1. Xi Huang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
 "Super Resolution for Multi Frames with 3D Feature Extraction and RNN Prediction"  

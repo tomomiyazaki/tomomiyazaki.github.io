@@ -26,7 +26,7 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 # My Goals
 1. Respect everyone.
 1. Work for neighbours.
-1. Comparison with myself, not others.  
+1. Compare with myself, not others.  
 
 
 # Research
@@ -36,6 +36,9 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Publications
+- J. Masuho, <u>**T. Miyazaki**</u>, Y. Sugaya, [M. Omachi](https://researchmap.jp/read0055275) and S. Omachi  
+"A Framework for Estimating Gaze Point Information for Location-Based Services"  
+IEEE Transactions on Vehicular Technology, 2021 [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932)
 - K. Ogasawara, <u>**T. Miyazaki**</u>, Y. Sugaya, S. Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
 IEEE Transactions on Emerging Topics in Computing, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640)
