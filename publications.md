@@ -5,60 +5,60 @@
 # Journal
 1. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
 "A Framework for Estimating Gaze Point Information for Location-Based Services"  
-IEEE Transactions on Vehicular Technology, 2021 (in press) [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932) **IF: 5.978**
+*IEEE Transactions on Vehicular Technology*, vol.70, no.9, pp.8468-8477, 2021 [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932) **IF: 5.978**
 
 1. Sho Ishida, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Graph Neural Networks with Multiple Feature Extraction Paths for Chemical Property Estimation"  
-Molecules, vol.26, no.11, 3125, 2021  [**[paper]**](https://doi.org/10.3390/molecules26113125) **IF: 4.411**
+*Molecules*, vol.26, no.11, 3125, 2021  [**[paper]**](https://doi.org/10.3390/molecules26113125) **IF: 4.411**
 
 1. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Multiple Visual-Semantic Embedding for Video Retrieval from Query
 Sentence"  
-Applied Sciences, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.679**
+*Applied Sciences*, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.679**
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale"  
-Sensors, vol.21, no.4, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.576**
+*Sensors*, vol.21, no.4, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.576**
 
 1. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Optical Flow-Based Fast Motion Parameters Estimation for Affine Motion Compensation"  
-Applied Sciences, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10020729) **IF: 2.679**
+*Applied Sciences*, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10020729) **IF: 2.679**
 
 1. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
-IEEE Transactions on Emerging Topics in Computing (TETC), Volume 8, Issue 1, pp. 168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 7.691**
+*IEEE Transactions on Emerging Topics in Computing (TETC)*, Volume 8, Issue 1, pp.168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 7.691**
 
 1. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
 "Automatic Generation of Typographic Font from a Small Font Subset"  
-IEEE Computer Graphics and Applications, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 2.088**
+*IEEE Computer Graphics and Applications*, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 2.088**
 
 1. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
-IIEEJ Transactions on Image Electronics and Visual Computing, vol.7, no.1, p.2-12, 2019 [**[paper]**](https://www.iieej.org/journal-of-the-society/)
+*IIEEJ Transactions on Image Electronics and Visual Computing*, vol.7, no.1, p.2-12, 2019 [**[paper]**](https://www.iieej.org/journal-of-the-society/)
 
 1. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Automatic Mackerel Sorting Machine using Global and Local Features"  
-IEEE Access, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.367**
+*IEEE Access*, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.367**
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Structural Data Recognition with Graph Model Boosting"  
-IEEE Access, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.367**
+*IEEE Access*, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.367**
 
 1. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
-Journal of Sensor and Actuator Networks, Volume 7, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
+*Journal of Sensor and Actuator Networks*, Volume 7, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
 
 1. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
-Fishes, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026) **IF: 2.385**
+*Fishes*, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026) **IF: 2.385**
 
 1. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Efficient Coding for Video Including Text Using Image Generation"  
-Journal of Information Processing, vol.24, no.2, pp.330-338, 2016 [**[paper]**](https://doi.org/10.2197/ipsjjip.24.330)  
+*Journal of Information Processing*, vol.24, no.2, pp.330-338, 2016 [**[paper]**](https://doi.org/10.2197/ipsjjip.24.330)  
 
 1. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Representative Graph Generation for Graph-Based Character Recognition"  
-The Journal of the Institute of Image Electronics Engineers of Japan, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)
+*The Journal of the Institute of Image Electronics Engineers of Japan*, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)
 
 
 Japanese:
