@@ -3,6 +3,10 @@
 [Preprints](https://arxiv.org/a/miyazaki_t_1.html)
 
 # Journal
+1. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+"Stroke-Based Scene Text Erasing Using Synthetic Data for Training"  
+*IEEE Transactions on Image Processing*, 2021 [**[paper]**](https://doi.org/10.1109/TIP.2021.3125260) **IF: 10.856** (in press)
+
 1. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
 "A Framework for Estimating Gaze Point Information for Location-Based Services"  
 *IEEE Transactions on Vehicular Technology*, vol.70, no.9, pp.8468-8477, 2021 [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932) **IF: 5.978**

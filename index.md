@@ -36,6 +36,9 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Publications
+- Z. Tang,  <u>**T. Miyazaki**</u>, Y. Sugaya, S. Omachi  
+"Stroke-Based Scene Text Erasing Using Synthetic Data for Training"  
+*IEEE Transactions on Image Processing*, 2021 [**[paper]**](https://doi.org/10.1109/TIP.2021.3125260) (in press)
 - J. Masuho, <u>**T. Miyazaki**</u>, Y. Sugaya, [M. Omachi](https://researchmap.jp/read0055275) and S. Omachi  
 "A Framework for Estimating Gaze Point Information for Location-Based Services"  
 *IEEE Transactions on Vehicular Technology*, 2021 [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932)

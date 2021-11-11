@@ -2,30 +2,7 @@
 <html data-markdown-preview-plus-context="html-export">
   <head>
     <meta charset="utf-8" />
-    <title>publications</title><script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    jax: ["input/TeX","output/HTML-CSS"],
-    extensions: ["[a11y]/accessibility-menu.js"],
-    'HTML-CSS': {
-      availableFonts: [],
-      webFont: 'TeX',
-      undefinedFamily: "serif",
-      mtextFontInherit: true,
-    },
-    TeX: {
-  "Macros": {},
-  "equationNumbers": {},
-  "extensions": [
-    "AMSmath.js",
-    "AMSsymbols.js",
-    "noErrors.js",
-    "noUndefined.js"
-  ]
-},
-    showMathMenu: true
-  });
-</script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js"></script>
+    <title>publications</title>
     <style>.emoji {
   max-width: 1em !important;
 }
@@ -48,7 +25,7 @@ ul.contains-task-list li.task-list-item {
 ul.contains-task-list li.task-list-item input.task-list-item-checkbox {
   position: absolute;
   transform: translateX(-100%);
-  width: 26px;
+  width: 30px;
 }
 span.critic.comment {
   position: relative;
@@ -571,10 +548,10 @@ pre.editor-colors .fold-marker:after {
   color: #a0a1a7;
 }
 .syntax--entity.syntax--name.syntax--type {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--entity.syntax--other.syntax--inherited-class {
-  color: #50a14f;
+  color: #cb7701;
 }
 .syntax--keyword {
   color: #a626a4;
@@ -589,7 +566,7 @@ pre.editor-colors .fold-marker:after {
   color: #4078f2;
 }
 .syntax--keyword.syntax--other.syntax--unit {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--storage {
   color: #a626a4;
@@ -603,16 +580,16 @@ pre.editor-colors .fold-marker:after {
   color: #383a42;
 }
 .syntax--constant {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--constant.syntax--variable {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--constant.syntax--character.syntax--escape {
   color: #0184bc;
 }
 .syntax--constant.syntax--numeric {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--constant.syntax--other.syntax--color {
   color: #0184bc;
@@ -632,11 +609,15 @@ pre.editor-colors .fold-marker:after {
 .syntax--string {
   color: #50a14f;
 }
+.syntax--string > .syntax--source,
+.syntax--string .syntax--embedded {
+  color: #383a42;
+}
 .syntax--string.syntax--regexp {
   color: #0184bc;
 }
 .syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--string.syntax--other.syntax--link {
   color: #e45649;
@@ -657,7 +638,7 @@ pre.editor-colors .fold-marker:after {
   color: #4078f2;
 }
 .syntax--punctuation.syntax--definition.syntax--bold {
-  color: #c18401;
+  color: #cb7701;
   font-weight: bold;
 }
 .syntax--punctuation.syntax--definition.syntax--italic {
@@ -673,7 +654,7 @@ pre.editor-colors .fold-marker:after {
   color: #383a42;
 }
 .syntax--support.syntax--class {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--support.syntax--type {
   color: #0184bc;
@@ -689,7 +670,7 @@ pre.editor-colors .fold-marker:after {
 }
 .syntax--entity.syntax--name.syntax--class,
 .syntax--entity.syntax--name.syntax--type.syntax--class {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--entity.syntax--name.syntax--section {
   color: #4078f2;
@@ -698,13 +679,13 @@ pre.editor-colors .fold-marker:after {
   color: #e45649;
 }
 .syntax--entity.syntax--other.syntax--attribute-name {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--entity.syntax--other.syntax--attribute-name.syntax--id {
   color: #4078f2;
 }
 .syntax--meta.syntax--class {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--meta.syntax--class.syntax--body {
   color: #383a42;
@@ -717,7 +698,7 @@ pre.editor-colors .fold-marker:after {
   color: #e45649;
 }
 .syntax--meta.syntax--link {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--meta.syntax--require {
   color: #4078f2;
@@ -746,7 +727,7 @@ pre.editor-colors .fold-marker:after {
   background-color: #ff1414 !important;
 }
 .syntax--markup.syntax--bold {
-  color: #986801;
+  color: #b76b01;
   font-weight: bold;
 }
 .syntax--markup.syntax--changed {
@@ -772,16 +753,10 @@ pre.editor-colors .fold-marker:after {
   color: #50a14f;
 }
 .syntax--markup.syntax--quote {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--markup.syntax--raw {
   color: #50a14f;
-}
-.syntax--source.syntax--c .syntax--keyword.syntax--operator {
-  color: #a626a4;
-}
-.syntax--source.syntax--cpp .syntax--keyword.syntax--operator {
-  color: #a626a4;
 }
 .syntax--source.syntax--cs .syntax--keyword.syntax--operator {
   color: #a626a4;
@@ -807,7 +782,7 @@ pre.editor-colors .fold-marker:after {
   color: #a626a4;
 }
 .syntax--source.syntax--elixir .syntax--parameter.syntax--variable.syntax--function {
-  color: #986801;
+  color: #b76b01;
   font-style: italic;
 }
 .syntax--source.syntax--elixir .syntax--quoted {
@@ -827,10 +802,10 @@ pre.editor-colors .fold-marker:after {
 }
 .syntax--source.syntax--elixir .syntax--separator,
 .syntax--source.syntax--elixir .syntax--keyword.syntax--operator {
-  color: #986801;
+  color: #b76b01;
 }
 .syntax--source.syntax--elixir .syntax--variable.syntax--constant {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--source.syntax--elixir .syntax--array,
 .syntax--source.syntax--elixir .syntax--scope,
@@ -843,17 +818,14 @@ pre.editor-colors .fold-marker:after {
 .syntax--source.syntax--gfm .syntax--link .syntax--entity {
   color: #4078f2;
 }
-.syntax--source.syntax--go .syntax--storage.syntax--type.syntax--string {
-  color: #a626a4;
-}
 .syntax--source.syntax--ini .syntax--keyword.syntax--other.syntax--definition.syntax--ini {
   color: #e45649;
 }
 .syntax--source.syntax--java .syntax--storage.syntax--modifier.syntax--import {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--source.syntax--java .syntax--storage.syntax--type {
-  color: #c18401;
+  color: #cb7701;
 }
 .syntax--source.syntax--java .syntax--keyword.syntax--operator.syntax--instanceof {
   color: #a626a4;
@@ -864,17 +836,11 @@ pre.editor-colors .fold-marker:after {
 .syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair > .syntax--punctuation {
   color: #383a42;
 }
-.syntax--source.syntax--js .syntax--keyword.syntax--operator {
+.syntax--source.syntax--ts .syntax--keyword.syntax--operator {
   color: #0184bc;
 }
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--delete,
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--in,
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--of,
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--instanceof,
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--new,
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--typeof,
-.syntax--source.syntax--js .syntax--keyword.syntax--operator.syntax--void {
-  color: #a626a4;
+.syntax--source.syntax--flow .syntax--keyword.syntax--operator {
+  color: #0184bc;
 }
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json {
   color: #e45649;
@@ -892,17 +858,295 @@ pre.editor-colors .fold-marker:after {
 .syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--constant.syntax--language.syntax--json {
   color: #0184bc;
 }
-.syntax--source.syntax--ruby .syntax--constant.syntax--other.syntax--symbol > .syntax--punctuation {
-  color: inherit;
+.syntax--ng.syntax--interpolation {
+  color: #e45649;
+}
+.syntax--ng.syntax--interpolation.syntax--begin,
+.syntax--ng.syntax--interpolation.syntax--end {
+  color: #4078f2;
+}
+.syntax--ng.syntax--interpolation .syntax--function {
+  color: #e45649;
+}
+.syntax--ng.syntax--interpolation .syntax--function.syntax--begin,
+.syntax--ng.syntax--interpolation .syntax--function.syntax--end {
+  color: #4078f2;
+}
+.syntax--ng.syntax--interpolation .syntax--bool {
+  color: #b76b01;
+}
+.syntax--ng.syntax--interpolation .syntax--bracket {
+  color: #383a42;
+}
+.syntax--ng.syntax--pipe,
+.syntax--ng.syntax--operator {
+  color: #383a42;
+}
+.syntax--ng.syntax--tag {
+  color: #0184bc;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--attribute-name {
+  color: #cb7701;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--string {
+  color: #a626a4;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--begin,
+.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--end {
+  color: #383a42;
 }
 .syntax--source.syntax--php .syntax--class.syntax--bracket {
   color: #383a42;
 }
-.syntax--source.syntax--python .syntax--keyword.syntax--operator.syntax--logical.syntax--python {
+/*
+   This defines styling rules for syntax classes.
+
+   See the naming conventions for a list of syntax classes:
+   https://flight-manual.atom.io/hacking-atom/sections/syntax-naming-conventions
+
+   When styling rules conflict:
+   - The last rule overrides previous rules.
+   - The rule with most classes and pseudo-classes overrides the last rule.
+*/
+.syntax--keyword {
   color: #a626a4;
 }
-.syntax--source.syntax--python .syntax--variable.syntax--parameter {
-  color: #986801;
+.syntax--keyword.syntax--type {
+  color: #0184bc;
+}
+.syntax--keyword.syntax--operator {
+  color: #a626a4;
+}
+.syntax--keyword.syntax--function {
+  color: #e45649;
+}
+.syntax--keyword.syntax--variable {
+  color: #e45649;
+}
+.syntax--keyword.syntax--symbolic {
+  color: #383a42;
+}
+.syntax--entity {
+  color: #383a42;
+}
+.syntax--entity.syntax--parameter {
+  color: #383a42;
+}
+.syntax--entity.syntax--support {
+  color: #e45649;
+}
+.syntax--entity.syntax--decorator:last-child {
+  color: #4078f2;
+}
+.syntax--entity.syntax--label {
+  text-decoration: underline;
+}
+.syntax--entity.syntax--function {
+  color: #4078f2;
+}
+.syntax--entity.syntax--operator {
+  color: #4078f2;
+}
+.syntax--entity.syntax--operator.syntax--symbolic {
+  color: #383a42;
+}
+.syntax--entity.syntax--type {
+  color: #0184bc;
+}
+.syntax--entity.syntax--tag {
+  color: #e45649;
+}
+.syntax--entity.syntax--attribute {
+  color: #b76b01;
+}
+.syntax--punctuation {
+  color: #383a42;
+}
+.syntax--punctuation.syntax--accessor {
+  color: #383a42;
+}
+.syntax--string {
+  color: #50a14f;
+}
+.syntax--string.syntax--immutable {
+  color: #50a14f;
+}
+.syntax--string.syntax--part {
+  color: #0184bc;
+}
+.syntax--string.syntax--interpolation {
+  color: #383a42;
+}
+.syntax--string.syntax--regexp {
+  color: #50a14f;
+}
+.syntax--string.syntax--regexp.syntax--language {
+  color: #a626a4;
+}
+.syntax--string.syntax--regexp.syntax--variable {
+  color: #4078f2;
+}
+.syntax--string.syntax--regexp.syntax--punctuation {
+  color: #a626a4;
+}
+.syntax--constant {
+  color: #b76b01;
+}
+.syntax--constant.syntax--character {
+  color: #50a14f;
+}
+.syntax--constant.syntax--character.syntax--escape {
+  color: #50a14f;
+}
+.syntax--constant.syntax--character.syntax--code {
+  color: #0184bc;
+}
+.syntax--text {
+  color: #383a42;
+}
+.syntax--markup.syntax--heading {
+  color: #e45649;
+}
+.syntax--markup.syntax--list.syntax--punctuation {
+  color: #e45649;
+}
+.syntax--markup.syntax--quote {
+  color: #a0a1a7;
+  font-style: italic;
+}
+.syntax--markup.syntax--bold {
+  color: #b76b01;
+  font-weight: bold;
+}
+.syntax--markup.syntax--italic {
+  color: #a626a4;
+  font-style: italic;
+}
+.syntax--markup.syntax--underline {
+  color: #0184bc;
+  text-decoration: underline;
+}
+.syntax--markup.syntax--strike {
+  color: #e45649;
+}
+.syntax--markup.syntax--raw {
+  color: #50a14f;
+}
+.syntax--markup.syntax--link {
+  color: #0184bc;
+}
+.syntax--markup.syntax--alt {
+  color: #4078f2;
+}
+.syntax--markup.syntax--inserted {
+  color: #50a14f;
+}
+.syntax--markup.syntax--inserted .syntax--punctuation {
+  color: #50a14f;
+}
+.syntax--markup.syntax--highlighted {
+  color: #50a14f;
+}
+.syntax--markup.syntax--highlighted .syntax--punctuation {
+  color: #50a14f;
+}
+.syntax--markup.syntax--deleted {
+  color: #e45649;
+}
+.syntax--markup.syntax--deleted .syntax--punctuation {
+  color: #e45649;
+}
+.syntax--markup.syntax--changed {
+  color: #a626a4;
+}
+.syntax--markup.syntax--changed .syntax--punctuation {
+  color: #a626a4;
+}
+.syntax--markup.syntax--commented {
+  color: #a0a1a7;
+}
+.syntax--markup.syntax--commented .syntax--punctuation {
+  color: #a0a1a7;
+}
+.syntax--comment {
+  color: #a0a1a7;
+  font-style: italic;
+}
+.syntax--comment.syntax--caption {
+  color: #afb0b6;
+  font-weight: bold;
+}
+.syntax--comment.syntax--term {
+  color: #b7b8bd;
+}
+.syntax--comment.syntax--punctuation {
+  color: #a0a1a7;
+  font-weight: normal;
+}
+.syntax--invalid:not(.syntax--punctuation).syntax--illegal {
+  color: white !important;
+  background-color: #ff1414 !important;
+}
+.syntax--invalid:not(.syntax--punctuation).syntax--deprecated {
+  color: #000000 !important;
+  background-color: #f2a60d !important;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--function {
+  color: #696c77;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--function.syntax--support {
+  color: #0184bc;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--selector {
+  color: #b76b01;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--selector.syntax--tag {
+  color: #e45649;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--selector.syntax--id {
+  color: #4078f2;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--property {
+  color: #696c77;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--property.syntax--support {
+  color: #383a42;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--variable {
+  color: #e45649;
+}
+.syntax--source.syntax--css .syntax--constant {
+  color: #696c77;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--support {
+  color: #383a42;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--numeric {
+  color: #b76b01;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--media {
+  color: #b76b01;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--color {
+  color: #b76b01;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--offset {
+  color: #383a42;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--attribute-value {
+  color: #50a14f;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector {
+  color: #b76b01;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--wildcard {
+  color: #e45649;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--id {
+  color: #4078f2;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--attribute {
+  color: #383a42;
 }
 
 /*
@@ -927,6 +1171,11 @@ pre.editor-colors .fold-marker:after {
 <p><a href="https://arxiv.org/a/miyazaki_t_1.html">Preprints</a></p>
 <h1>Journal</h1>
 <ol reversed>
+<li>
+<p>Zhengmi Tang, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, Shinichiro Omachi<br>
+“Stroke-Based Scene Text Erasing Using Synthetic Data for Training”<br>
+<em>IEEE Transactions on Image Processing</em>, 2021 <a href="https://doi.org/10.1109/TIP.2021.3125260"><strong>[paper]</strong></a> <strong>IF: 10.856</strong> (in press)</p>
+</li>
 <li>
 <p>Junpei Masuho, <u><strong>Tomo Miyazaki</strong></u>, Yoshihiro Sugaya, <a href="https://researchmap.jp/read0055275">Masako Omachi</a> and Shinichiro Omachi<br>
 “A Framework for Estimating Gaze Point Information for Location-Based Services”<br>
@@ -1195,7 +1444,7 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 </ol>
 <h1>Domestic (Non-refereed)</h1>
 <ol reversed>
-<li reversed>
+<li>
 <p>本田大智, 菅谷至寛, <u><strong>宮崎 智</strong></u>, 大町真一郎<br>
 "“歪みのあるフロアマップ上での慣性センサを用いた位置推定法の検討”<br>
 2020年度電気関係学会東北支部連合大会講演論文集, S04, 2020</p>
