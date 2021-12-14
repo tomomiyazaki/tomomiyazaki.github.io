@@ -36,6 +36,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 
 # Publications
+- "[Mackerel Fat Content Estimation using RGB and Depth Images](https://doi.org/10.1109/ACCESS.2021.3134260)"  *IEEE Access*, 2021
 - "[Stroke-Based Scene Text Erasing Using Synthetic Data for Training](https://doi.org/10.1109/TIP.2021.3125260)"  *IEEE TIP*, 2021
 - "[A Framework for Estimating Gaze Point Information for Location-Based Services](https://doi.org/10.1109/TVT.2021.3101932)" *IEEE TVT*, 2021
 - "[Object-Based Video Coding by Visual Saliency and Temporal Correlation](https://doi.org/10.1109/TETC.2017.2695640)"  *IEEE TETC*, 2020
@@ -55,8 +56,8 @@ Current:
 [**[2019]**](https://www.primaresearch.org/hip2019/people)
 [**[2017]**](http://events.unifr.ch/hip2017/people/)
 [**[2015]**](http://hip2015.irisa.fr/people/)
-- IJCAI-PRICAI PC Member [**2021**] [**[2020]**](https://ijcai20.org/pc_members/)
-- PC Member ICDAR [**2021**]
+- IJCAI-PRICAI PC Member [**[2021]**](https://ijcai-21.org/program-committee-members/) [**[2020]**](https://ijcai20.org/pc_members/)
+- PC Member ICDAR, 2021
 - 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2023
 [**[Letter]**](./imgs/Letter_IE.pdf)
 [**[URL]**](https://www.ieice.org/iss/ie/jpn/)

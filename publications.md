@@ -3,6 +3,10 @@
 [Preprints](https://arxiv.org/a/miyazaki_t_1.html)
 
 # Journal
+1. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
+"Mackerel Fat Content Estimation using RGB and Depth Images"  
+*IEEE Access*, 2021 [**[paper]**](https://doi.org/10.1109/ACCESS.2021.3134260) **IF: 3.367** (in press)
+
 1. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Stroke-Based Scene Text Erasing Using Synthetic Data for Training"  
 *IEEE Transactions on Image Processing*, vol.30, pp.9306-9320, 2021 [**[paper]**](https://doi.org/10.1109/TIP.2021.3125260) **IF: 10.856**
@@ -445,6 +449,8 @@ Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Informatio
 
 
 # Awards
+1. 石田實記念財団研究奨励賞, 2021 [**[賞状]**](./imgs/ishida_2021.pdf)
+
 1. The Eighth International Conferences on Pervasive Patterns and Applications, Best Paper Award (March 22, 2016)  
 Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
 "Indoor Localization by Map Matching Using One Image of Information Board"  
