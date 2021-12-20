@@ -5,7 +5,7 @@
 # Journal
 1. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
 "Mackerel Fat Content Estimation using RGB and Depth Images"  
-*IEEE Access*, 2021 [**[paper]**](https://doi.org/10.1109/ACCESS.2021.3134260) **IF: 3.367** (in press)
+*IEEE Access*, vol.9, pp.164060-164069, 2021 [**[paper]**](https://doi.org/10.1109/ACCESS.2021.3134260) **IF: 3.367**
 
 1. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
 "Stroke-Based Scene Text Erasing Using Synthetic Data for Training"  
