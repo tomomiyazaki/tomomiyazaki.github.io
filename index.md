@@ -4,7 +4,7 @@
 
 I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
-<a href="https://researchmap.jp/tomo_miyazaki">1<img src="./imgs/researchmap.gif"></a>
+<a href="https://researchmap.jp/tomo_miyazaki"><img src="./imgs/researchmap.gif"></a>
 <a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>
 
 <a href="https://scholar.google.co.jp/citations?user=Utjz8l8AAAAJ&hl=ja"><img src="./imgs/google_96px.png" height=70></a>
@@ -23,9 +23,11 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 # My Goals
 
-1. Respect everyone
-2. Work for neighbours
-3. Refine myself (Stop comparing myself to others)
+1. Be patient. Don't become disappointed when things don't work out exactly as planned.
+2. Be persistent. Keep working even when things get difficult. Push through the tough time. 
+3. Refine myself. Stop comparing myself to others.
+
+
 
 # Research
 
@@ -104,12 +106,6 @@ Previous:
 5. Grant-in-Aid for Scientific Research ( C ), Co-Investigator, 18K11546, 2018-2021 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18K11546/)
 6. Grant-in-Aid for Scientific Research ( B ), Co-Investigator, 16H02841, 2016-2019 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02841/)
 7. Grant-in-Aid for Research Activity start-up, **Principal Investigator**, 15H06009, 2015-2016 [**[URL]**](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H06009/)
-
-<!--
-1. 独立行政法人日本学術振興会, 科研費, 挑戦的研究()萌芽), 課題番号18K19772, 2018-
-1. 独立行政法人日本学術振興会, 科研費, 基盤(B), 研究分担者, 課題番号16H02841, 2016-
-1. 独立行政法人日本学術振興会, 科研費, 研究活動スタート支援, 研究代表者, 課題番号15H06009, 2015-2016
--->
 
 <!--
 # Reference
