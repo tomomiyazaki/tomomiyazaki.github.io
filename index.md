@@ -23,11 +23,11 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 # My Goals
 
-1. Be patient. Don't become disappointed when things don't work out exactly as planned.
-2. Be persistent. Keep working even when things get difficult. Push through the tough time. 
-3. Refine myself. Stop comparing myself to others.
-
-
+1. Respect everyone. Grades of jobs and places does not matter. Ourself matter.
+2. Work optimistically. Even though things will work out.
+3. Be patient. Don't become disappointed when things don't work out exactly as planned.
+4. Be persistent. Keep working even when things get difficult. Push through the tough time. 
+5. Refine myself. Stop comparing myself to others.
 
 # Research
 
