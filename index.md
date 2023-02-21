@@ -23,7 +23,7 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 # My Goals
 
-1. Respect everyone. Grades of jobs and places does not matter. Ourself matter.
+1. Respect everyone. Grades of jobs and places does not matter. [Ourself matter](https://www.churchofjesuschrist.org/study/general-conference/2011/10/you-matter-to-him?lang=eng&id=p31#p31).
 2. Work optimistically. Things will work out.
 3. Be patient. Don't become disappointed when things don't work out exactly as planned.
 4. Be persistent. Keep working even when things get difficult. Push through the tough time. 
