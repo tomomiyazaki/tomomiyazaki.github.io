@@ -37,14 +37,15 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
-- "[Important Region Estimation Using Image Captioning](https://ieeexplore.ieee.org/document/9907004?source=authoralert)" *IEEE Access*, 2022
-- "[Mackerel Fat Content Estimation using RGB and Depth Images](https://doi.org/10.1109/ACCESS.2021.3134260)"  *IEEE Access*, 2021
-- "[Stroke-Based Scene Text Erasing Using Synthetic Data for Training](https://doi.org/10.1109/TIP.2021.3125260)"  *IEEE TIP*, 2021
-- "[A Framework for Estimating Gaze Point Information for Location-Based Services](https://doi.org/10.1109/TVT.2021.3101932)" *IEEE TVT*, 2021
-- "[Object-Based Video Coding by Visual Saliency and Temporal Correlation](https://doi.org/10.1109/TETC.2017.2695640)"  *IEEE TETC*, 2020
-- "[Automatic Generation of Typographic Font from a Small Font Subset](https://doi.org/10.1109/MCG.2019.2931431)" *IEEE CG&A*, 2020
-- "[Automatic Mackerel Sorting Machine using Global and Local Features](https://doi.org/10.1109/ACCESS.2019.2917554)" *IEEE Access*, 2019
-- "[Structural Data Recognition with Graph Model Boosting](https://doi.org/10.1109/ACCESS.2018.2876860)"  *IEEE Access*, 2018
+- [Deep Image Compression Using Scene Text Quality Assessment](https://doi.org/10.1016/j.patcog.2023.109696), *PR*, 2023  
+- [Important Region Estimation Using Image Captioning](https://doi.org/10.1109/ACCESS.2022.3211260), *IEEE Access*, 2022
+- [Mackerel Fat Content Estimation using RGB and Depth Images](https://doi.org/10.1109/ACCESS.2021.3134260), *IEEE Access*, 2021
+- [Stroke-Based Scene Text Erasing Using Synthetic Data for Training](https://doi.org/10.1109/TIP.2021.3125260), *IEEE TIP*, 2021
+- [A Framework for Estimating Gaze Point Information for Location-Based Services](https://doi.org/10.1109/TVT.2021.3101932), *IEEE TVT*, 2021
+- [Object-Based Video Coding by Visual Saliency and Temporal Correlation](https://doi.org/10.1109/TETC.2017.2695640), *IEEE TETC*, 2020
+- [Automatic Generation of Typographic Font from a Small Font Subset](https://doi.org/10.1109/MCG.2019.2931431), *IEEE CG&A*, 2020
+- [Automatic Mackerel Sorting Machine using Global and Local Features](https://doi.org/10.1109/ACCESS.2019.2917554), *IEEE Access*, 2019
+- [Structural Data Recognition with Graph Model Boosting](https://doi.org/10.1109/ACCESS.2018.2876860), *IEEE Access*, 2018
 
 [**Full list**](./publications.html)
 
@@ -78,24 +79,6 @@ Previous:
 - Local Arrangement Chair, The 2nd Student Organizing International Mini-Conference on Information Electronics
   Systems (SOIM-GCOE2009), 2009
 - MIRU2019 若手プログラム委員 [**[URL]**](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=wakate-committee)
-
-<!--
-# Review Experience (newest first)
-1. ICFHR2020
-1. MIRU2020
-1. IEEE Access
-1. IJCAI-PRICAI2020
-1. IEICE Transactions on Information and Systems
-1. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-1. IEEE Transaction on Image Processing (TIP)
-1. International Journal on Document Analysis and Recognition (IJDAR)
-1. Meeting on Image Recognition and Understanding (MIRU)
-1. Journal of Circuits, Systems, and Computers
-1. The International Conference on Frontiers in Handwriting Recognition
-(ICFHR)
-1. The International Workshop on Document Analysis System (DAS)
-1. The Asian Conference on Pattern Recognition (ACPR)
--->
 
 # Funding
 
