@@ -6,7 +6,7 @@
 
 1. Shohei Uchigasaki, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Deep Image Compression Using Scene Text Quality Assessment"  
-   *Pattern Recognition*, 2023 [**[preprint]**](https://arxiv.org/abs/2305.11373) [**[paper]**](https://doi.org/10.1016/j.patcog.2023.109696)  **IF: 8.518**
+   *Pattern Recognition*, vol. 142, pp.109696, 2023 [**[preprint]**](https://arxiv.org/abs/2305.11373) [**[paper]**](https://doi.org/10.1016/j.patcog.2023.109696)  **IF: 8.518**
 
 2. [Masao Yoshino](https://researchmap.jp/myoshino), [Takashi Iida](https://takashy57.wixsite.com/takashy57), [Keita Mizukoshi](https://mzks.dev/), <u>**T.Miyazaki**</u>, [Kei Kamada](https://researchmap.jp/kamadakei), [kyoung Jin Kim](https://researchmap.jp/kjkim72), [Akira Yoshikawa](https://researchmap.jp/akria_yoshikawa)  
    "Comparative Pulse Shape Discrimination Study for Ca(Br, I)2 Scintillators Using Machine Learning and Conventional Methods"  
