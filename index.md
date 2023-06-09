@@ -1,6 +1,6 @@
 # **Tomo Miyazaki**
 
-<img src="./imgs/miyazaki.jpg" width=300 height=300 alt="Tomo Miyazaki">
+<img src="./imgs/tomo_2021.jpg" width=300 height=357 alt="Tomo Miyazaki">
 
 I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
@@ -54,17 +54,14 @@ Also structural data, such as chemical compounds, is my research target.
 Current:
 
 - 大阪府立大学 文書解析・知識科学研究所 客員研究員 (Visiting Researcher at Institute of Document Analysis and Knowledge Science, IDAKS) 2018.4- [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
-- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2023
+- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2025
   [**[Letter]**](./imgs/Letter_IE.pdf)
   [**[URL]**](https://www.ieice.org/iss/ie/jpn/)
+- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP),
+  [**[2023]**](https://blog.sbb.berlin/hip2023/#people) [**[2021]**](https://blog.sbb.berlin/hip2021/#people) [**[2019]**](https://www.primaresearch.org/hip2019/people) [**[2017]**](http://events.unifr.ch/hip2017/people/) [**[2015]**](http://hip2015.irisa.fr/people/)
 
 Previous:
 
-- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP),
-  [**[2021]**](https://blog.sbb.berlin/hip2021/#people)
-  [**[2019]**](https://www.primaresearch.org/hip2019/people)
-  [**[2017]**](http://events.unifr.ch/hip2017/people/)
-  [**[2015]**](http://hip2015.irisa.fr/people/)
 - IJCAI-PRICAI PC Member [**[2021]**](https://ijcai-21.org/program-committee-members/) [**[2020]**](https://ijcai20.org/pc_members/)
 - PC Member ICDAR, 2021
 - MIRU2020 組織 副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
