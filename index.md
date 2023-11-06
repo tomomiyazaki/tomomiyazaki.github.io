@@ -38,7 +38,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
-- [A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://doi.org/10.1109/TIP.2023.3326685), *IEEE TIP*, Accepted
+- [A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://doi.org/10.1109/TIP.2023.3326685), *IEEE TIP*, 2023
 - [Deep Image Compression Using Scene Text Quality Assessment](https://doi.org/10.1016/j.patcog.2023.109696), *PR*, 2023  
 - [Important Region Estimation Using Image Captioning](https://doi.org/10.1109/ACCESS.2022.3211260), *IEEE Access*, 2022
 - [Mackerel Fat Content Estimation using RGB and Depth Images](https://doi.org/10.1109/ACCESS.2021.3134260), *IEEE Access*, 2021

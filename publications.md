@@ -5,8 +5,8 @@
 # Journal
 
 1. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
-   "A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data"  
-   *IEEE Transactions on Image Processing*, Accepted [**[paper]**](https://doi.org/10.1109/TIP.2023.3326685) **IF: 10.6**
+   "A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data,"  
+   *IEEE Transactions on Image Processing*, vol. 32, pp.5837-5851, 2023 [**[paper]**](https://doi.org/10.1109/TIP.2023.3326685) **IF: 10.6**
 
 2. Akane Shoda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "JPEG Image Enhancement with Pre-Processing of Color Reduction and Smoothing"  
