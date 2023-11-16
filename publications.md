@@ -12,7 +12,7 @@
    "JPEG Image Enhancement with Pre-Processing of Color Reduction and Smoothing"  
    *Sensors*, vol. 23, no.21, 8861, 2023 [**[paper]**](https://doi.org/10.3390/s23218861) **IF: 3.9**
 
-3. Kohei Kageyama, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+3. Kohei Kageyama, <u>**Tomo Miyazaki**</u>, [Yoshihiro Sugaya](https://researchmap.jp/read0055274), Shinichiro Omachi  
    "Collaborative Indoor Positioning by Localization Comparison at an Encounter Position"  
    *Applied Science*, vol. 13, no. 12, 6962, 2023 [**[paper]**](https://doi.org/10.3390/app13126962)  **IF: 2.838**
 
@@ -32,7 +32,7 @@
    "Importance Estimation for Scene Texts Using Visual Features"  
    *Interdisciplinary Information Sciences*, Volume 28, Issue 1, pp.15-23, 2022 [**[paper]**](https://doi.org/10.4036/iis.2022.a.06)
 
-8. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
+8. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Naohiro Sekiguchi, Shinichiro Omachi  
    "Mackerel Fat Content Estimation using RGB and Depth Images"  
    *IEEE Access*, vol.9, pp.164060-164069, 2021 [**[paper]**](https://doi.org/10.1109/ACCESS.2021.3134260) **IF: 3.367**
 
