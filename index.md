@@ -12,7 +12,7 @@ I am an Assistant Professor at Department of Communication Engineering at Tohoku
 <a href="https://github.com/tomomiyazaki"><img src="./imgs/GitHub-Mark-120px-plus.png" height=70></a>
 <a href="https://www.facebook.com/tomo.miyazaki.16"><img src="./imgs/f_logo_RGB-Grey_58.png" height=70></a>
 <a href="http://www.iic.ecei.tohoku.ac.jp/index.html"><img src="./imgs/iiclab-dark.png" height=70></a>
-<a href="https://calendar.google.com/calendar/embed?src=tomo.miyazaki.b6%40tohoku.ac.jp&ctz=Asia%2FTokyo"><img src="./imgs/calender_128x128.png" height=70></a>
+<a href="https://calendar.app.google/Rg7CYiwW6zgYpqtz8"><img src="./imgs/calender_128x128.png" height=70></a>
 
 # Physical Address
 
