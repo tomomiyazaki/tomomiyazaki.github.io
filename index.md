@@ -2,7 +2,7 @@
 
 <img src="./imgs/tomo_2021.jpg" width=300 height=357 alt="Tomo Miyazaki">
 
-I am an Assistant Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
+I am an Associate Professor at Department of Communication Engineering at Tohoku University, Japan. I received my Ph.D. degree from Tohoku University and a B.S. from Yamagata University in 2011 and 2006, respectively.
 
 <a href="https://researchmap.jp/tomo_miyazaki"><img src="./imgs/researchmap.gif"></a>
 <a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>
