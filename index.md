@@ -38,6 +38,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
+- [Semantically-Guided Image Compression for Enhanced Perceptual Quality at Extremely Low Bitrates](https://doi.org/10.1109/ACCESS.2024.3430322), *IEEE Access*, 2024
 - [Japanese Historical Character Recognition by Focusing on Character Parts](https://doi.org/10.1016/j.patcog.2023.110181), *Pattern Recognition*, 2024
 - [A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://doi.org/10.1109/TIP.2023.3326685), *IEEE TIP*, 2023
 - [Deep Image Compression Using Scene Text Quality Assessment](https://doi.org/10.1016/j.patcog.2023.109696), *Pattern Recognition*, 2023  

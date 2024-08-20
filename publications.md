@@ -4,104 +4,108 @@
 
 # Journal
 
-1. [Yongsong Huang](https://hyongsong.work/), <u>**Tomo Miyazaki**</u>,  [Xiaofeng Liu](https://xliulab.mgh.harvard.edu/xiaofeng/), Kaiyuan Jiang, Zhengmi Tang, Shinichiro Omachi  
+1. [Shoma Iwai](https://iwa-shi.github.io/), <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+   "Semantically-Guided Image Compression for Enhanced Perceptual Quality at Extremely Low Bitrates"  
+   *IEEE Access*, vol. 12, pp.100057-100072, 2024  [**[paper]**](https://doi.org/10.1109/ACCESS.2024.3430322)  **IF: 3.4**
+
+2. [Yongsong Huang](https://hyongsong.work/), <u>**Tomo Miyazaki**</u>,  [Xiaofeng Liu](https://xliulab.mgh.harvard.edu/xiaofeng/), Kaiyuan Jiang, Zhengmi Tang, Shinichiro Omachi  
    "Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer"  
    *Computer Methods and Programs in Biomedicine*, pp.108000, 2024  [**[paper]**](https://doi.org/10.1016/j.cmpb.2023.108000)  **IF: 6.1**
 
-2. Takuru Ishikawa, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+3. Takuru Ishikawa, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Japanese historical character recognition by focusing on character parts"  
    *Pattern Recognition*, vol. 148, pp.110181, 2024  [**[paper]**](https://doi.org/10.1016/j.patcog.2023.110181)  **IF: 8.518**
 
-3. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+4. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data,"  
    *IEEE Transactions on Image Processing*, vol. 32, pp.5837-5851, 2023 [**[paper]**](https://doi.org/10.1109/TIP.2023.3326685) **IF: 10.6**
 
-4. Akane Shoda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+5. Akane Shoda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "JPEG Image Enhancement with Pre-Processing of Color Reduction and Smoothing"  
    *Sensors*, vol. 23, no.21, 8861, 2023 [**[paper]**](https://doi.org/10.3390/s23218861) **IF: 3.9**
 
-5. Kohei Kageyama, <u>**Tomo Miyazaki**</u>, [Yoshihiro Sugaya](https://researchmap.jp/read0055274), Shinichiro Omachi  
+6. Kohei Kageyama, <u>**Tomo Miyazaki**</u>, [Yoshihiro Sugaya](https://researchmap.jp/read0055274), Shinichiro Omachi  
    "Collaborative Indoor Positioning by Localization Comparison at an Encounter Position"  
    *Applied Science*, vol. 13, no. 12, 6962, 2023 [**[paper]**](https://doi.org/10.3390/app13126962)  **IF: 2.838**
 
-6. Shohei Uchigasaki, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+7. Shohei Uchigasaki, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Deep Image Compression Using Scene Text Quality Assessment"  
    *Pattern Recognition*, vol. 142, pp.109696, 2023 [**[preprint]**](https://arxiv.org/abs/2305.11373) [**[paper]**](https://doi.org/10.1016/j.patcog.2023.109696)  **IF: 8.518**
 
-7. [Masao Yoshino](https://researchmap.jp/myoshino), [Takashi Iida](https://takashy57.wixsite.com/takashy57), [Keita Mizukoshi](https://mzks.dev/), <u>**Tomo Miyazaki**</u>, [Kei Kamada](https://researchmap.jp/kamadakei), [kyoung Jin Kim](https://researchmap.jp/kjkim72), [Akira Yoshikawa](https://researchmap.jp/akria_yoshikawa)  
+8. [Masao Yoshino](https://researchmap.jp/myoshino), [Takashi Iida](https://takashy57.wixsite.com/takashy57), [Keita Mizukoshi](https://mzks.dev/), <u>**Tomo Miyazaki**</u>, [Kei Kamada](https://researchmap.jp/kamadakei), [kyoung Jin Kim](https://researchmap.jp/kjkim72), [Akira Yoshikawa](https://researchmap.jp/akria_yoshikawa)  
    "Comparative Pulse Shape Discrimination Study for Ca(Br, I)2 Scintillators Using Machine Learning and Conventional Methods"  
    *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*, vol. 1045, pp. 167626, 2023 [**[paper]**](https://doi.org/10.1016/j.nima.2022.167626) **IF: 1.335**
 
-8. Taku Suzuki, Daisuke Sato, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+9. Taku Suzuki, Daisuke Sato, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Important Region Estimation Using Image Captioning"  
    *IEEE Access*, vol. 10, pp.105546-105555, 2022 [**[paper]**](https://doi.org/10.1109/ACCESS.2022.3211260) **IF: 3.476**
 
-9. Kota Oodaira, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
-   "Importance Estimation for Scene Texts Using Visual Features"  
-   *Interdisciplinary Information Sciences*, Volume 28, Issue 1, pp.15-23, 2022 [**[paper]**](https://doi.org/10.4036/iis.2022.a.06)
+10. Kota Oodaira, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+    "Importance Estimation for Scene Texts Using Visual Features"  
+    *Interdisciplinary Information Sciences*, Volume 28, Issue 1, pp.15-23, 2022 [**[paper]**](https://doi.org/10.4036/iis.2022.a.06)
 
-10. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Naohiro Sekiguchi, Shinichiro Omachi  
+11. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Naohiro Sekiguchi, Shinichiro Omachi  
     "Mackerel Fat Content Estimation using RGB and Depth Images"  
     *IEEE Access*, vol.9, pp.164060-164069, 2021 [**[paper]**](https://doi.org/10.1109/ACCESS.2021.3134260) **IF: 3.367**
 
-11. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+12. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Stroke-Based Scene Text Erasing Using Synthetic Data for Training"  
     *IEEE Transactions on Image Processing*, vol.30, pp.9306-9320, 2021 [**[paper]**](https://doi.org/10.1109/TIP.2021.3125260) **IF: 10.856**
 
-12. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
+13. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
     "A Framework for Estimating Gaze Point Information for Location-Based Services"  
     *IEEE Transactions on Vehicular Technology*, vol.70, no.9, pp.8468-8477, 2021 [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932) **IF: 5.978**
 
-13. Sho Ishida, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+14. Sho Ishida, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Graph Neural Networks with Multiple Feature Extraction Paths for Chemical Property Estimation"  
     *Molecules*, vol.26, no.11, 3125, 2021  [**[paper]**](https://doi.org/10.3390/molecules26113125) **IF: 4.411**
 
-14. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+15. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Multiple Visual-Semantic Embedding for Video Retrieval from Query
     Sentence"  
     *Applied Sciences*, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.679**
 
-15. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+16. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale"  
     *Sensors*, vol.21, no.4, 1232, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.576**
 
-16. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+17. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Optical Flow-Based Fast Motion Parameters Estimation for Affine Motion Compensation"  
     *Applied Sciences*, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10020729) **IF: 2.679**
 
-17. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+18. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
      *IEEE Transactions on Emerging Topics in Computing (TETC)*, Volume 8, Issue 1, pp.168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 7.691**
 
-18. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
+19. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
      "Automatic Generation of Typographic Font from a Small Font Subset"  
      *IEEE Computer Graphics and Applications*, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 2.088**
 
-19. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+20. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
      *IIEEJ Transactions on Image Electronics and Visual Computing*, vol.7, no.1, p.2-12, 2019 [**[paper]**](https://doi.org/10.11371/tievciieej.7.1_2)
 
-20. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
+21. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
      "Automatic Mackerel Sorting Machine using Global and Local Features"  
      *IEEE Access*, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.367**
 
-21. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+22. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
      "Structural Data Recognition with Graph Model Boosting"  
      *IEEE Access*, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.367**
 
-22. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+23. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
      *Journal of Sensor and Actuator Networks*, Volume 7, Issue 3, p.31, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
 
-23. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+24. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
      *Fishes*, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026) **IF: 2.385**
 
-24. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+25. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Efficient Coding for Video Including Text Using Image Generation"  
      *Journal of Information Processing*, vol.24, no.2, pp.330-338, 2016 [**[paper]**](https://doi.org/10.2197/ipsjjip.24.330)  
 
-25. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+26. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
      "Representative Graph Generation for Graph-Based Character Recognition"  
      *The Journal of the Institute of Image Electronics Engineers of Japan*, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)
 
@@ -274,203 +278,296 @@ Misc:
     "Extraction of Structure of Shapes Using Weighted Minimum Common Supergraph"   
     Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Information, pp.49–50, 2008
 
+
 # Domestic (Non-refereed)
 
-1. 本田大智, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
-   ""歪みのあるフロアマップ上での慣性センサを用いた位置推定法の検討"  
-   2020年度電気関係学会東北支部連合大会講演論文集, S04, 2020
+1. 岩井翔真, 宮崎智, 大町真一郎  
+   "画像圧縮におけるVQGAN活用のための双条件付き学習"  
+   第27回 画像の認識・理解シンポジウム, OS-2C-03, 2024 [**[<font color=red>MIRU学生奨励賞</font>]**](https://miru-committee.github.io/miru2024/author/award/)
+   
+1. 高野寛己, 高久悠杜, 太田晋一 (宮城県産業技術総合センター), 宮崎智, 大町真一郎  
+   "生成画像を用いた工業画像マルチクラス分類と異常検知アルゴリズム性能との比較検証"  
+   第27回 画像の認識・理解シンポジウム, IS-2-034, 2024 [**[<font color=red>MIRUインタラクティブ発表賞</font>]**](https://miru-committee.github.io/miru2024/author/award/)
 
-2. 西村 遼平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
-   "ニューラルネットワークを用いた古典籍画像からの文字検出"  
-   電子情報通信学会総合大会学生ポスターセッション, 2F17, 2019
+2. Taiga Goncalves, Tomo Miyazaki, Shinichiro Omachi  
+   "Domain Generalizable Multi-Targeted Adversarial Attack using Dynamic Loss Weighting"  
+   第27回 画像の認識・理解シンポジウム, IS-1-075, 2024 [**[<font color=red>MIRUインタラクティブ発表賞</font>]**](https://miru-committee.github.io/miru2024/author/award/)
 
-3. 石田 聖, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
-   "グラフ構造に着目した分子特性の認識"  
-   電子情報通信学会総合大会学生ポスターセッション, 2F19, 2019
+3. 石川健志, 宮崎智, 大町真一郎  
+   "Deepfake text検出：生成AIによるテキスト編集の検出手法とデータセットの開発"  
+   第27回 画像の認識・理解シンポジウム, IS-1-031, 2024
 
-4. 中屋 悠資, 鈴木 海斗, <u>**宮崎 智**</u>, 大町 真一郎  
-   "部首に注目したDeep Leaningによるくずし字の認識を用いた日本古典籍の解析"  
-   電子情報通信学会総合大会学生ポスターセッション, XXX, 2019
+4. 安孫子理人, 宮崎智, 大町真一郎 (東北大), 藤井康寿 (Google DeepMind)  
+   "品質評価モデルと拡散過程を用いた情景画像中テキストの可読性評価"  
+   第27回 画像の認識・理解シンポジウム, IS-1-041, 2024
 
-5. Nguyen Manh Huy, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
-   "Joint Video and Language Understanding with Visual-Semantic Embedding"  
-   2019年度電気関係学会東北支部連合大会講演論文集, 1H10, 2019  
-   [**[<font color=red>The Best Paper Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/awards2019.pdf)
+5. 高橋翔, 宮崎智, 大町真一郎  
+   "インスタンスセグメンテーションを用いた複雑性除去による異常検知手法"  
+   第27回 画像の認識・理解シンポジウム, IS-1-089, 2024
 
-6. 増保純平, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
-   "ウェアラブルセンサと固定カメラを用いたユーザの注目位置推定"  
-   2019年度電気関係学会東北支部連合大会講演論文集, 1F15, 2019
+6. 尾崎瞬, 宮崎智, 大町真一郎, 藤井康寿 (Google DeepMind)
+   "フレームのキャプショニングを用いた動画要約学習"  
+   第27回 画像の認識・理解シンポジウム, IS-1-107, 2024
 
-7. 小泉翔太, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
-   "略地図画像からの道路領域抽出手法の検討"  
-   2019年度電気関係学会東北支部連合大会講演論文集, 1F12, 2019
+7. Juan Wang, ZhiJie Wang (RIKEN AIP), Tomo Miyazaki, Shinichiro Omachi (Tohoku Univ.)  
+   "Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment"  
+   第27回 画像の認識・理解シンポジウム, IS-1-020, 2024
 
-8. 竹村貴文, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
-   "屋内撮影画像中の案内板までの実距離推定手法の検討"  
-   2019年度電気関係学会東北支部連合大会講演論文集, 1F11, 2019
+8. 高野寛己(宮城県産業技術総合センター), 太田晋一 (宮城県産業技術総合センター), 宮崎智, 大町真一郎  
+   "不整列データセットを用いた異常検知アルゴリズムの性能検証"  
+   第26回 画像の認識・理解シンポジウム, IS1-42, 2023
 
-9. 桑野拓朗, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
-   "画像生成を取り入れた適応的符号化に関する検討"  
-   2019年度電気関係学会東北支部連合大会講演論文集, 1F08, 2019
+9. 阿部楓也, 岩井翔真, 宮崎智, 大町真一郎  
+   "生成画像を利用した少数データくずし字認識に関する検討"  
+   第26回 画像の認識・理解シンポジウム, IS1-66, 2023
 
-10. 長崎 大, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
+10. 木下純哉, 宮崎智, 大町真一郎  
+    "パーツプロトタイプを用いたくずし字認識に関する検討"  
+    第26回 画像の認識・理解シンポジウム, IS1-91, 2023
+
+11. 岩井翔真, 宮崎智, 大町真一郎  
+    "GANを使ったマルチレート画像符号化モデルのための学習戦略の検討"  
+    第26回 画像の認識・理解シンポジウム, IS2-63, 2023
+
+12. 恩田 浩志, 宮崎 智, 大町 真一郎  
+    "説明文からのテキスト領域を含む画像の生成に関する検討"  
+    第25回 画像の認識・理解シンポジウム, IS1-58, 2022
+
+13. 谷本 衡哉, 大町 真一郎, 宮崎 智  
+    "U-Netを用いた電子部品画像からの配線検出"  
+    第25回 画像の認識・理解シンポジウム, IS1-71, 2022
+
+14. 石川 太繰, 宮崎 智, 大町 真一郎  
+    "古典籍中の少数サンプル文字種認識のための文字部位認識"  
+    第25回 画像の認識・理解シンポジウム, IS2-68, 2022
+
+15. 宇川 慧, 宮崎 智, 大町 真一郎
+    "物体のテクスチャに注目したGANによる熱赤外線画像着色手法の検討"  
+    第25回 画像の認識・理解シンポジウム, IS3-52, 2022
+
+16. 阿部 楓也, 岩井 翔真, 宮崎 智, 大町 真一郎  
+    "少数くずし字データ補強のための画像生成に関する検討"  
+    第25回 画像の認識・理解シンポジウム, IS3-53, 2022
+
+17. 岩井 翔真, 宮崎 智, 大町 真一郎  
+    GANを使った画像符号化における識別器に関する検討  
+    第25回 画像の認識・理解シンポジウム, IS3-56, 2022
+
+18. 梶原 颯希, 宮崎 智, 大町 真一郎  
+    "編集距離に基づいた距離学習による情景画像文字認識結果の修正に関する検討"  
+    第25回 画像の認識・理解シンポジウム, IS3-80, 2022
+
+19. 内ヶ崎翔平, 菅谷至寛, 宮崎智, 大町真一郎  
+    "文字の可読性を考慮した画像の高効率符号化手法の実験的検証"  
+    第24回 画像の認識・理解シンポジウム, I21-34, 2021
+
+20. 石川太繰, 宮崎智, 菅谷至寛, 大町真一郎
+    "文字部位に着目した古典籍くずし字認識に関する基礎検討"  
+    第24回 画像の認識・理解シンポジウム, I31-35, 2021
+
+21. 岩井翔真, <u>**宮崎智**</u>, 菅谷至寛, 大町真一郎  
+    "参照型超解像による特徴転移を利用した高品質な画像符号化"  
+    第24回 画像の認識・理解シンポジウム, I32-04, 2021
+
+22. Kohei Kageyama, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+    "Improvement of the Usability for Indoor Navigation Exploiting Images of Information Boards"  
+    2021年度電気関係学会東北支部連合大会講演論文集, 2021
+
+23. 本田大智, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+    "歪みのあるフロアマップ上での慣性センサを用いた位置推定法の検討"  
+    2020年度電気関係学会東北支部連合大会講演論文集, S04, 2020
+
+24. 西村 遼平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+    "ニューラルネットワークを用いた古典籍画像からの文字検出"  
+    電子情報通信学会総合大会学生ポスターセッション, 2F17, 2019
+
+25. 石田 聖, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+    "グラフ構造に着目した分子特性の認識"  
+    電子情報通信学会総合大会学生ポスターセッション, 2F19, 2019
+
+26. 中屋 悠資, 鈴木 海斗, <u>**宮崎 智**</u>, 大町 真一郎  
+    "部首に注目したDeep Leaningによるくずし字の認識を用いた日本古典籍の解析"  
+    電子情報通信学会総合大会学生ポスターセッション, XXX, 2019
+
+27. Nguyen Manh Huy, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
+    "Joint Video and Language Understanding with Visual-Semantic Embedding"  
+    2019年度電気関係学会東北支部連合大会講演論文集, 1H10, 2019  
+    [**[<font color=red>The Best Paper Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/awards2019.pdf)
+
+28. 増保純平, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
+    "ウェアラブルセンサと固定カメラを用いたユーザの注目位置推定"  
+    2019年度電気関係学会東北支部連合大会講演論文集, 1F15, 2019
+
+29. 小泉翔太, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+    "略地図画像からの道路領域抽出手法の検討"  
+    2019年度電気関係学会東北支部連合大会講演論文集, 1F12, 2019
+
+30. 竹村貴文, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+    "屋内撮影画像中の案内板までの実距離推定手法の検討"  
+    2019年度電気関係学会東北支部連合大会講演論文集, 1F11, 2019
+
+31. 桑野拓朗, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+    "画像生成を取り入れた適応的符号化に関する検討"  
+    2019年度電気関係学会東北支部連合大会講演論文集, 1F08, 2019
+
+32. 長崎 大, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
     "超解像ネットワークを利用した画像符号化手法の検討"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1F07, 2019  
     [**[<font color=red>学生優秀論文賞</font>]**](https://www.ieice.org/tohoku/award/images/2019awards.pdf)
 
-11. 黄 希, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+33. 黄 希, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "Multi-Frame Super Resolution Using 3D Convolution and RNN Prediction"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 2F12, 2018  
     [**[<font color=red>The Encouragement Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/awards2018.pdf)
 
-12. 桑野 拓朗, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+34. 桑野 拓朗, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "超解像を用いた動画像符号化に関する検討"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 1D14, 2018
 
-13. 増保 純平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+35. 増保 純平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "監視カメラを活用したユーザの実世界位置の推定"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 1I05, 2018
 
-14. 竹村 貴文, 菅谷 至寛, <u>**宮崎 智**</u>, 大町 真一郎  
+36. 竹村 貴文, 菅谷 至寛, <u>**宮崎 智**</u>, 大町 真一郎  
     "天吊り案内板を用いた屋内ナビゲーション手法の検討"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 2A07, 2018
 
-15. 佐藤 大亮, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+37. 佐藤 大亮, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "Determining Important Objects in Scene Image Using Neural Networks"  
     平成29年度電気関係学会東北支部連合大会講演論文集, 2B12, 2017  
     [**[<font color=red>The Encouragement Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2017.html)
 
-16. 八重樫 日菜子, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+38. 八重樫 日菜子, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "スパースコーディングを用いた動画像符号化に関する検討"  
     電子情報通信学会総合大会学生ポスターセッション, ISS-SP-200, 2017
 
-17. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+39. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "重要度を考慮した情景画像中における文字情報抽出"  
     電子情報通信学会総合大会学生ポスターセッション, ISS-SP-199, 2017
 
-18. 坂井 清士郎, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+40. 坂井 清士郎, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "文字認識を利用した環境中の日本語英字翻訳を行うウェアラブルシステムの開発"  
     平成28年度電気関係学会東北支部連合大会講演論文集, 2G04, 2016
 
-19. Kyoko Maeda, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+41. Kyoko Maeda, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Low Resolution Character Recognition Using Convolutional Neural Networks"  
     平成28年度電気関係学会東北支部連合大会講演論文集, 1A04, 2016
 
-20. Kenta Takeda, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+42. Kenta Takeda, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Signboard Extraction and Recognition in Subway Station Premises"  
     平成28年度電気関係学会東北支部連合大会講演論文集, 1A03, 2016
 
-21. 井上 慶祐, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+43. 井上 慶祐, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "スパースコーディングを用いたテキストを含む画像符号化に関する検討"  
     電子情報通信学会技術研究報告, IE2016-36, vol.116, no.119, pp.5-10, 2016
 
-22. 景山 竣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+44. 景山 竣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "パーツの生成による少数サンプルからのフォント生成"  
     画像の認識・理解シンポジウム (MIRU), PS3-08, 2016
 
-23. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+45. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "顕著性を利用した情景画像からの重要な文字列の検出"  
     画像の認識・理解シンポジウム (MIRU), PS3-42, 2016
 
-24. Toshiaki Sakai, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+46. Toshiaki Sakai, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Graph Learning with Quadratic Programming in Consideration of Class Diversity"  
     画像の認識・理解シンポジウム (MIRU), PS2-42, 2016
 
-25. 酒井 利晃, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+47. 酒井 利晃, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "非線形最小化によるグラフのモデルの構築と画像認識"  
     電子情報通信学会2016年総合大会講演論文集, D-12-96, 2016
 
-26. Shuto Shinbo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+48. Shuto Shinbo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Accuracy Improvement of Character Recognition Using Generated Samples by Morphing"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 2A12, 2015  
     [**[<font color=red>The Best Paper Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2015.html)
 
-27. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+49. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Gaze Detection in Omnidirectional Scene by Iterative Image Matching"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 2A11, 2015
 
-28. Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+50. Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Survey of Guide Plates and Fundamental Study of Map Image Analysis for Indoor Navigation"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 1E05, 2015
 
-29. 小笠原 和也, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+51. 小笠原 和也, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "顕著性マップとGrabCutによる注目物体抽出を用いた動画像符号化"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 2D10, 2015
 
-30. 千葉 駿, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+52. 千葉 駿, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "アイトラッカと全方位カメラを用いた環境中の視点位置推定"  
     電子情報通信学会技術研究報告, PRMU2014-134, vol.114, no.454, pp.101-102, 2015
 
-31. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+53. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "ストローク幅特徴を用いた情景画像中の文字検出"  
     電子情報通信学会技術研究報告, PRMU2014-133, vol.114, no.454, pp.99-100, 2015
 
-32. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+54. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "画像抽象化による分割圧縮効果改善の検討"  
     電子情報通信学会技術研究報告, PRMU2014-132, vol.114, no.454, pp.97-98, 2015
 
-33. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+55. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "動画像を用いた超低解像度文字認識"  
     電子情報通信学会技術研究報告, PRMU2014-131, vol.114, no.454, pp.95-96, 2015
 
-34. 吉田 大樹, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+56. 吉田 大樹, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "電子基板の欠陥検査のための文字認識"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 1E06, 2015
 
-35. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+57. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "補助線を利用した文字領域抽出"  
     電子情報通信学会技術研究報告, PRMU2013-152, vol.113, no.431, pp.119-120, 2014
 
-36. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+58. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "オブジェクトベースの符号化のための画像抽象化を用いた分割圧縮"  
     画像符号化シンポジウム予稿集, P-4-11, 2014
 
-37. 野末 洋佑, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+59. 野末 洋佑, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "文字パラメータを利用した動画像中の文字の高効率符号化"  
     画像符号化シンポジウム予稿集, P-2-11, 2014
 
-38. Shuhei Toba, Hirotaka Kudo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+60. Shuhei Toba, Hirotaka Kudo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Ultra-Low Resolution Character Recognition with Increased Training Data and Image Enhancement"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2A18, 2014
 
-39. Tatsunori Tsuchiya, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+61. Tatsunori Tsuchiya, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Automatic Generation of Kanji Fonts from Sample Designs"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2A17, 2014
 
-40. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+62. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "A Video Coding Method for Scene Text"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2A19, 2014
 
-41. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+63. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "抽象化を用いた画像圧縮のための領域分割"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2H14, 2014
 
-42. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+64. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "全方位情景画像のための2段階文字列検出"  
     画像の認識・理解シンポジウム (MIRU), SS1-42, 2014
 
-43. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+65. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "ぼけ除去及び複数フレームを利用した超低解像度文字認識"  
     画像の認識・理解シンポジウム (MIRU), SS2-50, 2014
 
-44. 土屋 達徳, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+66. 土屋 達徳, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "サンプルデザインからの漢字フォントの自動生成"  
     画像の認識・理解シンポジウム (MIRU), SS3-17, 2014
 
-45. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+67. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "補助線を利用した文字領域抽出"  
     画像の認識・理解シンポジウム (MIRU), SS3-45, 2014
 
-46. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso  
+68. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso  
     "Structure Extraction from Multiple Decorative Character Images"  
     平成21年度電気関係学会東北支部連合大会講演論文集, 2A-11, 2009  
     [<font color=red>The Best Paper Prize</font>](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2009.html)
 
-47. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
+69. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
     "共通拡大グラフによる飾り文字画像群からの文字構造抽出"  
     画像の認識・理解シンポジウム論文集, IS1-16, pp.506-512, 2009
 
-48. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
+70. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
     "重み付き最小共通スーパーグラフによるシルエット画像の構造抽出"  
     画像の認識・理解シンポジウム論文集, IS5-3, pp.1408-1413, 2008
 
