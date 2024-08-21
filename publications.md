@@ -278,296 +278,299 @@ Misc:
     "Extraction of Structure of Shapes Using Weighted Minimum Common Supergraph"   
     Proceedings of the China-Korea-Japan Graduates Workshop on Electronic Information, pp.49–50, 2008
 
-
 # Domestic (Non-refereed)
 
 1. 岩井翔真, 宮崎智, 大町真一郎  
    "画像圧縮におけるVQGAN活用のための双条件付き学習"  
    第27回 画像の認識・理解シンポジウム, OS-2C-03, 2024 [**[<font color=red>MIRU学生奨励賞</font>]**](https://miru-committee.github.io/miru2024/author/award/)
-   
-1. 高野寛己, 高久悠杜, 太田晋一 (宮城県産業技術総合センター), 宮崎智, 大町真一郎  
+
+2. 高野寛己, 高久悠杜, 太田晋一 (宮城県産業技術総合センター), 宮崎智, 大町真一郎  
    "生成画像を用いた工業画像マルチクラス分類と異常検知アルゴリズム性能との比較検証"  
    第27回 画像の認識・理解シンポジウム, IS-2-034, 2024 [**[<font color=red>MIRUインタラクティブ発表賞</font>]**](https://miru-committee.github.io/miru2024/author/award/)
 
-2. Taiga Goncalves, Tomo Miyazaki, Shinichiro Omachi  
+3. Taiga Goncalves, Tomo Miyazaki, Shinichiro Omachi  
    "Domain Generalizable Multi-Targeted Adversarial Attack using Dynamic Loss Weighting"  
    第27回 画像の認識・理解シンポジウム, IS-1-075, 2024 [**[<font color=red>MIRUインタラクティブ発表賞</font>]**](https://miru-committee.github.io/miru2024/author/award/)
 
-3. 石川健志, 宮崎智, 大町真一郎  
+4. 石川健志, 宮崎智, 大町真一郎  
    "Deepfake text検出：生成AIによるテキスト編集の検出手法とデータセットの開発"  
    第27回 画像の認識・理解シンポジウム, IS-1-031, 2024
 
-4. 安孫子理人, 宮崎智, 大町真一郎 (東北大), 藤井康寿 (Google DeepMind)  
+5. 安孫子理人, 宮崎智, 大町真一郎 (東北大), 藤井康寿 (Google DeepMind)  
    "品質評価モデルと拡散過程を用いた情景画像中テキストの可読性評価"  
    第27回 画像の認識・理解シンポジウム, IS-1-041, 2024
 
-5. 高橋翔, 宮崎智, 大町真一郎  
+6. 高橋翔, 宮崎智, 大町真一郎  
    "インスタンスセグメンテーションを用いた複雑性除去による異常検知手法"  
    第27回 画像の認識・理解シンポジウム, IS-1-089, 2024
 
-6. 尾崎瞬, 宮崎智, 大町真一郎, 藤井康寿 (Google DeepMind)
+7. 尾崎瞬, 宮崎智, 大町真一郎, 藤井康寿 (Google DeepMind)
    "フレームのキャプショニングを用いた動画要約学習"  
    第27回 画像の認識・理解シンポジウム, IS-1-107, 2024
 
-7. Juan Wang, ZhiJie Wang (RIKEN AIP), Tomo Miyazaki, Shinichiro Omachi (Tohoku Univ.)  
+8. Juan Wang, ZhiJie Wang (RIKEN AIP), Tomo Miyazaki, Shinichiro Omachi (Tohoku Univ.)  
    "Improved Open-Vocabulary 3D Scene Understanding via Masked Feature Alignment"  
    第27回 画像の認識・理解シンポジウム, IS-1-020, 2024
 
-8. 高野寛己(宮城県産業技術総合センター), 太田晋一 (宮城県産業技術総合センター), 宮崎智, 大町真一郎  
-   "不整列データセットを用いた異常検知アルゴリズムの性能検証"  
-   第26回 画像の認識・理解シンポジウム, IS1-42, 2023
+9. 東桔也, 宮崎智, 大町真一郎  
+   "連合学習の通信量を削減するためのEnergyスコアを利用した知識蒸留手法の検討"  
+   電子情報通信学会総合大会学生ポスターセッション, 2024 **[<font color=red>優秀ポスター賞</font>]**
 
-9. 阿部楓也, 岩井翔真, 宮崎智, 大町真一郎  
-   "生成画像を利用した少数データくずし字認識に関する検討"  
-   第26回 画像の認識・理解シンポジウム, IS1-66, 2023
+10. 高野寛己(宮城県産業技術総合センター), 太田晋一 (宮城県産業技術総合センター), 宮崎智, 大町真一郎  
+    "不整列データセットを用いた異常検知アルゴリズムの性能検証"  
+    第26回 画像の認識・理解シンポジウム, IS1-42, 2023
 
-10. 木下純哉, 宮崎智, 大町真一郎  
+11. 阿部楓也, 岩井翔真, 宮崎智, 大町真一郎  
+    "生成画像を利用した少数データくずし字認識に関する検討"  
+    第26回 画像の認識・理解シンポジウム, IS1-66, 2023
+
+12. 木下純哉, 宮崎智, 大町真一郎  
     "パーツプロトタイプを用いたくずし字認識に関する検討"  
     第26回 画像の認識・理解シンポジウム, IS1-91, 2023
 
-11. 岩井翔真, 宮崎智, 大町真一郎  
+13. 岩井翔真, 宮崎智, 大町真一郎  
     "GANを使ったマルチレート画像符号化モデルのための学習戦略の検討"  
     第26回 画像の認識・理解シンポジウム, IS2-63, 2023
 
-12. 恩田 浩志, 宮崎 智, 大町 真一郎  
+14. 恩田 浩志, 宮崎 智, 大町 真一郎  
     "説明文からのテキスト領域を含む画像の生成に関する検討"  
     第25回 画像の認識・理解シンポジウム, IS1-58, 2022
 
-13. 谷本 衡哉, 大町 真一郎, 宮崎 智  
+15. 谷本 衡哉, 大町 真一郎, 宮崎 智  
     "U-Netを用いた電子部品画像からの配線検出"  
     第25回 画像の認識・理解シンポジウム, IS1-71, 2022
 
-14. 石川 太繰, 宮崎 智, 大町 真一郎  
+16. 石川 太繰, 宮崎 智, 大町 真一郎  
     "古典籍中の少数サンプル文字種認識のための文字部位認識"  
     第25回 画像の認識・理解シンポジウム, IS2-68, 2022
 
-15. 宇川 慧, 宮崎 智, 大町 真一郎
+17. 宇川 慧, 宮崎 智, 大町 真一郎
     "物体のテクスチャに注目したGANによる熱赤外線画像着色手法の検討"  
     第25回 画像の認識・理解シンポジウム, IS3-52, 2022
 
-16. 阿部 楓也, 岩井 翔真, 宮崎 智, 大町 真一郎  
+18. 阿部 楓也, 岩井 翔真, 宮崎 智, 大町 真一郎  
     "少数くずし字データ補強のための画像生成に関する検討"  
     第25回 画像の認識・理解シンポジウム, IS3-53, 2022
 
-17. 岩井 翔真, 宮崎 智, 大町 真一郎  
+19. 岩井 翔真, 宮崎 智, 大町 真一郎  
     GANを使った画像符号化における識別器に関する検討  
     第25回 画像の認識・理解シンポジウム, IS3-56, 2022
 
-18. 梶原 颯希, 宮崎 智, 大町 真一郎  
+20. 梶原 颯希, 宮崎 智, 大町 真一郎  
     "編集距離に基づいた距離学習による情景画像文字認識結果の修正に関する検討"  
     第25回 画像の認識・理解シンポジウム, IS3-80, 2022
 
-19. 内ヶ崎翔平, 菅谷至寛, 宮崎智, 大町真一郎  
+21. 内ヶ崎翔平, 菅谷至寛, 宮崎智, 大町真一郎  
     "文字の可読性を考慮した画像の高効率符号化手法の実験的検証"  
     第24回 画像の認識・理解シンポジウム, I21-34, 2021
 
-20. 石川太繰, 宮崎智, 菅谷至寛, 大町真一郎
+22. 石川太繰, 宮崎智, 菅谷至寛, 大町真一郎
     "文字部位に着目した古典籍くずし字認識に関する基礎検討"  
     第24回 画像の認識・理解シンポジウム, I31-35, 2021
 
-21. 岩井翔真, <u>**宮崎智**</u>, 菅谷至寛, 大町真一郎  
+23. 岩井翔真, <u>**宮崎智**</u>, 菅谷至寛, 大町真一郎  
     "参照型超解像による特徴転移を利用した高品質な画像符号化"  
     第24回 画像の認識・理解シンポジウム, I32-04, 2021
 
-22. Kohei Kageyama, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+24. Kohei Kageyama, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Improvement of the Usability for Indoor Navigation Exploiting Images of Information Boards"  
     2021年度電気関係学会東北支部連合大会講演論文集, 2021
 
-23. 本田大智, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+25. 本田大智, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
     "歪みのあるフロアマップ上での慣性センサを用いた位置推定法の検討"  
     2020年度電気関係学会東北支部連合大会講演論文集, S04, 2020
 
-24. 西村 遼平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+26. 西村 遼平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "ニューラルネットワークを用いた古典籍画像からの文字検出"  
     電子情報通信学会総合大会学生ポスターセッション, 2F17, 2019
 
-25. 石田 聖, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+27. 石田 聖, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "グラフ構造に着目した分子特性の認識"  
     電子情報通信学会総合大会学生ポスターセッション, 2F19, 2019
 
-26. 中屋 悠資, 鈴木 海斗, <u>**宮崎 智**</u>, 大町 真一郎  
+28. 中屋 悠資, 鈴木 海斗, <u>**宮崎 智**</u>, 大町 真一郎  
     "部首に注目したDeep Leaningによるくずし字の認識を用いた日本古典籍の解析"  
     電子情報通信学会総合大会学生ポスターセッション, XXX, 2019
 
-27. Nguyen Manh Huy, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
+29. Nguyen Manh Huy, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, and Shinichiro Omachi  
     "Joint Video and Language Understanding with Visual-Semantic Embedding"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1H10, 2019  
     [**[<font color=red>The Best Paper Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/awards2019.pdf)
 
-28. 増保純平, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
+30. 増保純平, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
     "ウェアラブルセンサと固定カメラを用いたユーザの注目位置推定"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1F15, 2019
 
-29. 小泉翔太, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+31. 小泉翔太, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
     "略地図画像からの道路領域抽出手法の検討"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1F12, 2019
 
-30. 竹村貴文, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+32. 竹村貴文, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
     "屋内撮影画像中の案内板までの実距離推定手法の検討"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1F11, 2019
 
-31. 桑野拓朗, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
+33. 桑野拓朗, 菅谷至寛, <u>**宮崎 智**</u>, 大町真一郎  
     "画像生成を取り入れた適応的符号化に関する検討"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1F08, 2019
 
-32. 長崎 大, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
+34. 長崎 大, <u>**宮崎 智**</u>, 菅谷至寛, 大町真一郎  
     "超解像ネットワークを利用した画像符号化手法の検討"  
     2019年度電気関係学会東北支部連合大会講演論文集, 1F07, 2019  
     [**[<font color=red>学生優秀論文賞</font>]**](https://www.ieice.org/tohoku/award/images/2019awards.pdf)
 
-33. 黄 希, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+35. 黄 希, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "Multi-Frame Super Resolution Using 3D Convolution and RNN Prediction"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 2F12, 2018  
     [**[<font color=red>The Encouragement Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/awards2018.pdf)
 
-34. 桑野 拓朗, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+36. 桑野 拓朗, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "超解像を用いた動画像符号化に関する検討"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 1D14, 2018
 
-35. 増保 純平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+37. 増保 純平, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "監視カメラを活用したユーザの実世界位置の推定"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 1I05, 2018
 
-36. 竹村 貴文, 菅谷 至寛, <u>**宮崎 智**</u>, 大町 真一郎  
+38. 竹村 貴文, 菅谷 至寛, <u>**宮崎 智**</u>, 大町 真一郎  
     "天吊り案内板を用いた屋内ナビゲーション手法の検討"  
     平成30年度電気関係学会東北支部連合大会講演論文集, 2A07, 2018
 
-37. 佐藤 大亮, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+39. 佐藤 大亮, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "Determining Important Objects in Scene Image Using Neural Networks"  
     平成29年度電気関係学会東北支部連合大会講演論文集, 2B12, 2017  
     [**[<font color=red>The Encouragement Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2017.html)
 
-38. 八重樫 日菜子, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+40. 八重樫 日菜子, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "スパースコーディングを用いた動画像符号化に関する検討"  
     電子情報通信学会総合大会学生ポスターセッション, ISS-SP-200, 2017
 
-39. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+41. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "重要度を考慮した情景画像中における文字情報抽出"  
     電子情報通信学会総合大会学生ポスターセッション, ISS-SP-199, 2017
 
-40. 坂井 清士郎, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+42. 坂井 清士郎, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "文字認識を利用した環境中の日本語英字翻訳を行うウェアラブルシステムの開発"  
     平成28年度電気関係学会東北支部連合大会講演論文集, 2G04, 2016
 
-41. Kyoko Maeda, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+43. Kyoko Maeda, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Low Resolution Character Recognition Using Convolutional Neural Networks"  
     平成28年度電気関係学会東北支部連合大会講演論文集, 1A04, 2016
 
-42. Kenta Takeda, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+44. Kenta Takeda, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Signboard Extraction and Recognition in Subway Station Premises"  
     平成28年度電気関係学会東北支部連合大会講演論文集, 1A03, 2016
 
-43. 井上 慶祐, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+45. 井上 慶祐, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "スパースコーディングを用いたテキストを含む画像符号化に関する検討"  
     電子情報通信学会技術研究報告, IE2016-36, vol.116, no.119, pp.5-10, 2016
 
-44. 景山 竣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+46. 景山 竣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "パーツの生成による少数サンプルからのフォント生成"  
     画像の認識・理解シンポジウム (MIRU), PS3-08, 2016
 
-45. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+47. 大平 康太, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "顕著性を利用した情景画像からの重要な文字列の検出"  
     画像の認識・理解シンポジウム (MIRU), PS3-42, 2016
 
-46. Toshiaki Sakai, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+48. Toshiaki Sakai, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Graph Learning with Quadratic Programming in Consideration of Class Diversity"  
     画像の認識・理解シンポジウム (MIRU), PS2-42, 2016
 
-47. 酒井 利晃, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+49. 酒井 利晃, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "非線形最小化によるグラフのモデルの構築と画像認識"  
     電子情報通信学会2016年総合大会講演論文集, D-12-96, 2016
 
-48. Shuto Shinbo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+50. Shuto Shinbo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Accuracy Improvement of Character Recognition Using Generated Samples by Morphing"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 2A12, 2015  
     [**[<font color=red>The Best Paper Prize</font>]**](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2015.html)
 
-49. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+51. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Gaze Detection in Omnidirectional Scene by Iterative Image Matching"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 2A11, 2015
 
-50. Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+52. Kento Tonosaki, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Survey of Guide Plates and Fundamental Study of Map Image Analysis for Indoor Navigation"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 1E05, 2015
 
-51. 小笠原 和也, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+53. 小笠原 和也, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "顕著性マップとGrabCutによる注目物体抽出を用いた動画像符号化"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 2D10, 2015
 
-52. 千葉 駿, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+54. 千葉 駿, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "アイトラッカと全方位カメラを用いた環境中の視点位置推定"  
     電子情報通信学会技術研究報告, PRMU2014-134, vol.114, no.454, pp.101-102, 2015
 
-53. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+55. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "ストローク幅特徴を用いた情景画像中の文字検出"  
     電子情報通信学会技術研究報告, PRMU2014-133, vol.114, no.454, pp.99-100, 2015
 
-54. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+56. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "画像抽象化による分割圧縮効果改善の検討"  
     電子情報通信学会技術研究報告, PRMU2014-132, vol.114, no.454, pp.97-98, 2015
 
-55. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+57. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "動画像を用いた超低解像度文字認識"  
     電子情報通信学会技術研究報告, PRMU2014-131, vol.114, no.454, pp.95-96, 2015
 
-56. 吉田 大樹, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+58. 吉田 大樹, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "電子基板の欠陥検査のための文字認識"  
     平成27年度電気関係学会東北支部連合大会講演論文集, 1E06, 2015
 
-57. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+59. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "補助線を利用した文字領域抽出"  
     電子情報通信学会技術研究報告, PRMU2013-152, vol.113, no.431, pp.119-120, 2014
 
-58. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+60. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "オブジェクトベースの符号化のための画像抽象化を用いた分割圧縮"  
     画像符号化シンポジウム予稿集, P-4-11, 2014
 
-59. 野末 洋佑, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+61. 野末 洋佑, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "文字パラメータを利用した動画像中の文字の高効率符号化"  
     画像符号化シンポジウム予稿集, P-2-11, 2014
 
-60. Shuhei Toba, Hirotaka Kudo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+62. Shuhei Toba, Hirotaka Kudo, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Ultra-Low Resolution Character Recognition with Increased Training Data and Image Enhancement"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2A18, 2014
 
-61. Tatsunori Tsuchiya, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+63. Tatsunori Tsuchiya, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Automatic Generation of Kanji Fonts from Sample Designs"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2A17, 2014
 
-62. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+64. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "A Video Coding Method for Scene Text"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2A19, 2014
 
-63. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+65. 石森 亮輔, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "抽象化を用いた画像圧縮のための領域分割"  
     平成26年度電気関係学会東北支部連合大会講演論文集, 2H14, 2014
 
-64. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+66. 大島 康嗣, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "全方位情景画像のための2段階文字列検出"  
     画像の認識・理解シンポジウム (MIRU), SS1-42, 2014
 
-65. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+67. 鳥羽 修平, 工藤 裕貴, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "ぼけ除去及び複数フレームを利用した超低解像度文字認識"  
     画像の認識・理解シンポジウム (MIRU), SS2-50, 2014
 
-66. 土屋 達徳, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+68. 土屋 達徳, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "サンプルデザインからの漢字フォントの自動生成"  
     画像の認識・理解シンポジウム (MIRU), SS3-17, 2014
 
-67. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
+69. 川村 思織, <u>**宮崎 智**</u>, 菅谷 至寛, 大町 真一郎  
     "補助線を利用した文字領域抽出"  
     画像の認識・理解シンポジウム (MIRU), SS3-45, 2014
 
-68. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso  
+70. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi, Hirotomo Aso  
     "Structure Extraction from Multiple Decorative Character Images"  
     平成21年度電気関係学会東北支部連合大会講演論文集, 2A-11, 2009  
     [<font color=red>The Best Paper Prize</font>](http://www.ecei.tohoku.ac.jp/ieee-sendai/event/2009.html)
 
-69. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
+71. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
     "共通拡大グラフによる飾り文字画像群からの文字構造抽出"  
     画像の認識・理解シンポジウム論文集, IS1-16, pp.506-512, 2009
 
-70. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
+72. <u>**宮崎 智**</u>, 大町 真一郎, 阿曽 弘具  
     "重み付き最小共通スーパーグラフによるシルエット画像の構造抽出"  
     画像の認識・理解シンポジウム論文集, IS5-3, pp.1408-1413, 2008
 
