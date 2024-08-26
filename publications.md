@@ -4,108 +4,112 @@
 
 # Journal
 
-1. [Shoma Iwai](https://iwa-shi.github.io/), <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+1. [Hiroshi Hoshijima](https://researchmap.jp/read0112297?lang=en), <u>**Tomo Miyazaki**</u>, Yuto Mitsui, Shinichiro Omachi, [Masanori Yamauchi](https://researchmap.jp/123412341234), [Kentaro Mizuta](https://researchmap.jp/read0138550)  
+   "Machine learning-based identification of the risk factors for postoperative nausea and vomiting in adults"  
+   *PLOS ONE*, vol. 19, pp.1-15, 2024  [**[paper]**](https://doi.org/10.1371/journal.pone.0308755)
+
+2. [Shoma Iwai](https://iwa-shi.github.io/), <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Semantically-Guided Image Compression for Enhanced Perceptual Quality at Extremely Low Bitrates"  
    *IEEE Access*, vol. 12, pp.100057-100072, 2024  [**[paper]**](https://doi.org/10.1109/ACCESS.2024.3430322)  **IF: 3.4**
 
-2. [Yongsong Huang](https://hyongsong.work/), <u>**Tomo Miyazaki**</u>,  [Xiaofeng Liu](https://xliulab.mgh.harvard.edu/xiaofeng/), Kaiyuan Jiang, Zhengmi Tang, Shinichiro Omachi  
+3. [Yongsong Huang](https://hyongsong.work/), <u>**Tomo Miyazaki**</u>,  [Xiaofeng Liu](https://xliulab.mgh.harvard.edu/xiaofeng/), Kaiyuan Jiang, Zhengmi Tang, Shinichiro Omachi  
    "Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer"  
    *Computer Methods and Programs in Biomedicine*, pp.108000, 2024  [**[paper]**](https://doi.org/10.1016/j.cmpb.2023.108000)  **IF: 6.1**
 
-3. Takuru Ishikawa, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+4. Takuru Ishikawa, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Japanese historical character recognition by focusing on character parts"  
    *Pattern Recognition*, vol. 148, pp.110181, 2024  [**[paper]**](https://doi.org/10.1016/j.patcog.2023.110181)  **IF: 8.518**
 
-4. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+5. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data,"  
    *IEEE Transactions on Image Processing*, vol. 32, pp.5837-5851, 2023 [**[paper]**](https://doi.org/10.1109/TIP.2023.3326685) **IF: 10.6**
 
-5. Akane Shoda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+6. Akane Shoda, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "JPEG Image Enhancement with Pre-Processing of Color Reduction and Smoothing"  
    *Sensors*, vol. 23, no.21, 8861, 2023 [**[paper]**](https://doi.org/10.3390/s23218861) **IF: 3.9**
 
-6. Kohei Kageyama, <u>**Tomo Miyazaki**</u>, [Yoshihiro Sugaya](https://researchmap.jp/read0055274), Shinichiro Omachi  
+7. Kohei Kageyama, <u>**Tomo Miyazaki**</u>, [Yoshihiro Sugaya](https://researchmap.jp/read0055274), Shinichiro Omachi  
    "Collaborative Indoor Positioning by Localization Comparison at an Encounter Position"  
    *Applied Science*, vol. 13, no. 12, 6962, 2023 [**[paper]**](https://doi.org/10.3390/app13126962)  **IF: 2.838**
 
-7. Shohei Uchigasaki, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+8. Shohei Uchigasaki, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
    "Deep Image Compression Using Scene Text Quality Assessment"  
    *Pattern Recognition*, vol. 142, pp.109696, 2023 [**[preprint]**](https://arxiv.org/abs/2305.11373) [**[paper]**](https://doi.org/10.1016/j.patcog.2023.109696)  **IF: 8.518**
 
-8. [Masao Yoshino](https://researchmap.jp/myoshino), [Takashi Iida](https://takashy57.wixsite.com/takashy57), [Keita Mizukoshi](https://mzks.dev/), <u>**Tomo Miyazaki**</u>, [Kei Kamada](https://researchmap.jp/kamadakei), [kyoung Jin Kim](https://researchmap.jp/kjkim72), [Akira Yoshikawa](https://researchmap.jp/akria_yoshikawa)  
+9. [Masao Yoshino](https://researchmap.jp/myoshino), [Takashi Iida](https://takashy57.wixsite.com/takashy57), [Keita Mizukoshi](https://mzks.dev/), <u>**Tomo Miyazaki**</u>, [Kei Kamada](https://researchmap.jp/kamadakei), [kyoung Jin Kim](https://researchmap.jp/kjkim72), [Akira Yoshikawa](https://researchmap.jp/akria_yoshikawa)  
    "Comparative Pulse Shape Discrimination Study for Ca(Br, I)2 Scintillators Using Machine Learning and Conventional Methods"  
    *Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment*, vol. 1045, pp. 167626, 2023 [**[paper]**](https://doi.org/10.1016/j.nima.2022.167626) **IF: 1.335**
 
-9. Taku Suzuki, Daisuke Sato, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
-   "Important Region Estimation Using Image Captioning"  
-   *IEEE Access*, vol. 10, pp.105546-105555, 2022 [**[paper]**](https://doi.org/10.1109/ACCESS.2022.3211260) **IF: 3.476**
+10. Taku Suzuki, Daisuke Sato, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+    "Important Region Estimation Using Image Captioning"  
+    *IEEE Access*, vol. 10, pp.105546-105555, 2022 [**[paper]**](https://doi.org/10.1109/ACCESS.2022.3211260) **IF: 3.476**
 
-10. Kota Oodaira, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+11. Kota Oodaira, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Importance Estimation for Scene Texts Using Visual Features"  
     *Interdisciplinary Information Sciences*, Volume 28, Issue 1, pp.15-23, 2022 [**[paper]**](https://doi.org/10.4036/iis.2022.a.06)
 
-11. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Naohiro Sekiguchi, Shinichiro Omachi  
+12. Shuya Sano, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Naohiro Sekiguchi, Shinichiro Omachi  
     "Mackerel Fat Content Estimation using RGB and Depth Images"  
     *IEEE Access*, vol.9, pp.164060-164069, 2021 [**[paper]**](https://doi.org/10.1109/ACCESS.2021.3134260) **IF: 3.367**
 
-12. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+13. Zhengmi Tang, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Stroke-Based Scene Text Erasing Using Synthetic Data for Training"  
     *IEEE Transactions on Image Processing*, vol.30, pp.9306-9320, 2021 [**[paper]**](https://doi.org/10.1109/TIP.2021.3125260) **IF: 10.856**
 
-13. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
+14. Junpei Masuho, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, [Masako Omachi](https://researchmap.jp/read0055275) and Shinichiro Omachi  
     "A Framework for Estimating Gaze Point Information for Location-Based Services"  
     *IEEE Transactions on Vehicular Technology*, vol.70, no.9, pp.8468-8477, 2021 [**[paper]**](https://doi.org/10.1109/TVT.2021.3101932) **IF: 5.978**
 
-14. Sho Ishida, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+15. Sho Ishida, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Graph Neural Networks with Multiple Feature Extraction Paths for Chemical Property Estimation"  
     *Molecules*, vol.26, no.11, 3125, 2021  [**[paper]**](https://doi.org/10.3390/molecules26113125) **IF: 4.411**
 
-15. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+16. Huy Manh Nguyen, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Multiple Visual-Semantic Embedding for Video Retrieval from Query
     Sentence"  
     *Applied Sciences*, vol.11, no.7, 3214, 2021 [**[paper]**](https://doi.org/10.3390/app11073214) **IF: 2.679**
 
-16. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+17. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
     "Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale"  
     *Sensors*, vol.21, no.4, 1232, 2021 [**[paper]**](https://doi.org/10.3390/s21041232) **IF: 3.576**
 
-17. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+18. Antoine Chauvet, Yoshihiro Sugaya, <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
     "Optical Flow-Based Fast Motion Parameters Estimation for Affine Motion Compensation"  
     *Applied Sciences*, vol.10, no.2, 2020 [**[paper]**](https://doi.org/10.3390/app10020729) **IF: 2.679**
 
-18. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+19. Kazuya Ogasawara, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Object-Based Video Coding by Visual Saliency and Temporal Correlation"  
      *IEEE Transactions on Emerging Topics in Computing (TETC)*, Volume 8, Issue 1, pp.168-178, 2020 [**[paper]**](https://doi.org/10.1109/TETC.2017.2695640) **IF: 7.691**
 
-19. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
+20. <u>**Tomo Miyazaki**</u>, Tatsunori Tsuchiya, Yoshihiro Sugaya, Shinichiro Omachi, [Masakazu Iwamura](http://www.m.cs.osakafu-u.ac.jp/~masa/index-e_old.shtml), [Seiichi Uchida](http://human.ait.kyushu-u.ac.jp/~uchida/index-e.html), [Koichi Kise](http://www.m.cs.osakafu-u.ac.jp/~kise/index_e.html)  
      "Automatic Generation of Typographic Font from a Small Font Subset"  
      *IEEE Computer Graphics and Applications*, vol.40, issue 1, pp.99-111, 2020 [**[paper]**](https://doi.org/10.1109/MCG.2019.2931431) **IF: 2.088**
 
-20. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+21. Antoine Chauvet, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Fast Image Quality Enhancement for HEVC by Post Filtering using Shallow Neural Networks"  
      *IIEEJ Transactions on Image Electronics and Visual Computing*, vol.7, no.1, p.2-12, 2019 [**[paper]**](https://doi.org/10.11371/tievciieej.7.1_2)
 
-21. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
+22. Yoshito Nagaoka, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya,  Shinichiro Omachi  
      "Automatic Mackerel Sorting Machine using Global and Local Features"  
      *IEEE Access*, vol. 7, pp. 63767-63777, 2019 [**[paper]**](https://doi.org/10.1109/ACCESS.2019.2917554) [**[code]**](https://github.com/yoyoyo-yo/glcc-frcn.pytorch) **IF: 3.367**
 
-22. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+23. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
      "Structural Data Recognition with Graph Model Boosting"  
      *IEEE Access*, vol.6, pp.63606-63618, 2018 [**[paper]**](https://doi.org/10.1109/ACCESS.2018.2876860) **IF: 3.367**
 
-23. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+24. Shun Chiba, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Activity Recognition Using Gazed Text and Viewpoint Information for User Support Systems"  
      *Journal of Sensor and Actuator Networks*, Volume 7, Issue 3, p.31, 2018 [**[paper]**](https://doi.org/10.3390/jsan7030031)
 
-24. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+25. Airi Kitasato, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Automatic Discrimination between Scomber japonicus and Scomber australasicus by Geometric and Texture Features"  
      *Fishes*, Volume 3, Issue 3, p.26, 2018 [**[paper]**](https://doi.org/10.3390/fishes3030026) **IF: 2.385**
 
-25. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
+26. Yosuke Nozue, <u>**Tomo Miyazaki**</u>, Yoshihiro Sugaya, Shinichiro Omachi  
      "Efficient Coding for Video Including Text Using Image Generation"  
      *Journal of Information Processing*, vol.24, no.2, pp.330-338, 2016 [**[paper]**](https://doi.org/10.2197/ipsjjip.24.330)  
 
-26. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
+27. <u>**Tomo Miyazaki**</u>, Shinichiro Omachi  
      "Representative Graph Generation for Graph-Based Character Recognition"  
      *The Journal of the Institute of Image Electronics Engineers of Japan*, vol.40, no.3, pp.439-447, 2011 [**[paper]**](https://doi.org/10.11371/iieej.40.439)
 
