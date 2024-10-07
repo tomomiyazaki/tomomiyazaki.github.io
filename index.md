@@ -24,11 +24,9 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 # My Goals
 
-1. Respect everyone. Grades of jobs and place do not matter. [Ourself matter](https://www.churchofjesuschrist.org/study/general-conference/2011/10/you-matter-to-him?lang=eng&id=p31#p31).
-2. Work optimistically. Things will work out.
-3. Be patient. Don't become disappointed when things don't work out exactly as planned.
-4. Be persistent. Keep working even when things get difficult. Push through the tough time. 
-5. Refine myself. Stop comparing myself to others.
+1. Be a iron-willed person. I do my best to go through everything patiently.
+2. Do researches helpful to people. Make a difference in our lives.
+3. Respect everyone. Grades of jobs and place do not matter. [Ourself matter](https://www.churchofjesuschrist.org/study/general-conference/2011/10/you-matter-to-him?lang=eng&id=p31#p31).
 
 # Research
 
@@ -96,4 +94,9 @@ Previous:
 * [Grauman](http://www.cs.utexas.edu/~grauman/)
 * [Greg](http://www.cs.sfu.ca/~mori/)
 * [Alex burg](http://acberg.com/)
+
+2. Work optimistically. Things will work out.
+3. Be patient. Don't become disappointed when things don't work out exactly as planned.
+4. Be persistent. Keep working even when things get difficult. Push through the tough time. 
+5. Refine myself. Stop comparing myself to others.
 -->
