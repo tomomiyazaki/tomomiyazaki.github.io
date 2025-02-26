@@ -36,6 +36,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
+- [Texture and noise dual adaptation for infrared image super-resolution](https://doi.org/10.1016/j.patcog.2025.111449), *Pattern Recognition*, 2025
 - [Dual-Conditioned Training to Exploit Pre-Trained Codebook-Based Generative Model in Image Compression](https://doi.org/10.1109/ACCESS.2024.3522238), *IEEE Access*, 2024
 - [Semantically-Guided Image Compression for Enhanced Perceptual Quality at Extremely Low Bitrates](https://doi.org/10.1109/ACCESS.2024.3430322), *IEEE Access*, 2024
 - [Japanese Historical Character Recognition by Focusing on Character Parts](https://doi.org/10.1016/j.patcog.2023.110181), *Pattern Recognition*, 2024
