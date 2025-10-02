@@ -36,6 +36,8 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
+- [Infrared Image Super-Resolution: A Systematic Review and Future Trends](https://doi.org/10.1109/JSTARS.2025.3614673), *IEEE JSTARS*, 2025
+- [IRSRMamba: Infrared Image Super-Resolution via Mamba-Based Wavelet Transform Feature Modulation Model](https://doi.org/10.1109/TGRS.2025.3584385), *IEEE TGRS*, 2025
 - [Texture and noise dual adaptation for infrared image super-resolution](https://doi.org/10.1016/j.patcog.2025.111449), *Pattern Recognition*, 2025
 - [Dual-Conditioned Training to Exploit Pre-Trained Codebook-Based Generative Model in Image Compression](https://doi.org/10.1109/ACCESS.2024.3522238), *IEEE Access*, 2024
 - [Semantically-Guided Image Compression for Enhanced Perceptual Quality at Extremely Low Bitrates](https://doi.org/10.1109/ACCESS.2024.3430322), *IEEE Access*, 2024
@@ -57,23 +59,20 @@ Also structural data, such as chemical compounds, is my research target.
 
 Current:
 
-- 大阪府立大学 文書解析・知識科学研究所 客員研究員 (Visiting Researcher at Institute of Document Analysis and Knowledge Science, IDAKS) 2018.4- [**[URL]**](https://www.osakafu-u.ac.jp/academics/orp/21c/idaks/)
-- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2025
-  [**[Letter]**](./imgs/Letter_IE.pdf)
-  [**[URL]**](https://www.ieice.org/iss/ie/jpn/)
-- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP),
-  [**[2023]**](https://blog.sbb.berlin/hip2023/#people) [**[2021]**](https://blog.sbb.berlin/hip2021/#people) [**[2019]**](https://www.primaresearch.org/hip2019/people) [**[2017]**](http://events.unifr.ch/hip2017/people/) [**[2015]**](http://hip2015.irisa.fr/people/)
+- 大阪公立大学 文書解析・知識科学研究所 客員研究員 (Visiting Researcher at Institute of Document Analysis and Knowledge Science, IDAKS) 2018.4- [**[URL]**](https://www.omu.ac.jp/orp/org/crc/idaks/)
+- 電子情報通信学会 東北支部 庶務幹事 2025/06 - 2027/06
+- IEEE SPS Sendai Chapter Treasurer, 2024/6-
 
 Previous:
 
+- 専門委員，電子情報通信学会 画像工学研究会（IE）, 2019-2025
+  [**[Letter]**](./imgs/Letter_IE.pdf) [**[URL]**](https://www.ieice.org/iss/ie/jpn/)
+- Program Committee Member, International Workshop on Historical Document Imaging and Processing (HIP),
+  [**[2023]**](https://blog.sbb.berlin/hip2023/#people) [**[2021]**](https://blog.sbb.berlin/hip2021/#people) [**[2019]**](https://www.primaresearch.org/hip2019/people) [**[2017]**](http://events.unifr.ch/hip2017/people/) [**[2015]**](http://hip2015.irisa.fr/people/)
 - IJCAI-PRICAI PC Member [**[2021]**](https://ijcai-21.org/program-committee-members/) [**[2020]**](https://ijcai20.org/pc_members/)
 - PC Member ICDAR, 2021
 - MIRU2020 組織 副委員長 [**[URL]**](https://sites.google.com/view/miru2020/%E3%83%9B%E3%83%BC%E3%83%A0/%E5%A7%94%E5%93%A1?authuser=0)
-- 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021
-  [**[Letter]**](./imgs/Letter_PRMU.pdf)
-  [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html)
-  [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/)
-  [**[アルコン2019]**](https://sites.google.com/view/alcon2019)
+- 専門委員, 電子情報通信学会 パターン認識・メディア理解研究専門委員会（PRMU), 2015-2021 [**[Letter]**](./imgs/Letter_PRMU.pdf) [**[URL]**](http://www.ieice.org/iss/prmu/jpn/yakuin.html) [**[アルコン2017]**](https://sites.google.com/view/alcon2017prmu/) [**[アルコン2019]**](https://sites.google.com/view/alcon2019)
 - Program Committee Member, The 16th International Conference on
   Frontiers in Handwriting Recognition (ICFHR), 2018 [**[URL]**](http://icfhr2018.org/organization.html)
 - Publicity Chairs, The International Conference on Document Analysis and Recognition (ICDAR), 2017 [**[URL]**](http://u-pat.org/ICDAR2017/info_people.php)
