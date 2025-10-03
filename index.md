@@ -24,9 +24,9 @@ Lab Website: [Laboratory for Image Information Communications (In Japanese)](htt
 
 # My Goals
 
-1. Be a iron-willed person. I do my best to go through everything patiently.
-2. Do researches helpful to people. Make a difference in our lives.
-3. Respect everyone. Grades of jobs and place do not matter. [Ourself matter](https://www.churchofjesuschrist.org/study/general-conference/2011/10/you-matter-to-him?lang=eng&id=p31#p31).
+1. Be dilligent. I do my best to go through everything patiently.
+2. Be creative. Make a difference in our lives.
+3. Be respectful. Grades of jobs and place do not matter. [Ourself matter](https://www.churchofjesuschrist.org/study/general-conference/2011/10/you-matter-to-him?lang=eng&id=p31#p31).
 
 # Research
 
