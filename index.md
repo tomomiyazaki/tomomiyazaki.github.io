@@ -6,6 +6,7 @@ I am an Associate Professor at Department of Communication Engineering at Tohoku
 
 <a href="https://researchmap.jp/tomo_miyazaki"><img src="./imgs/researchmap.gif"></a>
 <a href="https://nrid.nii.ac.jp/nrid/1000010755101/"><img src="./imgs/whiteKAKENHIlogoS_jp.jpg" height=40></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=35366744400"><img src="./imgs/Scopus_logo.png" height=40></a>
 
 <a href="https://scholar.google.co.jp/citations?user=Utjz8l8AAAAJ&hl=ja"><img src="./imgs/google_96px.png" height=70></a>
 <a href="https://orcid.org/0000-0001-5205-0542"><img src="./imgs/ORCIDiD_icon64x64.png" height=70></a>
@@ -36,6 +37,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
+- [Generative Image Compression by Prediction of Optimal Realism Levels](https://doi.org/10.1016/j.patcog.2025.112550), *Pattern Recognition*, 2025
 - [Infrared Image Super-Resolution: A Systematic Review and Future Trends](https://doi.org/10.1109/JSTARS.2025.3614673), *IEEE JSTARS*, 2025
 - [IRSRMamba: Infrared Image Super-Resolution via Mamba-Based Wavelet Transform Feature Modulation Model](https://doi.org/10.1109/TGRS.2025.3584385), *IEEE TGRS*, 2025
 - [Texture and noise dual adaptation for infrared image super-resolution](https://doi.org/10.1016/j.patcog.2025.111449), *Pattern Recognition*, 2025
