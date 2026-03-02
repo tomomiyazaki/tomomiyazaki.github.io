@@ -37,6 +37,8 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
+- [Vision Meets Constraints: Correcting Stray Trajectory by Utilizing Road Constraints](https://doi.org/10.1109/TVT.2026.3653691), *IEEE TVT*, 2026
+- [Multi-masking strategies for self-supervised Low- and High-level text representation learning](https://doi.org/10.1016/j.patcog.2026.113273), *Pattern Recognition*, 2026
 - [Generative Image Compression by Prediction of Optimal Realism Levels](https://doi.org/10.1016/j.patcog.2025.112550), *Pattern Recognition*, 2025
 - [Infrared Image Super-Resolution: A Systematic Review and Future Trends](https://doi.org/10.1109/JSTARS.2025.3614673), *IEEE JSTARS*, 2025
 - [IRSRMamba: Infrared Image Super-Resolution via Mamba-Based Wavelet Transform Feature Modulation Model](https://doi.org/10.1109/TGRS.2025.3584385), *IEEE TGRS*, 2025
