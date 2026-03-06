@@ -37,6 +37,7 @@ Also structural data, such as chemical compounds, is my research target.
 
 # Publications
 
+- [LITE: Local Isometry-invariant Topology Encoding for Efficient 3D Sensing with 4D Radar Point Clouds](https://doi.org/10.1109/TIM.2026.3670542), *IEEE TIM*, 2026
 - [Vision Meets Constraints: Correcting Stray Trajectory by Utilizing Road Constraints](https://doi.org/10.1109/TVT.2026.3653691), *IEEE TVT*, 2026
 - [Multi-masking strategies for self-supervised Low- and High-level text representation learning](https://doi.org/10.1016/j.patcog.2026.113273), *Pattern Recognition*, 2026
 - [Generative Image Compression by Prediction of Optimal Realism Levels](https://doi.org/10.1016/j.patcog.2025.112550), *Pattern Recognition*, 2025
